@@ -1,0 +1,2151 @@
+[
+  {
+    "uniqueName": "/Lotus/Types/Game/CatbrowPet/MirrorCatbrowPetPowerSuit",
+    "name": "Adarza Kavat",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "adarza_kavat_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "name": "Adlet Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyA",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "adlet_core_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBAlloyBItem",
+        "name": "Coprite Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 1500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
+        "name": "Spectral Debris",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyA"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Adra Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenA",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
+        "name": "Ferment Bladder",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
+        "name": "Sporulate Sac",
+        "itemCount": 12,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenA"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Aegron Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadAegron",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadAegronBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadAegron"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadAegron"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "itemCount": 5,
+        "wfm_item_url": "heart_noctrul",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadAegron"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+        "name": "Thermal Sludge",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadAegron"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Alcrom Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineArcotek",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineArcotek"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineArcotekBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineArcotek"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineArcotek"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+        "name": "Smooth Phasmin",
+        "itemCount": 15,
+        "wfm_item_url": "smooth_phasmin",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineArcotek"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineArcotek"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Arioli Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenC",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
+        "name": "Spinal Core Section",
+        "itemCount": 8,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
+        "name": "Tubercular Gill System",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenC"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Atheca Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadThermocor",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadThermocorBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadThermocor"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
+        "name": "Star Amarast",
+        "itemCount": 5,
+        "wfm_item_url": "star_amarast",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadThermocor"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
+        "name": "Tepa Nodule",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadThermocor"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEntroplasmaItem",
+        "name": "Tromyzon Entroplasma",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadThermocor"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Bhaira Hound",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadB",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartHeadBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "bhaira_hound_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
+        "name": "Eye-Eye Rotoblade",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBCutItem",
+        "name": "Marquise Thyst",
+        "itemCount": 2,
+        "wfm_item_url": "marquise_thyst",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
+        "name": "Spectral Debris",
+        "itemCount": 5
+      }
+    ],
+    "type": "Pets",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Cela Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsA",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "cela_bracket_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
+        "name": "Iradite",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem",
+        "name": "Sola Toroid",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "itemCount": 35,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsA"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/RetrieverKubrowPetPowerSuit",
+    "name": "Chesa Kubrow",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "chesa_kubrow_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "name": "Chiten Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenB",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
+        "name": "Biotic Filter",
+        "itemCount": 12,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
+        "name": "Ferment Bladder",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenB"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/HornedInfestedCatbrowPetPowerSuit",
+    "name": "Crescent Vulpaphyla",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "crescent_vulpaphyla_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "name": "Desus Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenB",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterAntigenBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
+        "name": "Dendrite Blastoma",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenB"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Dorma Hound",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadA",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartHeadABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "dorma_hound_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
+        "name": "Mirewinder Parallel Biode",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemACutAItem",
+        "name": "Radian Sentirum",
+        "itemCount": 2,
+        "wfm_item_url": "radian_sentirum",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
+        "name": "Spectral Debris",
+        "itemCount": 5
+      }
+    ],
+    "type": "Pets",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Drex Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineThricore",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineThricore"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineThricoreBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineThricore"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineThricore"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+        "name": "Smooth Phasmin",
+        "itemCount": 15,
+        "wfm_item_url": "smooth_phasmin",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineThricore"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineThricore"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Drimper Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegA",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+        "name": "Mytocardia Spore",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+        "name": "Thermal Sludge",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegA"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Elasmun Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenA",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorAntigenABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
+        "name": "Pustulent Cognitive Nodule",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenA"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Elsa Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenB",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
+        "name": "Biotic Filter",
+        "itemCount": 12,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
+        "name": "Ferment Bladder",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenB"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Frak Stabilizer",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailC",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartTailCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "frak_stabilizer_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
+        "name": "Hespazym Alloy",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailC"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Garmr Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyB",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "garmr_core_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
+        "name": "Devolved Namalon",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 1500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
+        "name": "Spectral Debris",
+        "itemCount": 5
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Gauth Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegD",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegDBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "itemCount": 20,
+        "wfm_item_url": "goblite_tears",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
+        "name": "Tepa Nodule",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
+        "name": "Tink Dissipator Coil",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegD"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Harpen Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadDarta",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadDartaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadDarta"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+        "name": "Mytocardia Spore",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadDarta"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+        "name": "Smooth Phasmin",
+        "itemCount": 5,
+        "wfm_item_url": "smooth_phasmin",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadDarta"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
+        "name": "Tink Dissipator Coil",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadDarta"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Hec Hound",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadC",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartHeadCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "hec_hound_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishVenedoCaseItem",
+        "name": "Sapcaddy Venedo Case",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
+        "name": "Spectral Debris",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem",
+        "name": "Trapezium Xenorhast",
+        "itemCount": 2,
+        "wfm_item_url": "trapezium_xenorhast",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartHeadC"
+      }
+    ],
+    "type": "Pets",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/ChargerKubrowPetPowerSuit",
+    "name": "Helminth Charger",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "helminth_charger_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "name": "Hextra Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadHextra",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadHextraBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadHextra"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
+        "name": "Eye-Eye Rotoblade",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadHextra"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "itemCount": 5,
+        "wfm_item_url": "goblite_tears",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadHextra"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
+        "name": "Gorgaricus Spore",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadHextra"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 1000
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Hinta Stabilizer",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailB",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
+        "name": "Auroxium Alloy",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartTailBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailB"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "wfm_item_url": "hinta_stabilizer",
+    "tradable": true,
+    "trading_tax": 2000,
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Hona Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegMelee",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegMeleeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegMelee"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegMelee"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "itemCount": 20,
+        "wfm_item_url": "goblite_tears",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegMelee"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+        "name": "Mytocardia Spore",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegMelee"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegMelee"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/FurtiveKubrowPetPowerSuit",
+    "name": "Huras Kubrow",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "huras_kubrow_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "name": "Ibexan Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenC",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorAntigenCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
+        "name": "Saturated Muscle Mass",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenC"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Iranon Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenB",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorAntigenBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem",
+        "name": "Dendrite Blastoma",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenB"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Jonsin Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegC",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "itemCount": 20,
+        "wfm_item_url": "heart_noctrul",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
+        "name": "Tepa Nodule",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegC"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Krisys Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineKrisys",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineKrisys"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineKrisysBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineKrisys"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineKrisys"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "itemCount": 15,
+        "wfm_item_url": "heart_noctrul",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineKrisys"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetEngineKrisys"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Lambeo Moa",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadLambeo",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadLambeoBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadLambeo"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
+        "name": "Gorgaricus Spore",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadLambeo"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "itemCount": 10,
+        "wfm_item_url": "heart_noctrul",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadLambeo"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadLambeo"
+      }
+    ],
+    "type": "Pets",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Lehan Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetEngine",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetEngineMeleeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetEngine"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
+        "name": "Eye-Eye Rotoblade",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetEngine"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
+        "name": "Hespazym Alloy",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetEngine"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
+        "name": "Star Amarast",
+        "itemCount": 5,
+        "wfm_item_url": "star_amarast",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetEngine"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetEngine"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Leptosam Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenA",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericInfestedFishPartItem",
+        "name": "Ferment Bladder",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishEPartItem",
+        "name": "Sporulate Sac",
+        "itemCount": 12,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenA"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/MedjayPredatorKubrowPetPowerSuit",
+    "name": "Medjay Predasite",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "medjay_predasite_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "name": "Monachod Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenD",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorMutagenDBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
+        "name": "Cranial Foremount",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
+        "name": "Tubercular Gill System",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorMutagenD"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Munit Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadMunitron",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadMunitronBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadMunitron"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "itemCount": 5,
+        "wfm_item_url": "heart_noctrul",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadMunitron"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+        "name": "Mytocardia Spore",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadMunitron"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishExaBrainItem",
+        "name": "Scrubber Exa Brain",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadMunitron"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Nychus Moa",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadMelee",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadMeleeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadMelee"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "itemCount": 10,
+        "wfm_item_url": "goblite_tears",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadMelee"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
+        "name": "Gorgaricus Spore",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadMelee"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadMelee"
+      }
+    ],
+    "type": "Pets",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Oloro Moa",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadOloro",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadOloroBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadOloro"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "itemCount": 10,
+        "wfm_item_url": "goblite_tears",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadOloro"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+        "name": "Thermal Sludge",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadOloro"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadOloro"
+      }
+    ],
+    "type": "Pets",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/ArmoredInfestedCatbrowPetPowerSuit",
+    "name": "Panzer Vulpaphyla",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "panzer_vulpaphyla_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "name": "Para Moa",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadPara",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadPara"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetHeadParaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadPara"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+        "name": "Mytocardia Spore",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadPara"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+        "name": "Smooth Phasmin",
+        "itemCount": 10,
+        "wfm_item_url": "smooth_phasmin",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadPara"
+      }
+    ],
+    "type": "Pets",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/PharaohPredatorKubrowPetPowerSuit",
+    "name": "Pharaoh Predasite",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "pharaoh_predasite_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "name": "Phazor Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadTazron",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadTazronBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadTazron"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "itemCount": 5,
+        "wfm_item_url": "goblite_tears",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadTazron"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
+        "name": "Gorgaricus Spore",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadTazron"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishVenedoCaseItem",
+        "name": "Sapcaddy Venedo Case",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadTazron"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Phijar Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenD",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenDBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
+        "name": "Cranial Foremount",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
+        "name": "Tubercular Gill System",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenD"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Plagen Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenC",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterAntigenCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishCPartItem",
+        "name": "Saturated Muscle Mass",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenC"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Poxi Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenD",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterAntigenDBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
+        "name": "Waxen Sebum Deposit",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenD"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Raiju Core",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyC",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
+        "name": "Adramal Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "raiju_core_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
+        "name": "Fersteel Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 1500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
+        "name": "Spectral Debris",
+        "itemCount": 5
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/GuardKubrowPetPowerSuit",
+    "name": "Raksa Kubrow",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "raksa_kubrow_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit",
+    "name": "Sahasa Kubrow",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "sahasa_kubrow_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/VulpineInfestedCatbrowPetPowerSuit",
+    "name": "Sly Vulpaphyla",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "sly_vulpaphyla_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
+    "name": "Smeeta Kavat",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "smeeta_kavat_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/KubrowPet/HunterKubrowPetPowerSuit",
+    "name": "Sunika Kubrow",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "sunika_kubrow_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "name": "Tethron Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenD",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedPredatorAntigenDBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenD"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishDPartItem",
+        "name": "Waxen Sebum Deposit",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedPredatorAntigenD"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Tian Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegB",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetLegBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
+        "name": "Echowinder Anoscopic Sensor",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+        "name": "Smooth Phasmin",
+        "itemCount": 20,
+        "wfm_item_url": "smooth_phasmin",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
+        "name": "Tepa Nodule",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetLegB"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Trux Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadCryoxion",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadCryoxionBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadCryoxion"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishAnoscopicSensorItem",
+        "name": "Echowinder Anoscopic Sensor",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadCryoxion"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "itemCount": 5,
+        "wfm_item_url": "heart_noctrul",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadCryoxion"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+        "name": "Thermal Sludge",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetPayloadCryoxion"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Tyli Gyro",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetPayload",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/MoaPetParts/MoaPetPayloadMeleeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetPayload"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishParralelBiodeItem",
+        "name": "Mirewinder Parallel Biode",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetPayload"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+        "name": "Oxium",
+        "itemCount": 1200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
+        "name": "Star Amarast",
+        "itemCount": 5,
+        "wfm_item_url": "star_amarast",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetPayload"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+        "name": "Thermal Sludge",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MeleeMoaPetPayload"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Urga Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsB",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "urga_bracket_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
+        "name": "Calda Toroid",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
+        "name": "Pyrotic Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+        "name": "Thermal Sludge",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsB"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/CatbrowPet/VampireCatbrowPetPowerSuit",
+    "name": "Vasca Kavat",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "vasca_kavat_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Khora/Kavat/KhoraKavatPowerSuit",
+    "name": "Venari",
+    "type": "Warframe",
+    "category": "Pets"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Khora/Kavat/KhoraPrimeKavatPowerSuit",
+    "name": "Venari Prime",
+    "type": "Warframe",
+    "category": "Pets"
+  },
+  {
+    "name": "Virox Antigen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenA",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericSharedFishPartItem",
+        "name": "Benign Infested Tumor",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterAntigenABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+        "name": "Ganglion",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishAPartItem",
+        "name": "Pustulent Cognitive Nodule",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterAntigenA"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/VizierPredatorKubrowPetPowerSuit",
+    "name": "Vizier Predasite",
+    "type": "Pets",
+    "category": "Pets",
+    "wfm_item_url": "vizier_predasite_imprint",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "name": "Wanz Stabilizer",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailA",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartTailABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "wanz_stabilizer_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailA"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem",
+        "name": "Thaumic Distillate",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailA"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Zarim Mutagen",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenC",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Pets/InfestedCritterMutagenCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+        "name": "Pustulite",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
+        "name": "Spinal Core Section",
+        "itemCount": 8,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosGenericOrokinFishPartItem",
+        "name": "Tubercular Gill System",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/CreaturePets/CreaturePetParts/Deimos/InfestedCritterMutagenC"
+      }
+    ],
+    "type": "Pet Parts",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  },
+  {
+    "name": "Zubb Bracket",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsC",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+        "name": "Axidrol Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "zubb_bracket_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
+        "name": "Brickie Muon Battery",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",
+        "name": "Vega Toroid",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsC"
+      }
+    ],
+    "type": "Pet Resource",
+    "category": "Pets",
+    "disposition_rank": 3,
+    "disposition": 1
+  }
+]

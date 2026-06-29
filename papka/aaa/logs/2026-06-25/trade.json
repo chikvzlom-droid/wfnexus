@@ -1,0 +1,44 @@
+{
+  "credits": 0,
+  "logs": [
+    "3149.620 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:",
+    "\rDestreza Insi-plecius (RIVEN RANK 0)\r",
+    "\r",
+    "and will receive from aalliiaanncee the following:",
+    "\rPlatinum x 200, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=",
+    "/Menu/Confirm_Item_Cancel)"
+  ],
+  "offeredItems": [
+    {
+      "item_type": "RivenUnVeiled",
+      "quantity": 1,
+      "raw": "destreza",
+      "sub_type": {
+        "rank": 0
+      },
+      "unique_name": "Insi-plecius"
+    }
+  ],
+  "platinum": 200,
+  "playerName": "aalliiaanncee",
+  "receivedItems": [
+    {
+      "item_type": "Platinum",
+      "quantity": 200,
+      "raw": "Platinum",
+      "unique_name": ""
+    },
+    {
+      "error": [
+        "Item not found",
+        null
+      ],
+      "item_type": "Unknown",
+      "quantity": 1,
+      "raw": "/Menu/Confirm_Item_Cancel)",
+      "unique_name": ""
+    }
+  ],
+  "tradeTime": "2026-06-25T15:10:06.499784300Z",
+  "type": "sale"
+}

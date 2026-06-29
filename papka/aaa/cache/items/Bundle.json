@@ -1,0 +1,210 @@
+[
+  {
+    "name": "Hexis Armor Set",
+    "components": [
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackAH"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackAH"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackAH"
+      }
+    ],
+    "uniqueName": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackAH",
+    "type": "Misc",
+    "category": "Bundle",
+    "wfm_item_url": "hexis_armor_set",
+    "tradable": true,
+    "trading_tax": null
+  },
+  {
+    "name": "Lokan Armor Set",
+    "components": [
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackNL"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackNL"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackNL"
+      }
+    ],
+    "uniqueName": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackNL",
+    "type": "Misc",
+    "category": "Bundle",
+    "wfm_item_url": "lokan_armor_set",
+    "tradable": true,
+    "trading_tax": null
+  },
+  {
+    "name": "Meridian Armor Set",
+    "components": [
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackSM"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackSM"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackSM"
+      }
+    ],
+    "uniqueName": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackSM",
+    "type": "Misc",
+    "category": "Bundle",
+    "wfm_item_url": "meridian_armor_set",
+    "tradable": true,
+    "trading_tax": null
+  },
+  {
+    "name": "Ostron Armor Set",
+    "components": [
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackOstron"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackOstron"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackOstron"
+      }
+    ],
+    "uniqueName": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackOstron",
+    "type": "Misc",
+    "category": "Bundle",
+    "wfm_item_url": "ostron_armor_set",
+    "tradable": true,
+    "trading_tax": null
+  },
+  {
+    "name": "Perrin Armor Set",
+    "components": [
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackPS"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackPS"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackPS"
+      }
+    ],
+    "uniqueName": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackPS",
+    "type": "Misc",
+    "category": "Bundle",
+    "wfm_item_url": "perrin_armor_set",
+    "tradable": true,
+    "trading_tax": null
+  },
+  {
+    "name": "Red Veil Armor Set",
+    "components": [
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackRV"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackRV"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackRV"
+      }
+    ],
+    "uniqueName": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackRV",
+    "type": "Misc",
+    "category": "Bundle",
+    "wfm_item_url": "red_veil_armor_set",
+    "tradable": true,
+    "trading_tax": null
+  },
+  {
+    "name": "Solaris Armor Set",
+    "components": [
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackSolaris"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackSolaris"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackSolaris"
+      }
+    ],
+    "uniqueName": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackSolaris",
+    "type": "Misc",
+    "category": "Bundle",
+    "wfm_item_url": "solaris_armor_set",
+    "tradable": true,
+    "trading_tax": null
+  },
+  {
+    "name": "Suda Armor Set",
+    "components": [
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackCS"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackCS"
+      },
+      {
+        "wfm_item_url": "secura_dual_cestra",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackCS"
+      }
+    ],
+    "uniqueName": "/Lotus/Types/StoreItems/Packages/SyndicateArmorPackCS",
+    "type": "Misc",
+    "category": "Bundle",
+    "wfm_item_url": "suda_armor_set",
+    "tradable": true,
+    "trading_tax": null
+  }
+]

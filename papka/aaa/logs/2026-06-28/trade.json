@@ -1,0 +1,33 @@
+{
+  "credits": 0,
+  "logs": [
+    "14266.067 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:",
+    "\rPrimed Reach (LEGENDARY RANK 10)\r",
+    "\r",
+    "and will receive from EverythingPrime the following:",
+    "\rPlatinum x 99, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)"
+  ],
+  "offeredItems": [
+    {
+      "item_type": "Mod",
+      "quantity": 1,
+      "raw": "Primed Reach (LEGENDARY RANK 10)",
+      "sub_type": {
+        "rank": 10
+      },
+      "unique_name": "/Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeRangeIncModExpert"
+    }
+  ],
+  "platinum": 99,
+  "playerName": "EverythingPrime",
+  "receivedItems": [
+    {
+      "item_type": "Platinum",
+      "quantity": 99,
+      "raw": "Platinum",
+      "unique_name": ""
+    }
+  ],
+  "tradeTime": "2026-06-28T11:42:47.606904200Z",
+  "type": "sale"
+}

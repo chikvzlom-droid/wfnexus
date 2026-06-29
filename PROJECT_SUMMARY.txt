@@ -1,0 +1,242 @@
+WARFRAME NEXUS — PROJECT SUMMARY
+==================================
+Дата: 2026-06-29
+
+----------------------------------------------------------------------
+1. ОПИСАНИЕ
+----------------------------------------------------------------------
+Warframe Nexus — десктоп-приложение (Tauri + React + FastAPI) для анализа
+рынка Warframe Market, управления инвентарём и автоматизации торговли.
+
+----------------------------------------------------------------------
+2. ТЕХНОЛОГИЧЕСКИЙ СТЕК
+----------------------------------------------------------------------
+Frontend:   React 19, TypeScript, Tailwind CSS, Vite, Recharts, Zustand,
+            React Router v7, Lucide icons
+Backend:    Python 3.12+, FastAPI, SQLAlchemy (async), Pydantic, httpx,
+            NumPy, structlog
+Desktop:    Tauri v2 (@tauri-apps/api)
+Database:   SQLite (через SQLAlchemy async)
+Testing:    pytest, respx (HTTP mocking), anyio
+Auth:       JWT (Warframe Market) через Cookie, локальное хранение
+
+Установленные OpenCode Skills:
+  - vercel-react-best-practices (React)
+  - tailwind-design-system (Tailwind CSS)
+  - fastapi-templates (FastAPI)
+  - typescript-advanced-types (TypeScript)
+  - tauri-v2 (Tauri)
+  - python-testing (pytest)
+  - find-skills (поиск skills)
+
+----------------------------------------------------------------------
+3. СТРУКТУРА ПРОЕКТА
+----------------------------------------------------------------------
+warframe-nexus/
+  backend/                         # FastAPI сервер
+    app/
+      core/                        # Ядро
+        config.py                  # Настройки (env vars)
+        database.py                # SQLAlchemy engine + session
+        scheduler.py               # Фоновые задачи (сбор данных)
+        security.py                # JWT загрузка
+        notifications.py           # Telegram / Discord / ntfy
+      market/                      # WFM интеграция
+        api.py                     # REST endpoints (/api/v1/market/*)
+        models.py                  # SQLAlchemy модели
+        schemas.py                 # Pydantic схемы
+        client.py                  # WFM HTTP клиент + rate limiter
+        collector.py               # Синк каталога предметов
+        oracle.py                  # Price Oracle (оценка цены)
+      trading/                     # Торговля
+        api.py                     # CRUD ордеров и транзакций
+        models.py                  # Модели TradeOrder, Transaction
+        schemas.py                 # Схемы
+    tests/                         # Тесты (pytest)
+  frontend/                        # React SPA
+    src/
+      components/                  # UI компоненты
+        PriceAnalyticsChart.tsx     # OHLCV график (Recharts)
+      lib/
+        api.ts                     # HTTP клиент (все endpoints)
+        i18n.ts                    # EN/RU локализация
+      pages/
+        MarketAnalyticsPage.tsx     # Аналитика рынка (таблица + фильтры)
+        ItemDetailPage.tsx          # Детальная страница предмета
+        TradingPage.tsx             # Торговля
+        TransactionsPage.tsx        # История транзакций
+        WatchlistPage.tsx           # Watchlist
+        SettingsPage.tsx            # Настройки
+      stores/
+        useLangStore.ts             # Zustand store (язык)
+  .agents/skills/                  # OpenCode skills
+  papka/                           # Референсы (Quantframe)
+
+----------------------------------------------------------------------
+4. ОСНОВНЫЕ ФУНКЦИИ
+----------------------------------------------------------------------
+
+4.1. СБОР ДАННЫХ (Scheduler)
+-----------------------------
+- Полный синк каталога: каждые 6 часов, все ~1000 предметов
+- Watchlist синк: каждые 30 минут, только избранные предметы
+- Проверка алертов: каждые 5 минут (сравнение текущей цены с target_price)
+- Rate limiter: 2 req/s, burst 5 — соответствует лимитам WFM
+- Стартап: полный синк только при пустой БД (не ждать при рестарте)
+- SMA(12): скользящая средняя closed_price за последние 12 снапшотов
+
+4.2. АНАЛИТИКА РЫНКА (/analytics)
+----------------------------------
+- Таблица всех предметов с пагинацией (25/page)
+- Колонки: volume, min/max/open/close/avg/wa/median/moving_avg/SMA,
+  donch_top/donch_bot, supply, demand, trading_tax, sample_size
+- Серверная сортировка по любой колонке
+- Фильтры: поиск по имени, теги (mod/prime/set/riven/etc.),
+  MinMax диапазоны (volume, supply, demand, min_price, max_price),
+  даты (from/to)
+- LEFT JOIN → показываются все предметы каталога, даже без данных
+- OHLCV график (Recharts) per row с toggle
+- Live Analytics: запрос WFM на лету для предметов без снапшотов
+
+4.3. PRICE ORACLE
+------------------
+- Стратегии: median, mean, volume_weighted, time_decay, dynamic
+- Анализ ордеров: цены, объёмы, доверительный интервал
+- Distribution histogram (распределение цен продажи)
+
+4.4. WATCHLIST
+---------------
+- Добавление/удаление предметов в избранное
+- Установка target_price + направление (above/below)
+- Уведомления: Telegram, Discord (webhook), ntfy
+
+4.5. ТОРГОВЛЯ (Trading)
+------------------------
+- CRUD ордеров (синк с WFM через JWT)
+- CRUD транзакций (учёт продаж/покупок)
+- Dashboard: статистика (total profit, today, best seller, daily graph)
+- Trade Entries: группировка, генерация сообщений для WFM
+
+4.6. UI/UX
+-----------
+- Адаптивный дизайн, тёмная тема (Tailwind)
+- Дата-фильтры с валидацией (max 90 дней)
+- Статус-бар синка (прогресс, done/total, таймстемпы, ошибки)
+- EN/RU локализация (i18n)
+- Навигация: sidebar (Dashboard, Market, Watchlist, Trading, Settings)
+
+----------------------------------------------------------------------
+5. API ENDPOINTS (полный список)
+----------------------------------------------------------------------
+GET     /api/v1/health
+GET     /api/v1/auth/jwt
+POST    /api/v1/auth/jwt
+
+GET     /api/v1/market/items
+GET     /api/v1/market/items/{slug}
+GET     /api/v1/market/items/{slug}/orders
+GET     /api/v1/market/items/{slug}/oracle
+GET     /api/v1/market/items/{slug}/orders/distribution
+GET     /api/v1/market/items/{slug}/history
+GET     /api/v1/market/items/{slug}/live-analytics
+GET     /api/v1/market/analytics
+POST    /api/v1/market/sync
+POST    /api/v1/market/sync-all-prices
+GET     /api/v1/market/sync-status
+GET     /api/v1/market/watchlist
+POST    /api/v1/market/watchlist
+DELETE  /api/v1/market/watchlist/{id}
+POST    /api/v1/market/test-notify
+
+GET     /api/v1/trading/orders
+POST    /api/v1/trading/orders
+DELETE  /api/v1/trading/orders/{id}
+POST    /api/v1/trading/sync
+GET     /api/v1/trading/transactions
+POST    /api/v1/trading/transactions
+PUT     /api/v1/trading/transactions/{id}
+DELETE  /api/v1/trading/transactions/{id}
+GET     /api/v1/trading/transactions/report
+GET     /api/v1/trading/dashboard
+POST    /api/v1/trading/process
+GET     /api/v1/trading/trade-entries
+POST    /api/v1/trading/trade-entries
+PUT     /api/v1/trading/trade-entries/{id}
+DELETE  /api/v1/trading/trade-entries/{id}
+POST    /api/v1/trading/trade-entries/generate-message
+
+GET     /api/v1/settings/notifications
+PUT     /api/v1/settings/notifications
+POST    /api/v1/settings/notifications/test
+GET     /api/v1/settings/collector
+
+----------------------------------------------------------------------
+6. БАЗА ДАННЫХ (SQLAlchemy модели)
+----------------------------------------------------------------------
+items             — Каталог предметов WFM (id, name, slug, category, etc.)
+price_snapshots   — Снапшоты цен (volume, min/max/open/close/avg/wa,
+                    median, moving_avg, donch_top/bot, supply, demand,
+                    trading_tax, sample_size, oracle_price)
+watchlist_items   — Избранное (item_id, target_price, direction, notify)
+trade_orders      — Ордера на продажу/покупку
+trade_transactions— История транзакций (продажи/покупки)
+trade_entries     — Группировка для WFM сообщений
+
+----------------------------------------------------------------------
+7. ТЕСТИРОВАНИЕ
+----------------------------------------------------------------------
+29 тестов (pytest), все проходят:
+  - test_api.py           # API endpoints (8 тестов)
+  - test_oracle.py        # Price Oracle (8 тестов)
+  - test_rate_limiter.py  # Rate limiter (3 теста)
+  - test_trading.py       # Trading CRUD (10 тестов)
+Запуск: python -m pytest backend/tests/ -v
+
+----------------------------------------------------------------------
+8. РАЗВЁРТЫВАНИЕ
+----------------------------------------------------------------------
+Backend:  cd backend && uvicorn app.main:app --reload --port 8000
+Frontend: cd frontend && npm run dev
+Tauri:    cd frontend && npm run tauri dev
+
+Переменные окружения (.env в backend/):
+  DATABASE_URL=sqlite+aiosqlite:///./warframe-nexus.db
+  WF_MARKET_BASE_URL=https://api.warframe.market/v2
+  TELEGRAM_BOT_TOKEN=...
+  TELEGRAM_CHAT_ID=...
+  DISCORD_WEBHOOK_URL=...
+  NTFY_TOPIC=...
+
+----------------------------------------------------------------------
+9. ОГРАНИЧЕНИЯ & ЗАМЕТКИ
+----------------------------------------------------------------------
+- Полный синк ~1000 предметов: ~8-10 минут (0.5s/item + rate limiter)
+- Watchlist данные обновляются каждые 30 мин, остальные — каждые 6ч
+- Для наполнения всех предметов данными: нажать "Fetch from WFM"
+  или дождаться полного синка
+- Rate limiter WFM: 2 req/s, burst 5 (строго соблюдается)
+- JWT токен WFM хранится локально (не в репозитории)
+- "snapshot": false в git config (отключено для скорости, не влияет на БД)
+
+----------------------------------------------------------------------
+10. ИСТОРИЯ ИЗМЕНЕНИЙ (текущая сессия)
+----------------------------------------------------------------------
+2026-06-29:
+  - Исправлен SMA(12) в scheduler: real mean closed_price, не passthrough
+  - Добавлены поля open/close/wa/ma/donch/volume/supply/demand в
+    PriceHistoryPoint + API /items/{slug}/history
+  - LEFT JOIN Item → PriceSnapshot в /analytics (все предметы)
+  - Создан PriceAnalyticsChart.tsx (OHLCV, Volume, Donch)
+  - /items/{slug}/live-analytics: запрос WFM на лету
+  - Переписана MarketAnalyticsPage: пагинация, фильтры, Chart toggle
+  - MinMax фильтры (volume/supply/demand/min_price/max_price)
+  - Серверная сортировка по всем колонкам
+  - Колонка trading_tax
+  - Sync status bar (прогресс, done/total, таймстемпы)
+  - Стартап-синк только при пустой БД
+  - Quantframe референсы проанализированы
+  - 7 OpenCode skills установлено
+  - Исправлена авторизация WFM: Cookie → Authorization: JWT
+  - get_my_profile: устойчивость к разным форматам ответа
+  - TransactionsPage: кнопка "Use" для live price
+  - Полный синк при старте только если БД пуста

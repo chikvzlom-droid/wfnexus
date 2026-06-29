@@ -1,0 +1,2734 @@
+[
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagQuincy",
+    "name": "35mm Film",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
+    "name": "Adramal Alloy",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAItem",
+        "name": "Adramalium",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Prospecting/DeimosCommonOreAAlloyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem",
+        "name": "Lucent Teroglobe",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+        "name": "Travoride",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAItem",
+    "name": "Adramalium",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Solaris/DebtTokenD",
+    "name": "Advances Debt-Bond",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriRockItem",
+    "name": "Aggristone",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCommonItem",
+    "name": "Agnovidisc",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemAItem",
+    "name": "Amarast",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Events/AmbulasDataFragment",
+    "name": "Animo Nav Beacon",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagUncommon",
+    "name": "Argon Burger Meal",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveBossResourcePrimesItem",
+    "name": "Ascaris Prime",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/AsteriteRailjackItem",
+    "name": "Asterite",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetBItem",
+    "name": "Atmo Systems",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Shadowgrapher/Resources/ShadowgrapherResource",
+    "name": "Atramentum",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem",
+    "name": "Aucrux Capacitors",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/AucruxBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 350
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyFragment",
+        "name": "Fieldron Sample",
+        "itemCount": 300,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/AucruxRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 5500
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAItem",
+    "name": "Auron",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
+    "name": "Axidite",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
+    "name": "Axidrol Alloy",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBItem",
+        "name": "Axidite",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreBAlloyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 500,
+        "part_of_set": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 100
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemAItem",
+    "name": "Azurite",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBItem",
+    "name": "Bapholite",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceDefense",
+    "name": "Beating Heartstrings",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagUncommon",
+    "name": "Bellow Voca",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagRare",
+    "name": "Big Bytes Pizza",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/JadeShadows/Resources/BioplasmaItem",
+    "name": "Bioplasma",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem",
+    "name": "Bonewidow Capsule",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
+        "name": "Biotic Filter",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechPartSystemsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
+        "name": "Damaged Necramech Pod",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_pod",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/EntratiWispItem",
+        "name": "Scintillant",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareGemACutAItem",
+        "name": "Star Crimzian",
+        "itemCount": 6,
+        "wfm_item_url": "star_crimzian",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "bonewidow_capsule",
+    "tradable": true,
+    "trading_tax": 14000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem",
+    "name": "Bonewidow Casing",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechPartChassisBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartChassisItem",
+        "name": "Damaged Necramech Casing",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_casing",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "itemCount": 15,
+        "wfm_item_url": "goblite_tears",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
+        "name": "Tempered Bapholite",
+        "itemCount": 100,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem",
+        "name": "Thaumic Distillate",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "bonewidow_casing",
+    "tradable": true,
+    "trading_tax": 32000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem",
+    "name": "Bonewidow Engine",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
+        "name": "Adramal Alloy",
+        "itemCount": 120,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechPartEngineBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishCPartItem",
+        "name": "Cranial Foremount",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
+        "name": "Damaged Necramech Engine",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_engine",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+        "name": "Titanium",
+        "itemCount": 750,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "bonewidow_engine",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem",
+    "name": "Bonewidow Weapon Pod",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechPartWeaponPodBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartWeaponPodItem",
+        "name": "Damaged Necramech Weapon Pod",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_weapon_pod",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
+        "name": "Devolved Namalon",
+        "itemCount": 80,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/GenericFishScrapItem",
+        "name": "Scrap",
+        "itemCount": 45,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
+        "name": "Spinal Core Section",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "bonewidow_weapon_pod",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/BracoidRailjackItem",
+    "name": "Bracoid",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/BracoidBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/BracoidRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/BioFragment",
+        "name": "Mutagen Sample",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/BracoidRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 13000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 75,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/BracoidRailjackItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
+    "name": "Calda Toroid",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem",
+    "name": "Carbides",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 26000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/CarbidesBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 8500,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/CarbidesRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 4000
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/PickUps/Nightwave/CephalonFissureTimePointItem",
+    "name": "Cephalite Resonance",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/OroFungusAPlantItem",
+    "name": "Cerulean Fungus Extract",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/CetusWispItem",
+    "name": "Cetus Wisp",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagLettie",
+    "name": "Cheddar Crowns Cereal",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagArthur",
+    "name": "Chuggin' Along Sixpack",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/BirdOfPreyPartItem",
+    "name": "Condroc Wing",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemC",
+    "name": "Connla Sprout",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CopernicsRailjackItem",
+    "name": "Copernics",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/CopernicsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/CopernicsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 800
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 8500,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/CopernicsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 13000
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBItem",
+    "name": "Coprun",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Research/CipherPlus",
+    "name": "Corpus Cipher",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Research/DataMassPlus",
+    "name": "Corpus Datamass",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem",
+    "name": "Cortege Barrel",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
+        "name": "Adramal Alloy",
+        "itemCount": 80,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechArchGunBarrelBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponBarrelItem",
+        "name": "Damaged Necramech Weapon Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_weapon_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
+        "name": "Fersteel Alloy",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
+        "name": "Spinal Core Section",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "cortege_barrel",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem",
+    "name": "Cortege Receiver",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechArchGunReceiverBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponReceiverItem",
+        "name": "Damaged Necramech Weapon Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_weapon_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
+        "name": "Devolved Namalon",
+        "itemCount": 80,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
+        "name": "Tink Dissipator Coil",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem",
+        "name": "Trapezium Xenorhast",
+        "itemCount": 10,
+        "wfm_item_url": "trapezium_xenorhast",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "cortege_receiver",
+    "tradable": true,
+    "trading_tax": 22000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem",
+    "name": "Cortege Stock",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechArchGunStockBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
+        "name": "Cabochon Embolos",
+        "itemCount": 10,
+        "wfm_item_url": "cabochon_embolos",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponStockItem",
+        "name": "Damaged Necramech Weapon Stock",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_weapon_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ConcentratedGas",
+        "name": "Hexenon",
+        "itemCount": 250
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
+        "name": "Tempered Bapholite",
+        "itemCount": 80,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "cortege_stock",
+    "tradable": true,
+    "trading_tax": 22000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/JadeShadows/Resources/JuggernautBehemothItem",
+    "name": "Cortichrome",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareGemAItem",
+    "name": "Crimzian",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidCamperItem",
+    "name": "Crisma Toroid",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/RazorbackCipherPart",
+    "name": "Cryptographic Alu",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem",
+    "name": "Cubic Diodes",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/CubicsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 5500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 8500,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/CubicsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 9500
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiEventCurseItemB",
+    "name": "Curse Of Hearing",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiEventCurseItemA",
+    "name": "Curse Of Knowing",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiEventCurseItemC",
+    "name": "Curse Of Seeing",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemBItem",
+    "name": "Dagonic",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartChassisItem",
+    "name": "Damaged Necramech Casing",
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "damaged_necramech_casing",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
+    "name": "Damaged Necramech Engine",
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "damaged_necramech_engine",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
+    "name": "Damaged Necramech Pod",
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "damaged_necramech_pod",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponBarrelItem",
+    "name": "Damaged Necramech Weapon Barrel",
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "damaged_necramech_weapon_barrel",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartWeaponPodItem",
+    "name": "Damaged Necramech Weapon Pod",
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "damaged_necramech_weapon_pod",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponReceiverItem",
+    "name": "Damaged Necramech Weapon Receiver",
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "damaged_necramech_weapon_receiver",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponStockItem",
+    "name": "Damaged Necramech Weapon Stock",
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "damaged_necramech_weapon_stock",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Deimos/EntratiFragmentCommonC",
+    "name": "Daughter Token",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Research/ChemFragment",
+    "name": "Detonite Ampule",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
+    "name": "Detonite Injector",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/ChemComponentBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Research/ChemComponent"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/ChemFragment",
+        "name": "Detonite Ampule",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Items/Research/ChemComponent"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 250
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 500
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBItem",
+    "name": "Devar",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
+    "name": "Devolved Namalon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Prospecting/DeimosUncommonOreAAlloyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAItem",
+        "name": "Ferros",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem",
+        "name": "Lucent Teroglobe",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAItem",
+        "name": "Namalon",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 160
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemEvent",
+    "name": "Dominus Aureus",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemF",
+    "name": "Dracroot",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenCobraLotusPlantItem",
+    "name": "Dusklight Sarracenia",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
+    "name": "Echo Voca",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemB",
+    "name": "Eevani",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonA",
+    "name": "Efervon Sample",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBItem",
+    "name": "Embolos",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPuzzleItem",
+    "name": "Enigma Gyrum",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLanthornBundle",
+    "name": "Entrati Lanthorn",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
+    "name": "Entrati Lanthorn",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA",
+    "name": "Entrati Obols",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Deimos/EntratiFragmentBase",
+    "name": "Entratifragmentbase",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTag",
+    "name": "Entratilabdogtag",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem",
+    "name": "Esher Devar",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonGemBCutABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBItem",
+        "name": "Devar",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources",
+    "wfm_item_url": "esher_devar",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsUncommonDogTag",
+    "name": "Exceptional Sentient Core",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/SentientCoreConversionABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsUncommonDogTag"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBCutAItem",
+        "name": "Heart Nyth",
+        "itemCount": 1,
+        "wfm_item_url": "heart_nyth",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsUncommonDogTag"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag",
+        "name": "Intact Sentient Core",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsUncommonDogTag"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemACutAItem",
+        "name": "Radian Sentirum",
+        "itemCount": 1,
+        "wfm_item_url": "radian_sentirum",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsUncommonDogTag"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Tokens/GreedTokens/GreedTokenGold",
+    "name": "Exemplar Granum Crown",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonB",
+    "name": "Experimental Arc-Relay",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Solaris/DebtTokenE",
+    "name": "Familial Debt-Bond",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonA",
+    "name": "Father Token",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAItem",
+    "name": "Ferros",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
+    "name": "Fieldron",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyComponentBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Research/EnergyComponent"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyFragment",
+        "name": "Fieldron Sample",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Items/Research/EnergyComponent"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 250
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 500
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Research/EnergyFragment",
+    "name": "Fieldron Sample",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsRareDogTag",
+    "name": "Flawless Sentient Core",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/FresnelsRailjackItem",
+    "name": "Fresnels",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/FresnelsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/FresnelsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 40
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 50
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusMushroomItem",
+    "name": "Frostcap",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/WildGingerBPlantItem",
+    "name": "Frostleaf",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem",
+    "name": "Gallos Rods",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 18500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/GallosBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/ChemFragment",
+        "name": "Detonite Ampule",
+        "itemCount": 750,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/GallosRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1500
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfMapricoFruitItem",
+    "name": "Ganglion",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Research/DojoColors/GenericDojoColorPigment",
+    "name": "Genericdojocolorpigment",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/OroPorcelainBushAPlantItem",
+    "name": "Ghost Brush Extract",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemAItem",
+    "name": "Goblite",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusCoconutItem",
+    "name": "Gorgaricus Spore",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Deimos/EntratiFragmentRareA",
+    "name": "Grandmother Token",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Tokens/GreedTokens/GreedTokenBlue",
+    "name": "Granum Crown",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
+    "name": "Grokdrul",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiEventOctopedeItem",
+    "name": "Grotesque Splinter",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetAItem",
+    "name": "Gyromag Systems",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBCutAItem",
+    "name": "Heart Nyth",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/EidolonGemBCutABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBCutAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBItem",
+        "name": "Nyth",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBCutAItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources",
+    "wfm_item_url": "heart_nyth",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonGemAItem",
+    "name": "Heciphron",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
+    "name": "Hespazym Alloy",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisRareOreAAlloyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAItem",
+        "name": "Hesperon",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 300
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAItem",
+    "name": "Hesperon",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexSyndicateDogTag",
+    "name": "Hexsyndicatedogtag",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceCommonB",
+    "name": "HöLlvanian Pitchweave Fragment",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/CoHResourceCommonItem",
+    "name": "Ignia",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/QuillsDogTag",
+    "name": "Intact Sentient Core",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
+    "name": "Iradite",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/IsosRailjackItem",
+    "name": "Isos",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/IsosBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/IsosRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 3000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyFragment",
+        "name": "Fieldron Sample",
+        "itemCount": 500,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/IsosRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 7500
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/GrnFlameSpearPart",
+    "name": "Javlok Capacitor",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/KesslersRailjackItem",
+    "name": "Kesslers",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/KesslersBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/KesslersRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 400
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 65
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 4500
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem",
+    "name": "Komms",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 9000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/KommsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/ChemFragment",
+        "name": "Detonite Ampule",
+        "itemCount": 350,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/KommsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+        "name": "Neural Sensors",
+        "itemCount": 100
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemA",
+    "name": "Kovnik",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/ForestRodentPartItem",
+    "name": "Kuaka Spinal Claw",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriKullervoDropItem",
+    "name": "Kullervo's Bane",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriEnemyDropItem",
+    "name": "Lamentus",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceUncommonItem",
+    "name": "Laudavi",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidCamperTerraItem",
+    "name": "Lazulite Toroid",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Nemesis/KuvaLich/CapturedGrineerLichToken",
+    "name": "Lich Token",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/EclipseVoidWraithItem",
+    "name": "Lua Thrax Plasm",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem",
+    "name": "Lucent Teroglobe",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
+    "name": "Lunar Pitcher",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveBossResourceHunhullusItem",
+    "name": "Lyroic Bridge",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/CoHResourceRareItem",
+    "name": "Maphica",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+    "name": "Maprico",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceCurrencyItem",
+    "name": "Marks Of Valiance",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
+    "name": "Marquise Veridos",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/UncommonGemACutABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemAItem",
+        "name": "Veridos",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources",
+    "wfm_item_url": "marquise_veridos",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Solaris/DebtTokenC",
+    "name": "Medical Debt-Bond",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagEleanor",
+    "name": "Mood Crystal",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
+    "name": "Moonlight Dragonlily",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
+    "name": "Moonlight Jadeleaf",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
+    "name": "Moonlight Threshcone",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem",
+    "name": "Morgha Barrel",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
+        "name": "Adramal Alloy",
+        "itemCount": 80,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechGrenadeLauncherBarrelBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponBarrelItem",
+        "name": "Damaged Necramech Weapon Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_weapon_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
+        "name": "Fersteel Alloy",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
+        "name": "Spinal Core Section",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "morgha_barrel",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem",
+    "name": "Morgha Receiver",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechGrenadeLauncherReceiverBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponReceiverItem",
+        "name": "Damaged Necramech Weapon Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_weapon_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
+        "name": "Devolved Namalon",
+        "itemCount": 80,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishDissipatorCoilItem",
+        "name": "Tink Dissipator Coil",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemACutItem",
+        "name": "Trapezium Xenorhast",
+        "itemCount": 10,
+        "wfm_item_url": "trapezium_xenorhast",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "morgha_receiver",
+    "tradable": true,
+    "trading_tax": 22000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem",
+    "name": "Morgha Stock",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechGrenadeLauncherStockBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemBCutItem",
+        "name": "Cabochon Embolos",
+        "itemCount": 10,
+        "wfm_item_url": "cabochon_embolos",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechWeaponStockItem",
+        "name": "Damaged Necramech Weapon Stock",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_weapon_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ConcentratedGas",
+        "name": "Hexenon",
+        "itemCount": 250
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
+        "name": "Tempered Bapholite",
+        "itemCount": 80,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "morgha_stock",
+    "tradable": true,
+    "trading_tax": 22000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Deimos/EntratiFragmentUncommonB",
+    "name": "Mother Token",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Research/BioComponent",
+    "name": "Mutagen Mass",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/BioComponentBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Research/BioComponent"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/BioFragment",
+        "name": "Mutagen Sample",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Items/Research/BioComponent"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 250
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 500
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Research/BioFragment",
+    "name": "Mutagen Sample",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/FungusHeartItem",
+    "name": "Mytocardia Spore",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAItem",
+    "name": "Namalon",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB",
+    "name": "Necracoil",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemAItem",
+    "name": "Necrathene",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Shadowgrapher/Resources/ShadowgrapherEventResource",
+    "name": "Nightmare Tatters",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+    "name": "Nistlepod",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBItem",
+    "name": "Noctrul",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/NullstonesRailjackItem",
+    "name": "Nullstones",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemBItem",
+    "name": "Nyth",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAoi",
+    "name": "On-Lyne Cd",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingRareItem",
+    "name": "Orokin Animus Matrix",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingUncommonItem",
+    "name": "Orokin Ballistics Matrix",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/OrokinSensorItem",
+    "name": "Orokin Monitor",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Necraloids/NecraloidStandingCommonItem",
+    "name": "Orokin Orientation Matrix",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Deimos/EntratiFragmentCommonA",
+    "name": "Otak Token",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriDragonDropItem",
+    "name": "Pathos Clamp",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemAItem",
+    "name": "Phasmin",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/PlantItem",
+    "name": "Plantitem",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/PustrelsRailjackItem",
+    "name": "Pustrels",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/PustrelsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/PustrelsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 8500,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/PustrelsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 52000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 2500
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/InfGorgaricusSeedItem",
+    "name": "Pustulite",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
+    "name": "Pyrol",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseOneFireElement",
+    "name": "Pyrus Essence",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemACutAItem",
+    "name": "Radian Sentirum",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/EidolonGemACutABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemACutAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemAItem",
+        "name": "Sentirum",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemACutAItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources",
+    "wfm_item_url": "radian_sentirum",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseOneClanItem",
+    "name": "Relay Strut Component",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/RelayThermicStrutBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RelayRebuild/PhaseOneClanItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 5000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeEarthEssence",
+        "name": "Trembera Essence",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Items/RelayRebuild/PhaseOneClanItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveBossResourceDactolystItem",
+    "name": "Ren Hypercore",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetCItem",
+    "name": "Repeller Systems",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientSecretItem",
+    "name": "Riven Transmuter",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/GftPlantRuksClawMaturePlantItem",
+    "name": "Ruk's Claw",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriFractalItem",
+    "name": "Rune Marrow",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriProcessedItem",
+    "name": "Saggen Pearl",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/EntratiWispItem",
+    "name": "Scintillant",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemB",
+    "name": "Scuttler Husk",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/EidolonGemAItem",
+    "name": "Sentirum",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Deimos/SeriglassShard",
+    "name": "Seriglass Shard",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Tau/Resources/TwelveResourceRareItem",
+    "name": "Servoris",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Solaris/DebtTokenB",
+    "name": "Shelter Debt-Bond",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagCommon",
+    "name": "Shrill Voca",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemE",
+    "name": "Silphsela",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Nemesis/KuvaLich/CapturedCorpusLichToken",
+    "name": "Sister Of Parvos Token",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/IresPlantItem",
+    "name": "Skateweed Extract",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem",
+    "name": "Sola Toroid",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Deimos/EntratiFragmentCommonB",
+    "name": "Son Token",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareGemACutAItem",
+    "name": "Star Crimzian",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/RareGemACutABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/RareGemACutAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareGemAItem",
+        "name": "Crimzian",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/RareGemACutAItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources",
+    "wfm_item_url": "star_crimzian",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/SteelEssence",
+    "name": "Steel Essence",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/SteelEssence20Pack",
+    "name": "Steel Essence",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/MurmurItem",
+    "name": "Stela",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
+    "name": "Sunlight Dragonlily",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
+    "name": "Sunlight Jadeleaf",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
+    "name": "Sunlight Threshcone",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriMushroomItem",
+    "name": "Tasoma Extract",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriMushroomSeed",
+    "name": "Tasoma Spore",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem",
+    "name": "Tear Azurite",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemAItem",
+        "name": "Azurite",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/CommonGemACutABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources",
+    "wfm_item_url": "tear_azurite",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Nemesis/KuvaLich/CapturedInfestedLichToken",
+    "name": "Technocyte Coda Token",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceUncommonA",
+    "name": "Techrot Chitin",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/1999ResourceRareA",
+    "name": "Techrot Motherboard",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
+    "name": "Tempered Bapholite",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBItem",
+        "name": "Bapholite",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Prospecting/DeimosCommonOreBAlloyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem",
+        "name": "Lucent Teroglobe",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 1600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAItem",
+        "name": "Pyrol",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/DuviriMITW/Resources/DuviriMurmurItemA",
+    "name": "Temporal Dust",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/VenusTreeItem",
+    "name": "Tepa Nodule",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriEndlessItem",
+    "name": "Tertium",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem",
+    "name": "Thaumic Distillate",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Prospecting/DeimosRareOreAAlloyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 4
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem",
+        "name": "Lucent Teroglobe",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAItem",
+        "name": "Thaumica",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+        "name": "Venerol",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAItem",
+    "name": "Thaumica",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/1999Wf/Resources/HexDogTagAmir",
+    "name": "The Countessa Comic",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+    "name": "Thermal Sludge",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidWraithItem",
+    "name": "Thrax Plasm",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemBItem",
+    "name": "Thyst",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemAItem",
+    "name": "Tiametrite",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/ScrapRailjackItem",
+    "name": "Ticor Plate",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/TitaniumRailjackItem",
+    "name": "Titanium",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RailjackMiscItems/TrachonsRailjackItem",
+    "name": "Trachons",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/RailjackResourceRecipes/TrachonsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/TrachonsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/BioFragment",
+        "name": "Mutagen Sample",
+        "itemCount": 45,
+        "part_of_set": "/Lotus/Types/Items/RailjackMiscItems/TrachonsRailjackItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 26000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 1500
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Solaris/DebtTokenA",
+    "name": "Training Debt-Bond",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+    "name": "Travocyte Alloy",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisCommonOreAAlloyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 100
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+        "name": "Travoride",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAItem",
+    "name": "Travoride",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeEarthEssence",
+    "name": "Trembera Essence",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemG",
+    "name": "Ueymag",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",
+    "name": "Vega Toroid",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+    "name": "Venerdo Alloy",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/SolarisUncommonOreAAlloyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 300
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+        "name": "Venerol",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem"
+      }
+    ],
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreItem",
+    "name": "Venerol",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemAItem",
+    "name": "Veridos",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/VesselCapillaries",
+    "name": "Vessel Capillaries",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/MossGroundCoverAPlantItem",
+    "name": "Vestan Moss",
+    "type": "Plant",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionResourceItem",
+    "name": "Vestigial Motes",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
+    "name": "Voidgel Orb",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagRare",
+    "name": "Voidplume Crest",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagCommon",
+    "name": "Voidplume Down",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidAngelItem",
+    "name": "Voidplume Pinion",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagBounty",
+    "name": "Voidplume Quill",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagUncommon",
+    "name": "Voidplume Vane",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartSystemsItem",
+    "name": "Voidrig Capsule",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/NecromechPartSystemsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartSystemsItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
+        "name": "Damaged Necramech Pod",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_pod",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartSystemsItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
+        "name": "Devolved Namalon",
+        "itemCount": 50,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartSystemsItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishBPartItem",
+        "name": "Spinal Core Section",
+        "itemCount": 12,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartSystemsItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "voidrig_capsule",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem",
+    "name": "Voidrig Casing",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
+        "name": "Adramal Alloy",
+        "itemCount": 60,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/NecromechPartChassisBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartChassisItem",
+        "name": "Damaged Necramech Casing",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_casing",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemACutItem",
+        "name": "Faceted Tiametrite",
+        "itemCount": 30,
+        "wfm_item_url": "faceted_tiametrite",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/OrbStoneItem",
+        "name": "Lucent Teroglobe",
+        "itemCount": 140,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "voidrig_casing",
+    "tradable": true,
+    "trading_tax": 62000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartEngineItem",
+    "name": "Voidrig Engine",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/NecromechPartEngineBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartEngineItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
+        "name": "Damaged Necramech Engine",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_engine",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartEngineItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishGPartItem",
+        "name": "Parasitic Tethermaw",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartEngineItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreBAlloyItem",
+        "name": "Tempered Bapholite",
+        "itemCount": 50,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartEngineItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "voidrig_engine",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem",
+    "name": "Voidrig Weapon Pod",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosOrokinFishAPartItem",
+        "name": "Biotic Filter",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/NecromechPartWeaponPodBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartWeaponPodItem",
+        "name": "Damaged Necramech Weapon Pod",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_weapon_pod",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonGemBCutItem",
+        "name": "Purged Dagonic",
+        "itemCount": 30,
+        "wfm_item_url": "purged_dagonic",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonGemACutItem",
+        "name": "Purified Heciphron",
+        "itemCount": 40,
+        "wfm_item_url": "purified_heciphron",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem"
+      }
+    ],
+    "type": "Resource",
+    "category": "Resources",
+    "wfm_item_url": "voidrig_weapon_pod",
+    "tradable": true,
+    "trading_tax": 142000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/JadeShadows/Resources/AscensionEventResourceItem",
+    "name": "Volatile Motes",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosEidolonGemAItem",
+    "name": "Xenorhast",
+    "type": "Gem",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriPlantItemD",
+    "name": "Yao Shrub",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTag",
+    "name": "Zarimandogtag",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Tokens/GreedTokens/GreedTokenBlack",
+    "name": "Zenith Granum Crown",
+    "type": "Resource",
+    "category": "Resources"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemAItem",
+    "name": "Zodian",
+    "type": "Gem",
+    "category": "Resources"
+  }
+]

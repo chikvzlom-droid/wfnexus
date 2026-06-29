@@ -1,0 +1,1 @@
+[2026-06-21 14:11:43] [0.2927] [CRITICAL] [AppState:Validate] User tokens are empty, please login first. | Location: src\app\client.rs:443:17

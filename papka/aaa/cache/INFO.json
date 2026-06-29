@@ -1,0 +1,683 @@
+{
+  "fileHashes": [
+    "075cbffa0908e3e71f6c7eee105cd51f",
+    "153effc9adc19a70704a81d127803808",
+    "202de274bd35730e4e2cbaf95dfdb105",
+    "2056893acc032a64599b97379fb6ce65",
+    "276395d7c1b504d004592da3cb010b40",
+    "4576b1fa99010057d89b1d9529c0c812",
+    "531146e73543483ca17f49bb5c1bb4b5",
+    "53b35ddbd213bcb3b983ea99149aaf83",
+    "5497b85d15071c451dab550166a0d7e0",
+    "64d557492526a7bda42471530bc7a9fa",
+    "68bc14a5d0b1592efd5088a5830a5605",
+    "738bb6cfcd69cbc85e20abe7421ed104",
+    "7cd5241a5fc779d318b757b0784c1e38",
+    "7d781cfa641612856b941f211f7fb0ac",
+    "8225af6ec77b0c7b24c69a7679cee77f",
+    "90a7b3d54bea4ee37a7122dafd4aa3fe",
+    "921b81633b8836d7d0731242aeee5eab",
+    "939ad5486a9919b21d450f5048d681e9",
+    "98aa703933e87c38ad2b9c2bb22ec2c7",
+    "be012718091cc60979db785100b5c0f5",
+    "c3463db4564fd3437a9d782318f3681c",
+    "c7676481301dfb2469b2cbc7df7daedc",
+    "d0afbef4e1a104cd62f3f80ce6debbea",
+    "d751713988987e9331980363e24189ce",
+    "d751713988987e9331980363e24189ce",
+    "f10c67dc6f7e16ef4610dcb84f176555",
+    "f76d2710aaf02b36d7cb29608b9d14d0",
+    "f883f654a1cc5582b6fd89939597a99f",
+    "fdeee54ef9734adeb42a6c3606e586cc",
+    "02ac49707f5c8abf670ee0de8ab9c6f8",
+    "17d23e647c86d1f2fb40aa7bd91ae995",
+    "1f638bb06290d3f31b8eab6e4907f1dd",
+    "212dea3bc7617b166ab66ad3023606f2",
+    "247d913ec7133abe2c9081c198167e88",
+    "2bf94c050ef2d813f2418ba1ec2ef88c",
+    "4962d090c2615ed0096282d58b577359",
+    "60ccbc0c9838cce06e689dab52ca9078",
+    "6169f07a02cdeb185e255050764ef311",
+    "632fcaddc27d7f5189bf3cf4c82a3316",
+    "6f5b9f03770318710f8c518b1e765391",
+    "9262fea718880480297c77a7cef22b6b",
+    "a595f196b7e92335a724b4ffef1a6466",
+    "aa4dae990bd21b854b22c114ac22164c",
+    "b1271c8bef9227df19929b445dae57b2",
+    "c58d3109b64c570ccc026380954a8690",
+    "ca1e7e460a8202825c79cff97c363d6c",
+    "2c0fbd308def3026a7daa05ba6e7972f"
+  ],
+  "files": [
+    "./_cache/WFItems/Arcanes.json",
+    "./_cache/WFItems/Arch-Gun.json",
+    "./_cache/WFItems/Arch-Melee.json",
+    "./_cache/WFItems/Archwing.json",
+    "./_cache/WFItems/Bundle.json",
+    "./_cache/WFItems/ChatIcons.json",
+    "./_cache/WFItems/Fish.json",
+    "./_cache/WFItems/Gear.json",
+    "./_cache/WFItems/Glyphs.json",
+    "./_cache/WFItems/Melee.json",
+    "./_cache/WFItems/Misc.json",
+    "./_cache/WFItems/Mods.json",
+    "./_cache/WFItems/Node.json",
+    "./_cache/WFItems/Pets.json",
+    "./_cache/WFItems/Primary.json",
+    "./_cache/WFItems/Quests.json",
+    "./_cache/WFItems/Railjack.json",
+    "./_cache/WFItems/Relics.json",
+    "./_cache/WFItems/Resources.json",
+    "./_cache/WFItems/Riven.json",
+    "./_cache/WFItems/RivenAttributes.json",
+    "./_cache/WFItems/Secondary.json",
+    "./_cache/WFItems/SentinelWeapons.json",
+    "./_cache/WFItems/Sentinels.json",
+    "./_cache/WFItems/Sigils.json",
+    "./_cache/WFItems/Skins.json",
+    "./_cache/WFItems/TradableItems.json",
+    "./_cache/WFItems/VoidTrader.json",
+    "./_cache/WFItems/Warframes.json",
+    "./_cache/WFItems/lang/de.json",
+    "./_cache/WFItems/lang/en.json",
+    "./_cache/WFItems/lang/es.json",
+    "./_cache/WFItems/lang/fr.json",
+    "./_cache/WFItems/lang/it.json",
+    "./_cache/WFItems/lang/ja.json",
+    "./_cache/WFItems/lang/ko.json",
+    "./_cache/WFItems/lang/pl.json",
+    "./_cache/WFItems/lang/pt.json",
+    "./_cache/WFItems/lang/ru.json",
+    "./_cache/WFItems/lang/tc.json",
+    "./_cache/WFItems/lang/th.json",
+    "./_cache/WFItems/lang/tr.json",
+    "./_cache/WFItems/lang/uk.json",
+    "./_cache/WFItems/lang/zh-hans.json",
+    "./_cache/WFItems/lang/zh-hant.json",
+    "./_cache/WFItems/lang/zh.json",
+    "assets/qf-themePresets/cyberpunk.json"
+  ],
+  "zipEntries": [
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Arcanes.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Arcanes.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Arch-Gun.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Arch-Gun.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Arch-Melee.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Arch-Melee.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Archwing.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Archwing.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Bundle.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Bundle.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "ChatIcons.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "ChatIcons.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Fish.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Fish.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Gear.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Gear.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Glyphs.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Glyphs.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Melee.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Melee.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Misc.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Misc.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Mods.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Mods.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Node.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Node.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Pets.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Pets.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Primary.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Primary.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Quests.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Quests.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Railjack.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Railjack.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Relics.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Relics.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Resources.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Resources.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Riven.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Riven.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "RivenAttributes.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "RivenAttributes.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Secondary.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Secondary.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "SentinelWeapons.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "SentinelWeapons.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Sentinels.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Sentinels.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Sigils.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Sigils.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Skins.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Skins.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "TradableItems.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "TradableItems.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "VoidTrader.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "VoidTrader.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "Warframes.json"
+      ],
+      "distinctionPath": [
+        "items",
+        "Warframes.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "de.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "de.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "en.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "en.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "es.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "es.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "fr.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "fr.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "it.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "it.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "ja.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "ja.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "ko.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "ko.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "pl.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "pl.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "pt.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "pt.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "ru.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "ru.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "tc.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "tc.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "th.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "th.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "tr.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "tr.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "uk.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "uk.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "zh-hans.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "zh-hans.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "zh-hant.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "zh-hant.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        ".",
+        "_cache",
+        "WFItems",
+        "lang",
+        "zh.json"
+      ],
+      "distinctionPath": [
+        "lang",
+        "zh.json"
+      ]
+    },
+    {
+      "sourcePath": [
+        "assets",
+        "qf-themePresets",
+        "cyberpunk.json"
+      ],
+      "distinctionPath": [
+        "themePresets",
+        "cyberpunk.json"
+      ]
+    }
+  ],
+  "include_all_fields": true
+}

@@ -1,0 +1,5021 @@
+[
+  {
+    "uniqueName": "/Lotus/Powersuits/Ninja/Ninja",
+    "name": "Ash",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AshBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ninja/Ninja"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AshChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ninja/Ninja"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AshHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ninja/Ninja"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AshSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ninja/Ninja"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Ash"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Ninja/AshPrime",
+    "name": "Ash Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AshPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "ash_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ninja/AshPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AshPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "ash_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ninja/AshPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AshPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "ash_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ninja/AshPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AshPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "ash_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ninja/AshPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "ash_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Ash%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Brawler/Brawler",
+    "name": "Atlas",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrawlerBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Brawler/Brawler"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrawlerChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Brawler/Brawler"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrawlerHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Brawler/Brawler"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrawlerSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Brawler/Brawler"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Atlas"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Brawler/AtlasPrime",
+    "name": "Atlas Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AtlasPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "atlas_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Brawler/AtlasPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AtlasPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "atlas_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Brawler/AtlasPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AtlasPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "atlas_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Brawler/AtlasPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AtlasPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "atlas_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Brawler/AtlasPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "atlas_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Atlas%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Banshee/Banshee",
+    "name": "Banshee",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BansheeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Banshee/Banshee"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BansheeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Banshee/Banshee"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BansheeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Banshee/Banshee"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BansheeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Banshee/Banshee"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Banshee"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Banshee/BansheePrime",
+    "name": "Banshee Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "banshee_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Banshee/BansheePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "banshee_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Banshee/BansheePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "banshee_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Banshee/BansheePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BansheePrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "banshee_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Banshee/BansheePrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "banshee_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Banshee%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Pacifist/Pacifist",
+    "name": "Baruuk",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PacifistBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pacifist/Pacifist"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PacifistChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pacifist/Pacifist"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PacifistHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pacifist/Pacifist"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PacifistSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pacifist/Pacifist"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Baruuk"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Pacifist/BaruukPrime",
+    "name": "Baruuk Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "baruuk_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Pacifist/BaruukPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "baruuk_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Pacifist/BaruukPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "baruuk_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Pacifist/BaruukPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BaruukPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "baruuk_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Pacifist/BaruukPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "baruuk_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Baruuk%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/EntratiMech/ThanoTech",
+    "name": "Bonewidow",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/ThanotechBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/EntratiMech/ThanoTech"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartSystemsItem",
+        "name": "Bonewidow Capsule",
+        "itemCount": 1,
+        "wfm_item_url": "bonewidow_capsule",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/EntratiMech/ThanoTech"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartChassisItem",
+        "name": "Bonewidow Casing",
+        "itemCount": 1,
+        "wfm_item_url": "bonewidow_casing",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/EntratiMech/ThanoTech"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartEngineItem",
+        "name": "Bonewidow Engine",
+        "itemCount": 1,
+        "wfm_item_url": "bonewidow_engine",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/EntratiMech/ThanoTech"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanomechPartWeaponPodItem",
+        "name": "Bonewidow Weapon Pod",
+        "itemCount": 1,
+        "wfm_item_url": "bonewidow_weapon_pod",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/EntratiMech/ThanoTech"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "bonewidow_set",
+    "tradable": true,
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Sentient/Sentient",
+    "name": "Caliban",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SentientBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Sentient/Sentient"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SentientChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Sentient/Sentient"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SentientHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Sentient/Sentient"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 12
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SentientSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Sentient/Sentient"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Caliban"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Sentient/CalibanPrime",
+    "name": "Caliban Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "caliban_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Sentient/CalibanPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "caliban_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Sentient/CalibanPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "caliban_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Sentient/CalibanPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "caliban_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Sentient/CalibanPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "caliban_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Caliban%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Dragon/Dragon",
+    "name": "Chroma",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Dragon/Dragon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Dragon/Dragon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Dragon/Dragon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Dragon/Dragon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VOLTHelmetComponent",
+        "name": "Volt Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Dragon/Dragon"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Chroma"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Dragon/ChromaPrime",
+    "name": "Chroma Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "chroma_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Dragon/ChromaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "chroma_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Dragon/ChromaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "chroma_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Dragon/ChromaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "chroma_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Dragon/ChromaPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "chroma_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Chroma%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Geode/Geode",
+    "name": "Citrine",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GeodeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Geode/Geode"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GeodeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Geode/Geode"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GeodeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Geode/Geode"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GeodeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Geode/Geode"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Citrine"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Frumentarius/Frumentarius",
+    "name": "Cyte-09",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09Blueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Frumentarius/Frumentarius"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09ChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Frumentarius/Frumentarius"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09HelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Frumentarius/Frumentarius"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/Cyte09SystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Frumentarius/Frumentarius"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Cyte-09"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Dagath/Dagath",
+    "name": "Dagath",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/DagathBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Dagath/Dagath"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/DagathChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Dagath/Dagath"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/DagathHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Dagath/Dagath"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/DagathSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Dagath/Dagath"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Dagath"
+  },
+  {
+    "uniqueName": "/WF_Special/DamagedNecramechSet",
+    "name": "Damaged Necramech",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartWeaponPodItem",
+        "name": "Damaged Necramech Weapon Pod",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_weapon_pod",
+        "tradable": true,
+        "part_of_set": "/WF_Special/DamagedNecramechSet"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
+        "name": "Damaged Necramech Casing",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_casing",
+        "tradable": true,
+        "part_of_set": "/WF_Special/DamagedNecramechSet"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartEngineItem",
+        "name": "Damaged Necramech Engine",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_engine",
+        "tradable": true,
+        "part_of_set": "/WF_Special/DamagedNecramechSet"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/DamagedMechPartSystemsItem",
+        "name": "Damaged Necramech Pod",
+        "itemCount": 1,
+        "wfm_item_url": "damaged_necramech_pod",
+        "tradable": true,
+        "part_of_set": "/WF_Special/DamagedNecramechSet"
+      }
+    ],
+    "type": "Misc",
+    "category": "Warframes",
+    "wfm_item_url": "damaged_necramech_set",
+    "tradable": true,
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Pagemaster/Pagemaster",
+    "name": "Dante",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PagemasterBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pagemaster/Pagemaster"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PagemasterChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pagemaster/Pagemaster"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PagemasterHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pagemaster/Pagemaster"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PagemasterSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pagemaster/Pagemaster"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Dante"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Ember/Ember",
+    "name": "Ember",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EmberBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ember/Ember"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EmberChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ember/Ember"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EmberHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ember/Ember"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EmberSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ember/Ember"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Ember"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Ember/EmberPrime",
+    "name": "Ember Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EmberPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "ember_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ember/EmberPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EmberPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "ember_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ember/EmberPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EmberPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "ember_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ember/EmberPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EmberPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "ember_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ember/EmberPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "ember_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Ember%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/YinYang/YinYang",
+    "name": "Equinox",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AnimaAnimusBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/YinYang/YinYang"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AnimusComponent",
+        "name": "Day Aspect",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/YinYang/YinYang"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/YinYang/YinYang"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/AnimaComponent",
+        "name": "Night Aspect",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/YinYang/YinYang"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Equinox"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/YinYang/EquinoxPrime",
+    "name": "Equinox Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EquinoxPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "equinox_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/YinYang/EquinoxPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EquinoxPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "equinox_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/YinYang/EquinoxPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EquinoxPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "equinox_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/YinYang/EquinoxPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/EquinoxPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "equinox_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/YinYang/EquinoxPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "equinox_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Equinox%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Excalibur/Excalibur",
+    "name": "Excalibur",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ExcaliburBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Excalibur/Excalibur"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ExcaliburChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Excalibur/Excalibur"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ExcaliburHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Excalibur/Excalibur"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ExcaliburSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Excalibur/Excalibur"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Excalibur"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Excalibur/ExcaliburPrime",
+    "name": "Excalibur Prime",
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Excalibur%2FPrime"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Excalibur/ExcaliburUmbra",
+    "name": "Excalibur Umbra",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 1600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ExcaliburUmbraBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Excalibur/ExcaliburUmbra"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Kuva",
+        "name": "Kuva",
+        "itemCount": 60
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 1200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Excalibur_Umbra"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Inkblot/Inkblot",
+    "name": "Follie",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FollieBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Inkblot/Inkblot"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FollieChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Inkblot/Inkblot"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FollieHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Inkblot/Inkblot"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FollieSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Inkblot/Inkblot"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Follie"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Frost/Frost",
+    "name": "Frost",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FrostBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Frost/Frost"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FrostChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Frost/Frost"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FrostHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Frost/Frost"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FrostSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Frost/Frost"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Frost"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Frost/FrostPrime",
+    "name": "Frost Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FrostPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "frost_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Frost/FrostPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FrostPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "frost_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Frost/FrostPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FrostPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "frost_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Frost/FrostPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FrostPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "frost_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Frost/FrostPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "frost_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Frost%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Glass/Glass",
+    "name": "Gara",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GlassBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Glass/Glass"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GlassChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Glass/Glass"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GlassHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Glass/Glass"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GlassSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Glass/Glass"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Gara"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Glass/GaraPrime",
+    "name": "Gara Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaraPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "gara_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Glass/GaraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaraPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "gara_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Glass/GaraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaraPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "gara_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Glass/GaraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaraPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "gara_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Glass/GaraPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "gara_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Gara%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Garuda/Garuda",
+    "name": "Garuda",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GarudaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Garuda/Garuda"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GarudaChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Garuda/Garuda"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Kuva",
+        "name": "Kuva",
+        "itemCount": 3500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GarudaHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Garuda/Garuda"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GarudaSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Garuda/Garuda"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Garuda"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Garuda/GarudaPrime",
+    "name": "Garuda Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GarudaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "garuda_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Garuda/GarudaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GarudaPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "garuda_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Garuda/GarudaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GarudaPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "garuda_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Garuda/GarudaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GarudaPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "garuda_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Garuda/GarudaPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "garuda_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Garuda%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Runner/Runner",
+    "name": "Gauss",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaussBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Runner/Runner"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaussChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Runner/Runner"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaussHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Runner/Runner"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaussSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Runner/Runner"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Gauss"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Runner/GaussPrime",
+    "name": "Gauss Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "gauss_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Runner/GaussPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "gauss_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Runner/GaussPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "gauss_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Runner/GaussPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "gauss_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Runner/GaussPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "gauss_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Gauss%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Devourer/Devourer",
+    "name": "Grendel",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GrendelBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Devourer/Devourer"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GrendelChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Devourer/Devourer"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GrendelHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Devourer/Devourer"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GrendelSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Devourer/Devourer"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Grendel"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Devourer/GrendelPrime",
+    "name": "Grendel Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "grendel_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Devourer/GrendelPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "grendel_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Devourer/GrendelPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "grendel_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Devourer/GrendelPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GrendelPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "grendel_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Devourer/GrendelPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "grendel_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Grendel%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Gyre/Gyre",
+    "name": "Gyre",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyreBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Gyre/Gyre"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyreChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Gyre/Gyre"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyreHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Gyre/Gyre"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyreSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Gyre/Gyre"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Gyre"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Gyre/GyrePrime",
+    "name": "Gyre Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "gyre_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Gyre/GyrePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "gyre_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Gyre/GyrePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "gyre_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Gyre/GyrePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GyrePrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "gyre_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Gyre/GyrePrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "gyre_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Gyre%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Priest/Priest",
+    "name": "Harrow",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PriestBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Priest/Priest"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PriestChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Priest/Priest"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Kuva",
+        "name": "Kuva",
+        "itemCount": 2000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PriestHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Priest/Priest"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PriestSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Priest/Priest"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Harrow"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Priest/HarrowPrime",
+    "name": "Harrow Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "harrow_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Priest/HarrowPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "harrow_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Priest/HarrowPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "harrow_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Priest/HarrowPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "harrow_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Priest/HarrowPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "harrow_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Harrow%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/IronFrame/IronFrame",
+    "name": "Hildryn",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/IronframeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/IronFrame/IronFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/IronframeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/IronFrame/IronFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/IronframeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/IronFrame/IronFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/IronframeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/IronFrame/IronFrame"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Hildryn"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/IronFrame/IronFramePrime",
+    "name": "Hildryn Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HildrynPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "hildryn_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/IronFrame/IronFramePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HildrynPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "hildryn_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/IronFrame/IronFramePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HildrynPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "hildryn_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/IronFrame/IronFramePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HildrynPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "hildryn_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/IronFrame/IronFramePrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "hildryn_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Hildryn%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Pirate/Pirate",
+    "name": "Hydroid",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pirate/Pirate"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pirate/Pirate"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pirate/Pirate"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Pirate/Pirate"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Hydroid"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Pirate/HydroidPrime",
+    "name": "Hydroid Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "hydroid_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Pirate/HydroidPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "hydroid_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Pirate/HydroidPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "hydroid_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Pirate/HydroidPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HydroidPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "hydroid_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Pirate/HydroidPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "hydroid_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Hydroid%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Sandman/Sandman",
+    "name": "Inaros",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MummyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Sandman/Sandman"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MummyChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Sandman/Sandman"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MummyHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Sandman/Sandman"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MummySystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Sandman/Sandman"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Inaros"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Sandman/InarosPrime",
+    "name": "Inaros Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/InarosPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "inaros_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Sandman/InarosPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/InarosPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "inaros_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Sandman/InarosPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/InarosPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "inaros_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Sandman/InarosPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/InarosPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "inaros_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Sandman/InarosPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "inaros_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Inaros%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Ranger/Ranger",
+    "name": "Ivara",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RangerBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ranger/Ranger"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RangerChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ranger/Ranger"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RangerHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ranger/Ranger"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RangerSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Ranger/Ranger"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Ivara"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Ranger/IvaraPrime",
+    "name": "Ivara Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/IvaraPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "ivara_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ranger/IvaraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/IvaraPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "ivara_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ranger/IvaraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/IvaraPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "ivara_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ranger/IvaraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/IvaraPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "ivara_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Ranger/IvaraPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "ivara_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Ivara%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Choir/Choir",
+    "name": "Jade",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChoirBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Choir/Choir"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChoirChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Choir/Choir"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChoirHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Choir/Choir"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChoirSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Choir/Choir"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Jade"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Khora/Khora",
+    "name": "Khora",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KhoraBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Khora/Khora"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KhoraChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Khora/Khora"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KhoraHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Khora/Khora"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KhoraSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Khora/Khora"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Khora"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Khora/KhoraPrime",
+    "name": "Khora Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "khora_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Khora/KhoraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "khora_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Khora/KhoraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "khora_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Khora/KhoraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KhoraPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "khora_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Khora/KhoraPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "khora_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Khora%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Koumei/Koumei",
+    "name": "Koumei",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KoumeiBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Koumei/Koumei"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KoumeiChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Koumei/Koumei"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ShrineFragment",
+        "name": "Fate Pearl",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Powersuits/Koumei/Koumei"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KoumeiHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Koumei/Koumei"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/KoumeiSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Koumei/Koumei"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Koumei"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PaxDuviricus/PaxDuviricus",
+    "name": "Kullervo",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaxDuviricusBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/PaxDuviricus/PaxDuviricus"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaxDuviricusChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/PaxDuviricus/PaxDuviricus"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaxDuviricusHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/PaxDuviricus/PaxDuviricus"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Duviri/Resource/DuviriDragonDropItem",
+        "name": "Pathos Clamp",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Powersuits/PaxDuviricus/PaxDuviricus"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaxDuviricusSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/PaxDuviricus/PaxDuviricus"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kullervo"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Alchemist/Alchemist",
+    "name": "Lavos",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Alchemist/Alchemist"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Alchemist/Alchemist"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Alchemist/Alchemist"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Alchemist/Alchemist"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Lavos"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Alchemist/LavosPrime",
+    "name": "Lavos Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "lavos_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Alchemist/LavosPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "lavos_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Alchemist/LavosPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "lavos_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Alchemist/LavosPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LavosPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "lavos_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Alchemist/LavosPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "lavos_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Lavos%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Magician/Magician",
+    "name": "Limbo",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagicianBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Magician/Magician"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagicianChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Magician/Magician"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagicianHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Magician/Magician"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagicianSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Magician/Magician"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Limbo"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Magician/LimboPrime",
+    "name": "Limbo Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LimboPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "limbo_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Magician/LimboPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LimboPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "limbo_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Magician/LimboPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LimboPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "limbo_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Magician/LimboPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LimboPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "limbo_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Magician/LimboPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "limbo_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Limbo%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Loki/Loki",
+    "name": "Loki",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LOKIBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Loki/Loki"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LOKIChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Loki/Loki"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LOKIHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Loki/Loki"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LOKISystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Loki/Loki"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Loki"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Loki/LokiPrime",
+    "name": "Loki Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LokiPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "loki_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Loki/LokiPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LokiPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "loki_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Loki/LokiPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LokiPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "loki_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Loki/LokiPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/LokiPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "loki_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Loki/LokiPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "loki_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Loki%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Mag/Mag",
+    "name": "Mag",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Mag/Mag"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Mag/Mag"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Mag/Mag"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Mag/Mag"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Mag"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Mag/MagPrime",
+    "name": "Mag Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "mag_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Mag/MagPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "mag_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Mag/MagPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "mag_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Mag/MagPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MagPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "mag_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Mag/MagPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "mag_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Mag%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Cowgirl/Cowgirl",
+    "name": "Mesa",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GunslingerBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Cowgirl/Cowgirl"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GunslingerChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Cowgirl/Cowgirl"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GunslingerHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Cowgirl/Cowgirl"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/GunslingerSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Cowgirl/Cowgirl"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Mesa"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Cowgirl/MesaPrime",
+    "name": "Mesa Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MesaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "mesa_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Cowgirl/MesaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MesaPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "mesa_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Cowgirl/MesaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MesaPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "mesa_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Cowgirl/MesaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MesaPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "mesa_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Cowgirl/MesaPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "mesa_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Mesa%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Harlequin/Harlequin",
+    "name": "Mirage",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HarlequinBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Harlequin/Harlequin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HarlequinChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Harlequin/Harlequin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HarlequinHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Harlequin/Harlequin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/HarlequinSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Harlequin/Harlequin"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Mirage"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Harlequin/MiragePrime",
+    "name": "Mirage Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "mirage_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Harlequin/MiragePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "mirage_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Harlequin/MiragePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "mirage_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Harlequin/MiragePrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/MiragePrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "mirage_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Harlequin/MiragePrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "mirage_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Mirage%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Necro/Necro",
+    "name": "Nekros",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NecroBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Necro/Necro"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NecroChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Necro/Necro"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NecroHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Necro/Necro"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NecroSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Necro/Necro"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Nekros"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Necro/NekrosPrime",
+    "name": "Nekros Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NekrosPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "nekros_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Necro/NekrosPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NekrosPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "nekros_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Necro/NekrosPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NekrosPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "nekros_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Necro/NekrosPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NekrosPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "nekros_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Necro/NekrosPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "nekros_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Nekros%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Nezha/Nezha",
+    "name": "Nezha",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NezhaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Nezha/Nezha"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NezhaChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Nezha/Nezha"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NezhaHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Nezha/Nezha"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NezhaSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Nezha/Nezha"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Nezha"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Nezha/NezhaPrime",
+    "name": "Nezha Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NezhaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "nezha_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Nezha/NezhaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NezhaPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "nezha_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Nezha/NezhaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NezhaPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "nezha_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Nezha/NezhaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NezhaPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "nezha_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Nezha/NezhaPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "nezha_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Nezha%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Infestation/Infestation",
+    "name": "Nidus",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NidusBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Infestation/Infestation"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NidusChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Infestation/Infestation"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Kuva",
+        "name": "Kuva",
+        "itemCount": 2000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NidusHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Infestation/Infestation"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NidusSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Infestation/Infestation"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Nidus"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Infestation/InfestationPrime",
+    "name": "Nidus Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "nidus_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Infestation/InfestationPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "nidus_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Infestation/InfestationPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "nidus_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Infestation/InfestationPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "nidus_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Infestation/InfestationPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "nidus_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Nidus%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Nokko/Nokko",
+    "name": "Nokko",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NokkoBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Nokko/Nokko"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NokkoChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Nokko/Nokko"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NokkoHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Nokko/Nokko"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NokkoSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Nokko/Nokko"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Nokko"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/AntiMatter/Anti",
+    "name": "Nova",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NovaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/AntiMatter/Anti"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NovaChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/AntiMatter/Anti"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NovaHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/AntiMatter/Anti"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NovaSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/AntiMatter/Anti"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Nova"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/AntiMatter/NovaPrime",
+    "name": "Nova Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NovaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "nova_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/AntiMatter/NovaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NovaPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "nova_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/AntiMatter/NovaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NovaPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "nova_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/AntiMatter/NovaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NovaPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "nova_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/AntiMatter/NovaPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "nova_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Nova%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Jade/Jade",
+    "name": "Nyx",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NyxBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Jade/Jade"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NyxChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Jade/Jade"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NyxHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Jade/Jade"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NyxSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Jade/Jade"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Nyx"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Jade/NyxPrime",
+    "name": "Nyx Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NyxPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "nyx_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Jade/NyxPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NyxPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "nyx_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Jade/NyxPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NyxPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "nyx_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Jade/NyxPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/NyxPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "nyx_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Jade/NyxPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "nyx_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Nyx%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Paladin/Paladin",
+    "name": "Oberon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaladinBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Paladin/Paladin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaladinChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Paladin/Paladin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaladinHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Paladin/Paladin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/PaladinSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Paladin/Paladin"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Oberon"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Paladin/PaladinPrime",
+    "name": "Oberon Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "oberon_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Paladin/PaladinPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "oberon_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Paladin/PaladinPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "oberon_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Paladin/PaladinPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OberonPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "oberon_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Paladin/PaladinPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "oberon_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Oberon%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Bard/Bard",
+    "name": "Octavia",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Bard/Bard"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Bard/Bard"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestSequencerItem",
+        "name": "Mandachord",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Bard/Bard"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Bard/Bard"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Bard/Bard"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Octavia"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Bard/OctaviaPrime",
+    "name": "Octavia Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "octavia_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Bard/OctaviaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "octavia_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Bard/OctaviaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "octavia_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Bard/OctaviaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OctaviaPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "octavia_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Bard/OctaviaPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "octavia_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Octavia%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Oraxia/Oraxia",
+    "name": "Oraxia",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Oraxia/Oraxia"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Oraxia/Oraxia"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Oraxia/Oraxia"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/OraxiaSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Oraxia/Oraxia"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Oraxia"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Odalisk/Odalisk",
+    "name": "Protea",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ProteaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Odalisk/Odalisk"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ProteaChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Odalisk/Odalisk"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ProteaHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Odalisk/Odalisk"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ProteaSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Odalisk/Odalisk"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Protea"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Odalisk/ProteaPrime",
+    "name": "Protea Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ProteaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "protea_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Odalisk/ProteaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ProteaPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "protea_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Odalisk/ProteaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ProteaPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "protea_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Odalisk/ProteaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ProteaPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "protea_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Odalisk/ProteaPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "protea_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Protea%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/ConcreteFrame/ConcreteFrame",
+    "name": "Qorvex",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/ConcreteFrame/ConcreteFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/ConcreteFrame/ConcreteFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
+        "name": "Echo Voca",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/ConcreteFrame/ConcreteFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/ConcreteFrame/ConcreteFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ConcreteFrameSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/ConcreteFrame/ConcreteFrame"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Qorvex"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Revenant/Revenant",
+    "name": "Revenant",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RevenantBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Revenant/Revenant"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RevenantChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Revenant/Revenant"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RevenantHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Revenant/Revenant"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RevenantSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Revenant/Revenant"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Revenant"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Revenant/RevenantPrime",
+    "name": "Revenant Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RevenantPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "revenant_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Revenant/RevenantPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RevenantPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "revenant_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Revenant/RevenantPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RevenantPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "revenant_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Revenant/RevenantPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RevenantPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "revenant_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Revenant/RevenantPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "revenant_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Revenant%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Rhino/Rhino",
+    "name": "Rhino",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RhinoBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Rhino/Rhino"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RhinoChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Rhino/Rhino"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Rhino/Rhino"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RhinoHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Rhino/Rhino"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RhinoSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Rhino/Rhino"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Rhino"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Rhino/RhinoPrime",
+    "name": "Rhino Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RhinoPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "rhino_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Rhino/RhinoPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RhinoPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "rhino_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Rhino/RhinoPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RhinoPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "rhino_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Rhino/RhinoPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/RhinoPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "rhino_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Rhino/RhinoPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "rhino_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Rhino%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Saryn/Saryn",
+    "name": "Saryn",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SarynBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Saryn/Saryn"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SarynChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Saryn/Saryn"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SarynHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Saryn/Saryn"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SarynSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Saryn/Saryn"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Saryn"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Saryn/SarynPrime",
+    "name": "Saryn Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SarynPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "saryn_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Saryn/SarynPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SarynPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "saryn_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Saryn/SarynPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SarynPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "saryn_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Saryn/SarynPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SarynPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "saryn_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Saryn/SarynPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "saryn_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Saryn%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Wraith/Wraith",
+    "name": "Sevagoth",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WraithBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Wraith/Wraith"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WraithChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Wraith/Wraith"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WraithHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Wraith/Wraith"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WraithSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Wraith/Wraith"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sevagoth"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Wraith/SevagothPrime",
+    "name": "Sevagoth Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "sevagoth_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Wraith/SevagothPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "sevagoth_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Wraith/SevagothPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "sevagoth_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Wraith/SevagothPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/SevagothPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "sevagoth_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Wraith/SevagothPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "sevagoth_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Sevagoth%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Hoplite/Hoplite",
+    "name": "Styanax",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/StyanaxBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Hoplite/Hoplite"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/StyanaxChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Hoplite/Hoplite"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/StyanaxHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Hoplite/Hoplite"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 12
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/StyanaxSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Hoplite/Hoplite"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Styanax"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Temple/Temple",
+    "name": "Temple",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TempleBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Temple/Temple"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TempleChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Temple/Temple"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TempleHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Temple/Temple"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TempleSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Temple/Temple"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Temple"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Fairy/Fairy",
+    "name": "Titania",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FairyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Fairy/Fairy"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FairyChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Fairy/Fairy"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FairyHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Fairy/Fairy"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/FairySystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Fairy/Fairy"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Titania"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Fairy/TitaniaPrime",
+    "name": "Titania Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TitaniaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "titania_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Fairy/TitaniaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TitaniaPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "titania_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Fairy/TitaniaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TitaniaPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "titania_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Fairy/TitaniaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TitaniaPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "titania_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Fairy/TitaniaPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "titania_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Titania%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Trinity/Trinity",
+    "name": "Trinity",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrinityBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Trinity/Trinity"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrinityChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Trinity/Trinity"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrinityHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Trinity/Trinity"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrinitySystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Trinity/Trinity"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Trinity"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Trinity/TrinityPrime",
+    "name": "Trinity Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrinityPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "trinity_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Trinity/TrinityPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrinityPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "trinity_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Trinity/TrinityPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrinityPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "trinity_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Trinity/TrinityPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrinityPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "trinity_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Trinity/TrinityPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "trinity_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Trinity%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/DemonFrame/DemonFrame",
+    "name": "Uriel",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/UrielBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/DemonFrame/DemonFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/UrielChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/DemonFrame/DemonFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/UrielHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/DemonFrame/DemonFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/UrielSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/DemonFrame/DemonFrame"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Uriel"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Berserker/Berserker",
+    "name": "Valkyr",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BerserkerBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Berserker/Berserker"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BerserkerChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Berserker/Berserker"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BerserkerHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Berserker/Berserker"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BerserkerSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Berserker/Berserker"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Valkyr"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Berserker/ValkyrPrime",
+    "name": "Valkyr Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "valkyr_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Berserker/ValkyrPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "valkyr_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Berserker/ValkyrPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "valkyr_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Berserker/ValkyrPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ValkyrPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "valkyr_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Berserker/ValkyrPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "valkyr_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Valkyr%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Trapper/Trapper",
+    "name": "Vauban",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrapperBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Trapper/Trapper"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrapperChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Trapper/Trapper"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrapperHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Trapper/Trapper"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TrapperSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Trapper/Trapper"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Vauban"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Trapper/TrapperPrime",
+    "name": "Vauban Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VaubanPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "vauban_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Trapper/TrapperPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VaubanPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "vauban_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Trapper/TrapperPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VaubanPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "vauban_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Trapper/TrapperPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Powersuits/Trapper/TrapperPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VaubanPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "vauban_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Trapper/TrapperPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "vauban_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Vauban%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/EntratiMech/NechroTech",
+    "name": "Voidrig",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/DeimosRecipes/Mechs/NecromechBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/EntratiMech/NechroTech"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartSystemsItem",
+        "name": "Voidrig Capsule",
+        "itemCount": 1,
+        "wfm_item_url": "voidrig_capsule",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/EntratiMech/NechroTech"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartChassisItem",
+        "name": "Voidrig Casing",
+        "itemCount": 1,
+        "wfm_item_url": "voidrig_casing",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/EntratiMech/NechroTech"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartEngineItem",
+        "name": "Voidrig Engine",
+        "itemCount": 1,
+        "wfm_item_url": "voidrig_engine",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/EntratiMech/NechroTech"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/NecromechPartWeaponPodItem",
+        "name": "Voidrig Weapon Pod",
+        "itemCount": 1,
+        "wfm_item_url": "voidrig_weapon_pod",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/EntratiMech/NechroTech"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "voidrig_set",
+    "tradable": true,
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Volt/Volt",
+    "name": "Volt",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VOLTBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Volt/Volt"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VOLTChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Volt/Volt"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VOLTHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Volt/Volt"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VOLTSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Volt/Volt"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Volt"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Volt/VoltPrime",
+    "name": "Volt Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VoltPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "volt_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Volt/VoltPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VoltPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "volt_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Volt/VoltPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VoltPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "volt_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Volt/VoltPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VoltPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "volt_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Volt/VoltPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "volt_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Volt%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Werewolf/Werewolf",
+    "name": "Voruna",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WolfFrameBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Werewolf/Werewolf"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WolfFrameChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Werewolf/Werewolf"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/EclipseVoidWraithItem",
+        "name": "Lua Thrax Plasm",
+        "itemCount": 50,
+        "part_of_set": "/Lotus/Powersuits/Werewolf/Werewolf"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WolfFrameHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Werewolf/Werewolf"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WolfFrameSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Werewolf/Werewolf"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Voruna"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Werewolf/VorunaPrime",
+    "name": "Voruna Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "voruna_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Werewolf/VorunaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "voruna_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Werewolf/VorunaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "voruna_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Werewolf/VorunaPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "voruna_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Werewolf/VorunaPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "voruna_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Voruna%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Wisp/Wisp",
+    "name": "Wisp",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WispBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Wisp/Wisp"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WispChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Wisp/Wisp"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WispHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Wisp/Wisp"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WispSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Wisp/Wisp"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Wisp"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Wisp/WispPrime",
+    "name": "Wisp Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "wisp_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Wisp/WispPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "wisp_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Wisp/WispPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "wisp_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Wisp/WispPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WispPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "wisp_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Wisp/WispPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "wisp_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Wisp%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/MonkeyKing/MonkeyKing",
+    "name": "Wukong",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WukongBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/MonkeyKing/MonkeyKing"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WukongChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/MonkeyKing/MonkeyKing"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WukongHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/MonkeyKing/MonkeyKing"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WukongSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/MonkeyKing/MonkeyKing"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Wukong"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/MonkeyKing/WukongPrime",
+    "name": "Wukong Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "wukong_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/MonkeyKing/WukongPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "wukong_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/MonkeyKing/WukongPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "wukong_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/MonkeyKing/WukongPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/WukongPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "wukong_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/MonkeyKing/WukongPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "wukong_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Wukong%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/BrokenFrame/BrokenFrame",
+    "name": "Xaku",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrokenFrameBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/BrokenFrame/BrokenFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrokenFrameChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/BrokenFrame/BrokenFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrokenFrameHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/BrokenFrame/BrokenFrame"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/BrokenFrameSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/BrokenFrame/BrokenFrame"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Xaku"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/BrokenFrame/XakuPrime",
+    "name": "Xaku Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "xaku_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/BrokenFrame/XakuPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "xaku_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/BrokenFrame/XakuPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "xaku_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/BrokenFrame/XakuPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/XakuPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "xaku_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/BrokenFrame/XakuPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "xaku_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Xaku%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Yareli/Yareli",
+    "name": "Yareli",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Yareli/Yareli"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Yareli/Yareli"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Yareli/Yareli"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Yareli/Yareli"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Yareli"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Yareli/YareliPrime",
+    "name": "Yareli Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "yareli_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Yareli/YareliPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "yareli_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Yareli/YareliPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "yareli_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Yareli/YareliPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/YareliPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "yareli_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Yareli/YareliPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "yareli_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Yareli%2FPrime",
+    "trading_tax": 8000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Tengu/Tengu",
+    "name": "Zephyr",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TenguBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Tengu/Tengu"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TenguChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Tengu/Tengu"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TenguHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Tengu/Tengu"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/TenguSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Tengu/Tengu"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wikiaUrl": "https://wiki.warframe.com/w/Zephyr"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Tengu/ZephyrPrime",
+    "name": "Zephyr Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "zephyr_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Tengu/ZephyrPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeChassisComponent",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "zephyr_prime_chassis_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Tengu/ZephyrPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeHelmetComponent",
+        "name": "Neuroptics",
+        "itemCount": 1,
+        "wfm_item_url": "zephyr_prime_neuroptics_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Tengu/ZephyrPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ZephyrPrimeSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "zephyr_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Tengu/ZephyrPrime"
+      }
+    ],
+    "type": "Warframe",
+    "category": "Warframes",
+    "wfm_item_url": "zephyr_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Zephyr%2FPrime",
+    "trading_tax": 8000
+  }
+]

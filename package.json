@@ -1,0 +1,14 @@
+{
+  "name": "warframe-nexus",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently -n api,web -c cyan,magenta \"cd backend && python -m uvicorn app.main:app --reload --port 8000\" \"cd frontend && npm run dev\"",
+    "dev:api": "cd backend && python -m uvicorn app.main:app --reload --port 8000",
+    "dev:web": "cd frontend && npm run dev",
+    "test": "cd backend && python -m pytest",
+    "build": "cd frontend && npm run build"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}

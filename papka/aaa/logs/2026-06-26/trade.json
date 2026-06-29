@@ -1,0 +1,33 @@
+{
+  "credits": 0,
+  "logs": [
+    "32772.984 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:",
+    "\rPrimed Ravage (LEGENDARY RANK 10)\r",
+    "\r",
+    "and will receive from suhh_bruhh671 the following:",
+    "\rPlatinum x 118, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)"
+  ],
+  "offeredItems": [
+    {
+      "item_type": "Mod",
+      "quantity": 1,
+      "raw": "Primed Ravage (LEGENDARY RANK 10)",
+      "sub_type": {
+        "rank": 10
+      },
+      "unique_name": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponCritDamageModExpert"
+    }
+  ],
+  "platinum": 118,
+  "playerName": "suhh_bruhh671",
+  "receivedItems": [
+    {
+      "item_type": "Platinum",
+      "quantity": 118,
+      "raw": "Platinum",
+      "unique_name": ""
+    }
+  ],
+  "tradeTime": "2026-06-26T19:21:00.505705600Z",
+  "type": "sale"
+}

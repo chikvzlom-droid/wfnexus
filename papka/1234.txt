@@ -1,0 +1,5125 @@
+{
+  "log": {
+    "version": "1.2",
+    "creator": {
+      "name": "WebInspector",
+      "version": "537.36"
+    },
+    "pages": [
+      {
+        "startedDateTime": "2026-06-28T20:52:52.887Z",
+        "id": "page_1",
+        "title": "https://tauri.localhost/",
+        "pageTimings": {
+          "onContentLoad": 190.08600001689047,
+          "onLoad": 190.3560000937432
+        }
+      }
+    ],
+    "entries": [
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "setLastUserActivity",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 13942
+              },
+              {
+                "functionName": "window.onclick",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 312,
+                "columnNumber": 28183
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "3433818581"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "2958012834"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 2,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 144,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:07.364Z",
+        "time": 1.3180000241845846,
+        "timings": {
+          "blocked": 1.3170000165700912,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.00100000761449337,
+          "_blocked_queueing": 1.3170000165700912,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "requestId": "13996.488"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:07.365Z",
+        "time": 0.24700001813471317,
+        "timings": {
+          "blocked": 0.08400005754083395,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.16299996059387922,
+          "_blocked_queueing": 0.08400005754083395,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "setLastUserActivity",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 13942
+              },
+              {
+                "functionName": "window.onclick",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 312,
+                "columnNumber": 28183
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "4284211671"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "1477068277"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 2,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 144,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:08.481Z",
+        "time": 0.538000138476491,
+        "timings": {
+          "blocked": 0.5360000068321824,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.002000131644308567,
+          "_blocked_queueing": 0.5360000068321824,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/stock_item_create",
+          "requestId": "13996.491"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/stock_item_create",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:10.874Z",
+        "time": 0.2739998744800687,
+        "timings": {
+          "blocked": 0.10299996938556433,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.17099990509450436,
+          "_blocked_queueing": 0.10299996938556433,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "setLastUserActivity",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 13942
+              },
+              {
+                "functionName": "window.onclick",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 312,
+                "columnNumber": 28183
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "479664487"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "2046436543"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 2,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 144,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:10.867Z",
+        "time": 0.7140000816434622,
+        "timings": {
+          "blocked": 0.7120000664144754,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.00200001522898674,
+          "_blocked_queueing": 0.7120000664144754,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "create",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 18957
+              },
+              {
+                "functionName": "mutationFn",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 9847
+              },
+              {
+                "functionName": "fn",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 30372
+              },
+              {
+                "functionName": "h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14462
+              },
+              {
+                "functionName": "start",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14921
+              },
+              {
+                "functionName": "execute",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 31016
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "mutate",
+                  "scriptId": "75",
+                  "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                  "lineNumber": 0,
+                  "columnNumber": 33665
+                },
+                {
+                  "functionName": "onSubmit",
+                  "scriptId": "173",
+                  "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                  "lineNumber": 0,
+                  "columnNumber": 12614
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 84852
+                },
+                {
+                  "functionName": "r",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 69188
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 69322
+                },
+                {
+                  "functionName": "wd",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 126470
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 131462
+                },
+                {
+                  "functionName": "Qt",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 15066
+                },
+                {
+                  "functionName": "Ad",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 127696
+                },
+                {
+                  "functionName": "gp",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 9,
+                  "columnNumber": 28494
+                },
+                {
+                  "functionName": "mp",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 9,
+                  "columnNumber": 28316
+                }
+              ]
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/stock_item_create",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "2297908836"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "1674436214"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 157,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"input\":{\"wfm_url\":\"abating_link\",\"bought\":0,\"quantity\":1,\"minimum_price\":0,\"sub_type\":{\"rank\":3},\"wfm_id\":\"54e644ffe779897594fa68d2\",\"raw\":\"abating_link\"}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 414,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 554,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:10.873Z",
+        "time": 1.6420000465586782,
+        "timings": {
+          "blocked": 1.639000023715198,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.00300002284348011,
+          "_blocked_queueing": 1.639000023715198,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/get_stock_item_pagination",
+          "requestId": "13996.492"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/get_stock_item_pagination",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:10.900Z",
+        "time": 0.49100001342594624,
+        "timings": {
+          "blocked": 0.15600002370774746,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.3349999897181988,
+          "_blocked_queueing": 0.15600002370774746,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/get_stock_item_financial_report",
+          "requestId": "13996.493"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/get_stock_item_financial_report",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:10.901Z",
+        "time": 0.3599999472498894,
+        "timings": {
+          "blocked": 0.17499993555247784,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.18500001169741154,
+          "_blocked_queueing": 0.17499993555247784,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/get_stock_item_status_counts",
+          "requestId": "13996.494"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/get_stock_item_status_counts",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:10.902Z",
+        "time": 0.5290000699460506,
+        "timings": {
+          "blocked": 0.13800000306218863,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.391000066883862,
+          "_blocked_queueing": 0.13800000306218863,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "getPagination",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 18553
+              },
+              {
+                "functionName": "queryFn",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4558
+              },
+              {
+                "functionName": "i",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 19814
+              },
+              {
+                "functionName": "h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14462
+              },
+              {
+                "functionName": "start",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14921
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 20619
+              },
+              {
+                "functionName": "#h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25190
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25077
+              },
+              {
+                "functionName": "refetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 24891
+              },
+              {
+                "functionName": "refetchQueries",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4928
+              },
+              {
+                "functionName": "onSuccess",
+                "scriptId": "142",
+                "url": "https://tauri.localhost/assets/genericMutation.helper-DfWhhaIP.js",
+                "lineNumber": 0,
+                "columnNumber": 377
+              },
+              {
+                "functionName": "execute",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 31125
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "mutate",
+                  "scriptId": "75",
+                  "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                  "lineNumber": 0,
+                  "columnNumber": 33665
+                },
+                {
+                  "functionName": "onSubmit",
+                  "scriptId": "173",
+                  "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                  "lineNumber": 0,
+                  "columnNumber": 12614
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 84852
+                },
+                {
+                  "functionName": "r",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 69188
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 69322
+                },
+                {
+                  "functionName": "wd",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 126470
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 131462
+                },
+                {
+                  "functionName": "Qt",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 15066
+                },
+                {
+                  "functionName": "Ad",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 127696
+                },
+                {
+                  "functionName": "gp",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 9,
+                  "columnNumber": 28494
+                },
+                {
+                  "functionName": "mp",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 9,
+                  "columnNumber": 28316
+                }
+              ]
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/get_stock_item_pagination",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "3715621660"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "1224230776"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 107,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"query\":{\"page\":1,\"limit\":10,\"sort_by\":\"owned\",\"sort_direction\":\"asc\",\"pagination\":{\"page\":1,\"limit\":10}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 474,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 614,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:10.900Z",
+        "time": 2.3639999562874436,
+        "timings": {
+          "blocked": 2.361999941058457,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.00200001522898674,
+          "_blocked_queueing": 2.361999941058457,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "getFinancialReport",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 18689
+              },
+              {
+                "functionName": "queryFn",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4673
+              },
+              {
+                "functionName": "i",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 19814
+              },
+              {
+                "functionName": "h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14462
+              },
+              {
+                "functionName": "start",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14921
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 20619
+              },
+              {
+                "functionName": "#h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25190
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25077
+              },
+              {
+                "functionName": "refetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 24891
+              },
+              {
+                "functionName": "refetchQueries",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4940
+              },
+              {
+                "functionName": "onSuccess",
+                "scriptId": "142",
+                "url": "https://tauri.localhost/assets/genericMutation.helper-DfWhhaIP.js",
+                "lineNumber": 0,
+                "columnNumber": 377
+              },
+              {
+                "functionName": "execute",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 31125
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "mutate",
+                  "scriptId": "75",
+                  "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                  "lineNumber": 0,
+                  "columnNumber": 33665
+                },
+                {
+                  "functionName": "onSubmit",
+                  "scriptId": "173",
+                  "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                  "lineNumber": 0,
+                  "columnNumber": 12614
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 84852
+                },
+                {
+                  "functionName": "r",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 69188
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 69322
+                },
+                {
+                  "functionName": "wd",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 126470
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 131462
+                },
+                {
+                  "functionName": "Qt",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 15066
+                },
+                {
+                  "functionName": "Ad",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 127696
+                },
+                {
+                  "functionName": "gp",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 9,
+                  "columnNumber": 28494
+                },
+                {
+                  "functionName": "mp",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 9,
+                  "columnNumber": 28316
+                }
+              ]
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/get_stock_item_financial_report",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "2734550364"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "3775866092"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 107,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"query\":{\"page\":1,\"limit\":10,\"sort_by\":\"owned\",\"sort_direction\":\"asc\",\"pagination\":{\"page\":1,\"limit\":10}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 312,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 452,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:10.901Z",
+        "time": 2.208000048995018,
+        "timings": {
+          "blocked": 2.2059999173507094,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.002000131644308567,
+          "_blocked_queueing": 2.2059999173507094,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "getStatusCounts",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 18828
+              },
+              {
+                "functionName": "queryFn",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4778
+              },
+              {
+                "functionName": "i",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 19814
+              },
+              {
+                "functionName": "h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14462
+              },
+              {
+                "functionName": "start",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14921
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 20619
+              },
+              {
+                "functionName": "#h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25190
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25077
+              },
+              {
+                "functionName": "refetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 24891
+              },
+              {
+                "functionName": "refetchQueries",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4955
+              },
+              {
+                "functionName": "onSuccess",
+                "scriptId": "142",
+                "url": "https://tauri.localhost/assets/genericMutation.helper-DfWhhaIP.js",
+                "lineNumber": 0,
+                "columnNumber": 377
+              },
+              {
+                "functionName": "execute",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 31125
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "mutate",
+                  "scriptId": "75",
+                  "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                  "lineNumber": 0,
+                  "columnNumber": 33665
+                },
+                {
+                  "functionName": "onSubmit",
+                  "scriptId": "173",
+                  "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                  "lineNumber": 0,
+                  "columnNumber": 12614
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 84852
+                },
+                {
+                  "functionName": "r",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 69188
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 307,
+                  "columnNumber": 69322
+                },
+                {
+                  "functionName": "wd",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 126470
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 131462
+                },
+                {
+                  "functionName": "Qt",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 15066
+                },
+                {
+                  "functionName": "Ad",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 127696
+                },
+                {
+                  "functionName": "gp",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 9,
+                  "columnNumber": 28494
+                },
+                {
+                  "functionName": "mp",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 9,
+                  "columnNumber": 28316
+                }
+              ]
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/get_stock_item_status_counts",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "2512534203"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "1500878230"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 66,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"query\":{\"page\":1,\"limit\":-1,\"pagination\":{\"page\":1,\"limit\":-1}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 13,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 153,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:10.902Z",
+        "time": 2.754999906755984,
+        "timings": {
+          "blocked": 2.753000007942319,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.001999898813664913,
+          "_blocked_queueing": 2.753000007942319,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "requestId": "13996.495"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:15.202Z",
+        "time": 0.25699997786432505,
+        "timings": {
+          "blocked": 0.0849999487400055,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.17200002912431955,
+          "_blocked_queueing": 0.0849999487400055,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "setLastUserActivity",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 13942
+              },
+              {
+                "functionName": "window.onclick",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 312,
+                "columnNumber": 28183
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "3337384500"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "760220075"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 2,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 144,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:15.201Z",
+        "time": 1.408000010997057,
+        "timings": {
+          "blocked": 1.4070000033825636,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.00100000761449337,
+          "_blocked_queueing": 1.4070000033825636,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/live_scraper_toggle",
+          "requestId": "13996.496"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/live_scraper_toggle",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:17.385Z",
+        "time": 0.33199996687471867,
+        "timings": {
+          "blocked": 0.1039999770000577,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.22799998987466097,
+          "_blocked_queueing": 0.1039999770000577,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "toggle",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 18225
+              },
+              {
+                "functionName": "mutationFn",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 46457
+              },
+              {
+                "functionName": "fn",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 30372
+              },
+              {
+                "functionName": "h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14462
+              },
+              {
+                "functionName": "start",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14921
+              },
+              {
+                "functionName": "execute",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 31016
+              }
+            ],
+            "parent": {
+              "description": "await",
+              "callFrames": [
+                {
+                  "functionName": "mutate",
+                  "scriptId": "75",
+                  "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                  "lineNumber": 0,
+                  "columnNumber": 33665
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "75",
+                  "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                  "lineNumber": 0,
+                  "columnNumber": 37271
+                },
+                {
+                  "functionName": "onConfirm",
+                  "scriptId": "173",
+                  "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                  "lineNumber": 0,
+                  "columnNumber": 46853
+                },
+                {
+                  "functionName": "m",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 59,
+                  "columnNumber": 61042
+                },
+                {
+                  "functionName": "wd",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 126470
+                },
+                {
+                  "functionName": "",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 131462
+                },
+                {
+                  "functionName": "Qt",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 15066
+                },
+                {
+                  "functionName": "Ad",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 8,
+                  "columnNumber": 127696
+                },
+                {
+                  "functionName": "gp",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 9,
+                  "columnNumber": 28494
+                },
+                {
+                  "functionName": "mp",
+                  "scriptId": "74",
+                  "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                  "lineNumber": 9,
+                  "columnNumber": 28316
+                }
+              ]
+            }
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/live_scraper_toggle",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "1340984996"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "4276849641"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 2,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 144,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:17.385Z",
+        "time": 1.7499999376013875,
+        "timings": {
+          "blocked": 1.7469999147579074,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.00300002284348011,
+          "_blocked_queueing": 1.7469999147579074,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "setLastUserActivity",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 13942
+              },
+              {
+                "functionName": "window.onclick",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 312,
+                "columnNumber": 28183
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "3238107378"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "1398810241"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 2,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 144,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:17.388Z",
+        "time": 1.8350000027567148,
+        "timings": {
+          "blocked": 1.832999987527728,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.00200001522898674,
+          "_blocked_queueing": 1.832999987527728,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/get_stock_item_pagination",
+          "requestId": "13996.498"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/get_stock_item_pagination",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:18.191Z",
+        "time": 0.24800002574920654,
+        "timings": {
+          "blocked": 0.0890000956133008,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.15899993013590574,
+          "_blocked_queueing": 0.0890000956133008,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/get_stock_item_financial_report",
+          "requestId": "13996.499"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/get_stock_item_financial_report",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:18.191Z",
+        "time": 0.2210000529885292,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.2210000529885292,
+          "_blocked_queueing": -1,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "getPagination",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 18553
+              },
+              {
+                "functionName": "queryFn",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4558
+              },
+              {
+                "functionName": "i",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 19814
+              },
+              {
+                "functionName": "h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14462
+              },
+              {
+                "functionName": "start",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14921
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 20619
+              },
+              {
+                "functionName": "#h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25190
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25077
+              },
+              {
+                "functionName": "refetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 24891
+              },
+              {
+                "functionName": "refetchQueries",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4928
+              },
+              {
+                "functionName": "ie",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 12104
+              },
+              {
+                "functionName": "fire",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 11333
+              },
+              {
+                "functionName": "fire",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 11916
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 13449
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 271,
+                "columnNumber": 25
+              },
+              {
+                "functionName": "runCallback",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 283,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 365,
+                "columnNumber": 39
+              },
+              {
+                "functionName": "",
+                "scriptId": "800",
+                "url": "",
+                "lineNumber": 0,
+                "columnNumber": 87
+              },
+              {
+                "functionName": "",
+                "scriptId": "800",
+                "url": "",
+                "lineNumber": 0,
+                "columnNumber": 225
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/get_stock_item_pagination",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "1933207293"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "179325713"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 107,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"query\":{\"page\":1,\"limit\":10,\"sort_by\":\"owned\",\"sort_direction\":\"asc\",\"pagination\":{\"page\":1,\"limit\":10}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 526,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 666,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:18.190Z",
+        "time": 1.3649999164044857,
+        "timings": {
+          "blocked": 1.3630000175908208,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.001999898813664913,
+          "_blocked_queueing": 1.3630000175908208,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/get_stock_item_status_counts",
+          "requestId": "13996.500"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/get_stock_item_status_counts",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:18.193Z",
+        "time": 0.27299998328089714,
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.27299998328089714,
+          "_blocked_queueing": -1,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "getFinancialReport",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 18689
+              },
+              {
+                "functionName": "queryFn",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4673
+              },
+              {
+                "functionName": "i",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 19814
+              },
+              {
+                "functionName": "h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14462
+              },
+              {
+                "functionName": "start",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14921
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 20619
+              },
+              {
+                "functionName": "#h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25190
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25077
+              },
+              {
+                "functionName": "refetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 24891
+              },
+              {
+                "functionName": "refetchQueries",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4940
+              },
+              {
+                "functionName": "ie",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 12104
+              },
+              {
+                "functionName": "fire",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 11333
+              },
+              {
+                "functionName": "fire",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 11916
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 13449
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 271,
+                "columnNumber": 25
+              },
+              {
+                "functionName": "runCallback",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 283,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 365,
+                "columnNumber": 39
+              },
+              {
+                "functionName": "",
+                "scriptId": "800",
+                "url": "",
+                "lineNumber": 0,
+                "columnNumber": 87
+              },
+              {
+                "functionName": "",
+                "scriptId": "800",
+                "url": "",
+                "lineNumber": 0,
+                "columnNumber": 225
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/get_stock_item_financial_report",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "4026212790"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "1942445834"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 107,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"query\":{\"page\":1,\"limit\":10,\"sort_by\":\"owned\",\"sort_direction\":\"asc\",\"pagination\":{\"page\":1,\"limit\":10}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 321,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 461,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:18.191Z",
+        "time": 1.496999990195036,
+        "timings": {
+          "blocked": 1.4939999673515558,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.00300002284348011,
+          "_blocked_queueing": 1.4939999673515558,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "getStatusCounts",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 18828
+              },
+              {
+                "functionName": "queryFn",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4778
+              },
+              {
+                "functionName": "i",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 19814
+              },
+              {
+                "functionName": "h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14462
+              },
+              {
+                "functionName": "start",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 14921
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 20619
+              },
+              {
+                "functionName": "#h",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25190
+              },
+              {
+                "functionName": "fetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 25077
+              },
+              {
+                "functionName": "refetch",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 0,
+                "columnNumber": 24891
+              },
+              {
+                "functionName": "refetchQueries",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 4955
+              },
+              {
+                "functionName": "ie",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 12104
+              },
+              {
+                "functionName": "fire",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 11333
+              },
+              {
+                "functionName": "fire",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 11916
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 13449
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 271,
+                "columnNumber": 25
+              },
+              {
+                "functionName": "runCallback",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 283,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 365,
+                "columnNumber": 39
+              },
+              {
+                "functionName": "",
+                "scriptId": "800",
+                "url": "",
+                "lineNumber": 0,
+                "columnNumber": 87
+              },
+              {
+                "functionName": "",
+                "scriptId": "800",
+                "url": "",
+                "lineNumber": 0,
+                "columnNumber": 225
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/get_stock_item_status_counts",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "839043701"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "3840918996"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 66,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{\"query\":{\"page\":1,\"limit\":-1,\"pagination\":{\"page\":1,\"limit\":-1}}}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 10,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 150,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:18.191Z",
+        "time": 3.092000028118491,
+        "timings": {
+          "blocked": 3.0899998964741826,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.002000131644308567,
+          "_blocked_queueing": 3.0899998964741826,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/live_scraper_toggle",
+          "requestId": "13996.501"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/live_scraper_toggle",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:27.125Z",
+        "time": 0.3720000386238098,
+        "timings": {
+          "blocked": 0.11200003791600466,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.26000000070780516,
+          "_blocked_queueing": 0.11200003791600466,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "preflight",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "requestId": "13996.502"
+        },
+        "_priority": "High",
+        "_resourceType": "preflight",
+        "cache": {},
+        "request": {
+          "method": "OPTIONS",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "*/*"
+            },
+            {
+              "name": "Access-Control-Request-Headers",
+              "value": "content-type,tauri-callback,tauri-error,tauri-invoke-key"
+            },
+            {
+              "name": "Access-Control-Request-Method",
+              "value": "POST"
+            },
+            {
+              "name": "Origin",
+              "value": "https://tauri.localhost"
+            },
+            {
+              "name": "Sec-Fetch-Mode",
+              "value": "cors"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-allow-headers",
+              "value": "*"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 0,
+            "mimeType": "x-unknown"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 0,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:27.125Z",
+        "time": 0.31100003980100155,
+        "timings": {
+          "blocked": 0.1319999573752284,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.17900008242577314,
+          "_blocked_queueing": 0.1319999573752284,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "toggle",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 18225
+              },
+              {
+                "functionName": "d",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 46890
+              },
+              {
+                "functionName": "onClick",
+                "scriptId": "173",
+                "url": "https://tauri.localhost/assets/live_scraper-DwwWZ2hR.js",
+                "lineNumber": 0,
+                "columnNumber": 47061
+              },
+              {
+                "functionName": "wd",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 8,
+                "columnNumber": 126470
+              },
+              {
+                "functionName": "",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 8,
+                "columnNumber": 131462
+              },
+              {
+                "functionName": "Qt",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 8,
+                "columnNumber": 15066
+              },
+              {
+                "functionName": "Ad",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 8,
+                "columnNumber": 127696
+              },
+              {
+                "functionName": "gp",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 9,
+                "columnNumber": 28494
+              },
+              {
+                "functionName": "mp",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 9,
+                "columnNumber": 28316
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/live_scraper_toggle",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "1810232792"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "3114566776"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 2,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 144,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:27.124Z",
+        "time": 2.2430000826716423,
+        "timings": {
+          "blocked": 2.2409999510273337,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.002000131644308567,
+          "_blocked_queueing": 2.2409999510273337,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      },
+      {
+        "_initiator": {
+          "type": "script",
+          "stack": {
+            "callFrames": [
+              {
+                "functionName": "sendIpcMessage",
+                "scriptId": "63",
+                "url": "",
+                "lineNumber": 82,
+                "columnNumber": 6
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 176,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "action",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 335,
+                "columnNumber": 37
+              },
+              {
+                "functionName": "",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 344,
+                "columnNumber": 10
+              },
+              {
+                "functionName": "value",
+                "scriptId": "65",
+                "url": "",
+                "lineNumber": 324,
+                "columnNumber": 13
+              },
+              {
+                "functionName": "Jl",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 8505
+              },
+              {
+                "functionName": "",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32557
+              },
+              {
+                "functionName": "sendInvoke",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 32537
+              },
+              {
+                "functionName": "setLastUserActivity",
+                "scriptId": "75",
+                "url": "https://tauri.localhost/assets/helper-Cdf5_Lb8.js",
+                "lineNumber": 557,
+                "columnNumber": 13942
+              },
+              {
+                "functionName": "window.onclick",
+                "scriptId": "74",
+                "url": "https://tauri.localhost/assets/index-DIoQgpis.js",
+                "lineNumber": 312,
+                "columnNumber": 28183
+              }
+            ]
+          }
+        },
+        "_priority": "High",
+        "_resourceType": "fetch",
+        "cache": {},
+        "request": {
+          "method": "POST",
+          "url": "https://ipc.localhost/analytics_set_last_user_activity",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "sec-ch-ua-platform",
+              "value": "\"Windows\""
+            },
+            {
+              "name": "Referer",
+              "value": "https://tauri.localhost/"
+            },
+            {
+              "name": "sec-ch-ua",
+              "value": "\"Not)A;Brand\";v=\"24\", \"Microsoft Edge WebView2\";v=\"149\", \"Microsoft Edge\";v=\"149\", \"Chromium\";v=\"149\""
+            },
+            {
+              "name": "sec-ch-ua-mobile",
+              "value": "?0"
+            },
+            {
+              "name": "tauri-invoke-key",
+              "value": "5<7qIcFV+eyMsf1l?Ta{"
+            },
+            {
+              "name": "tauri-error",
+              "value": "1806692037"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Quantframe"
+            },
+            {
+              "name": "tauri-callback",
+              "value": "3393131949"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 2,
+          "postData": {
+            "mimeType": "application/json",
+            "text": "{}"
+          }
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "http/1.1",
+          "headers": [
+            {
+              "name": "access-control-expose-headers",
+              "value": "Tauri-Response"
+            },
+            {
+              "name": "tauri-response",
+              "value": "ok"
+            },
+            {
+              "name": "access-control-allow-origin",
+              "value": "*"
+            },
+            {
+              "name": "content-type",
+              "value": "application/json"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 4,
+            "mimeType": "application/json"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": -1,
+          "_transferSize": 144,
+          "_error": null,
+          "_fetchedViaServiceWorker": false
+        },
+        "serverIPAddress": "",
+        "startedDateTime": "2026-06-28T21:20:27.125Z",
+        "time": 1.9259999971836805,
+        "timings": {
+          "blocked": 1.9239999819546938,
+          "dns": -1,
+          "ssl": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": null,
+          "receive": 0.00200001522898674,
+          "_blocked_queueing": 1.9239999819546938,
+          "_workerStart": -1,
+          "_workerReady": -1,
+          "_workerFetchStart": -1,
+          "_workerRespondWithSettled": -1
+        },
+        "pageref": "page_1"
+      }
+    ]
+  }
+} responce get_stock_item_financial_report
+
+query
+: 
+{page: 1, limit: 10, sort_by: "owned", sort_direction: "asc", pagination: {page: 1, limit: 10}}
+limit
+: 
+10
+page
+: 
+1
+pagination
+: 
+{page: 1, limit: 10}
+limit
+: 
+10
+page
+: 
+1
+sort_by
+: 
+"owned"
+sort_direction
+: 
+"asc"
+ {
+  "page": 1,
+  "limit": 10,
+  "sort_by": "owned",
+  "sort_direction": "asc",
+  "pagination": {
+    "page": 1,
+    "limit": 10
+  }
+} Request URL
+https://ipc.localhost/get_stock_item_financial_report
+Request Method
+OPTIONS
+Status Code
+200 OK
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-headers
+*
+access-control-allow-origin
+*
+access-control-expose-headers
+Tauri-Response
+accept
+*/*
+access-control-request-headers
+content-type,tauri-callback,tauri-error,tauri-invoke-key
+access-control-request-method
+POST
+origin
+https://tauri.localhost
+sec-fetch-mode
+cors
+user-agent
+Quantframe Request URL
+https://ipc.localhost/get_stock_item_financial_report
+Request Method
+OPTIONS
+Status Code
+200 OK
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-headers
+*
+access-control-allow-origin
+*
+access-control-expose-headers
+Tauri-Response
+accept
+*/*
+access-control-request-headers
+content-type,tauri-callback,tauri-error,tauri-invoke-key
+access-control-request-method
+POST
+origin
+https://tauri.localhost
+sec-fetch-mode
+cors
+user-agent
+Quantframe там еще есть gsi pagination , status counts , live scraper toggle , stock item create: {input: {wfm_url: "abating_link", bought: 0, quantity: 1, minimum_price: 0, sub_type: {rank: 3},…}}
+input
+: 
+{wfm_url: "abating_link", bought: 0, quantity: 1, minimum_price: 0, sub_type: {rank: 3},…}
+bought
+: 
+0
+minimum_price
+: 
+0
+quantity
+: 
+1
+raw
+: 
+"abating_link"
+sub_type
+: 
+{rank: 3}
+rank
+: 
+3
+wfm_id
+: 
+"54e644ffe779897594fa68d2"
+wfm_url
+: 
+"abating_link" equest URL
+https://ipc.localhost/stock_item_create
+Request Method
+OPTIONS
+Status Code
+200 OK
+Referrer Policy
+strict-origin-when-cross-origin
+access-control-allow-headers
+*
+access-control-allow-origin
+*
+access-control-expose-headers
+Tauri-Response
+accept
+*/*
+access-control-request-headers
+content-type,tauri-callback,tauri-error,tauri-invoke-key
+access-control-request-method
+POST
+origin
+https://tauri.localhost
+sec-fetch-mode
+cors
+user-agent
+Quantframe

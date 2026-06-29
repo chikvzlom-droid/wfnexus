@@ -1,0 +1,368 @@
+[
+  {
+    "name": "Agkuza",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHookSwordBlade",
+        "name": "Blade",
+        "itemCount": 1,
+        "wfm_item_url": "agkuza_blade",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchHookSwordBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHookSwordGuard",
+        "name": "Guard",
+        "itemCount": 1,
+        "wfm_item_url": "agkuza_guard",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHookSwordHandle",
+        "name": "Handle",
+        "itemCount": 1,
+        "wfm_item_url": "agkuza_handle",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon"
+      }
+    ],
+    "type": "Arch-Melee",
+    "category": "Arch-Melee",
+    "wfm_item_url": "agkuza_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Agkuza",
+    "trading_tax": 6000,
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare"
+  },
+  {
+    "name": "Centaur",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchSwordShieldAegis",
+        "name": "Aegis",
+        "itemCount": 1,
+        "wfm_item_url": "centaur_aegis",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchSwordShieldBlade",
+        "name": "Blade",
+        "itemCount": 1,
+        "wfm_item_url": "centaur_blade",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchSwordShieldBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchSwordShieldHandle",
+        "name": "Handle",
+        "itemCount": 1,
+        "wfm_item_url": "centaur_handle",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield"
+      }
+    ],
+    "type": "Arch-Melee",
+    "category": "Arch-Melee",
+    "wfm_item_url": "centaur_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Centaur",
+    "trading_tax": 6000,
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare"
+  },
+  {
+    "name": "Corufell",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ExaltedArchScythe/ExaltedAWScytheWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GunScytheBlade",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "corufell_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ExaltedArchScythe/ExaltedAWScytheWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GunScytheBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ExaltedArchScythe/ExaltedAWScytheWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GunScytheHandle",
+        "name": "Handle",
+        "itemCount": 1,
+        "wfm_item_url": "corufell_handle",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ExaltedArchScythe/ExaltedAWScytheWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GunScytheReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "corufell_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ExaltedArchScythe/ExaltedAWScytheWeapon"
+      }
+    ],
+    "type": "Arch-Melee",
+    "category": "Arch-Melee",
+    "wfm_item_url": "corufell_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Corufell",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare",
+    "wfm_riven_url": "corufell"
+  },
+  {
+    "name": "Kaszas",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchScythe/ArchScythe",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchScytheBlade",
+        "name": "Blade",
+        "itemCount": 1,
+        "wfm_item_url": "kaszas_blade",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchScythe/ArchScythe"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchScytheBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchScythe/ArchScythe"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchScytheHandle",
+        "name": "Handle",
+        "itemCount": 1,
+        "wfm_item_url": "kaszas_handle",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchScythe/ArchScythe"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
+        "name": "Tellurium",
+        "itemCount": 3
+      }
+    ],
+    "type": "Arch-Melee",
+    "category": "Arch-Melee",
+    "wfm_item_url": "kaszas_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Kaszas",
+    "trading_tax": 4000,
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare"
+  },
+  {
+    "name": "Knux",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/GrnArchHand/GrnArchHandWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/GrnArchHandBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/GrnArchHand/GrnArchHandWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
+        "name": "Detonite Injector",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/GrnArchHand/GrnArchHandWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/GrnArchHand/GrnArchHandWeapon"
+      },
+      {
+        "name": "Furax",
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/Fist/Fist",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/GrnArchHand/GrnArchHandWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 10
+      }
+    ],
+    "type": "Arch-Melee",
+    "category": "Arch-Melee",
+    "wikiaUrl": "https://wiki.warframe.com/w/Knux",
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare"
+  },
+  {
+    "name": "Onorix",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchAxeBlade",
+        "name": "Blade",
+        "itemCount": 2,
+        "wfm_item_url": "onorix_blade",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchAxeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchAxeHandle",
+        "name": "Handle",
+        "itemCount": 1,
+        "wfm_item_url": "onorix_handle",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon"
+      }
+    ],
+    "type": "Arch-Melee",
+    "category": "Arch-Melee",
+    "wfm_item_url": "onorix_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Onorix",
+    "trading_tax": 6000,
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare"
+  },
+  {
+    "name": "Prisma Veritux",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon",
+    "type": "Arch-Melee",
+    "category": "Arch-Melee",
+    "wfm_item_url": "prisma_veritux",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Prisma_Veritux",
+    "trading_tax": 2000,
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare"
+  },
+  {
+    "name": "Rathbone",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchHammerBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 300
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHammerHandle",
+        "name": "Handle",
+        "itemCount": 1,
+        "wfm_item_url": "rathbone_handle",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHammerHead",
+        "name": "Head",
+        "itemCount": 1,
+        "wfm_item_url": "rathbone_head",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer"
+      }
+    ],
+    "type": "Arch-Melee",
+    "category": "Arch-Melee",
+    "wfm_item_url": "rathbone_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Rathbone",
+    "trading_tax": 4000,
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare"
+  },
+  {
+    "name": "Veritux",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/VerituxBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 1000
+      }
+    ],
+    "type": "Arch-Melee",
+    "category": "Arch-Melee",
+    "wikiaUrl": "https://wiki.warframe.com/w/Veritux",
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare"
+  }
+]

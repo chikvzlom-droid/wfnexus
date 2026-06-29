@@ -1,0 +1,33 @@
+{
+  "credits": 0,
+  "logs": [
+    "7430.633 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:",
+    "\rBlind Rage (RARE RANK 10)\r",
+    "\r",
+    "and will receive from S0rrowfu1 the following:",
+    "\rPlatinum x 75, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)"
+  ],
+  "offeredItems": [
+    {
+      "item_type": "Mod",
+      "quantity": 1,
+      "raw": "Blind Rage (RARE RANK 10)",
+      "sub_type": {
+        "rank": 10
+      },
+      "unique_name": "/Lotus/Upgrades/Mods/Warframe/DualStat/CorruptedPowerEfficiencyWarframe"
+    }
+  ],
+  "platinum": 75,
+  "playerName": "S0rrowfu1",
+  "receivedItems": [
+    {
+      "item_type": "Platinum",
+      "quantity": 75,
+      "raw": "Platinum",
+      "unique_name": ""
+    }
+  ],
+  "tradeTime": "2026-06-23T17:04:04.888099Z",
+  "type": "sale"
+}

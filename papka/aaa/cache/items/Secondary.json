@@ -1,0 +1,5196 @@
+[
+  {
+    "name": "Acrid",
+    "uniqueName": "/Lotus/Weapons/ClanTech/Bio/AcidDartPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Bio/AcidDartPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/ClanTech/Bio/AcidDartPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/ClanTech/Bio/AcidDartPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/BioComponent",
+        "name": "Mutagen Mass",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/ClanTech/Bio/AcidDartPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 5000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 6000
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Acrid",
+    "disposition_rank": 5,
+    "disposition": 1.33,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "acrid"
+  },
+  {
+    "name": "Aegrit",
+    "uniqueName": "/Lotus/Weapons/Grineer/ThrowingWeapons/GrnVorStickyBomb/GrnVorStickyBomb",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 8500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GrnVorStickyBombBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/ThrowingWeapons/GrnVorStickyBomb/GrnVorStickyBomb"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 12500,
+        "part_of_set": "/Lotus/Weapons/Grineer/ThrowingWeapons/GrnVorStickyBomb/GrnVorStickyBomb"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Kuva",
+        "name": "Kuva",
+        "itemCount": 2200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Aegrit",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "aegrit"
+  },
+  {
+    "name": "Afuris",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboAutoPistols",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AFurisBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboAutoPistols"
+      },
+      {
+        "name": "Furis",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/AutoPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboAutoPistols"
+      },
+      {
+        "name": "Furis",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/AutoPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboAutoPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Afuris",
+    "disposition_rank": 5,
+    "disposition": 1.45,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "afuris"
+  },
+  {
+    "name": "Afuris Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAfuris/PrimeAFurisWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfurisPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 2,
+        "wfm_item_url": "afuris_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAfuris/PrimeAFurisWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AfurisPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "afuris_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAfuris/PrimeAFurisWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfurisPrimeLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "afuris_prime_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAfuris/PrimeAFurisWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AfurisPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 2,
+        "wfm_item_url": "afuris_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAfuris/PrimeAFurisWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "afuris_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Afuris_Prime",
+    "trading_tax": 12000,
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "afuris"
+  },
+  {
+    "name": "Akarius",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SapientPistol/SapientPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SapientPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/SapientPistol/SapientPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ConcentratedGas",
+        "name": "Hexenon",
+        "itemCount": 150
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 7500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/SapientPistol/SapientPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1600
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Akarius",
+    "disposition_rank": 3,
+    "disposition": 1.05,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akarius"
+  },
+  {
+    "name": "Akarius Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAkarius/PrimeAkariusWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkariusPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 2,
+        "wfm_item_url": "akarius_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkarius/PrimeAkariusWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AkariusPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "akarius_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkarius/PrimeAkariusWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkariusPrimeLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "akarius_prime_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkarius/PrimeAkariusWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkariusPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 2,
+        "wfm_item_url": "akarius_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkarius/PrimeAkariusWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "akarius_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Akarius_Prime",
+    "trading_tax": 12000,
+    "disposition_rank": 1,
+    "disposition": 0.64999998,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akarius"
+  },
+  {
+    "name": "Akbolto",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboBolto",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AkBoltoBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboBolto"
+      },
+      {
+        "name": "Bolto",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/CrossBow",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboBolto"
+      },
+      {
+        "name": "Bolto",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/CrossBow",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboBolto"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Akbolto",
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akbolto"
+  },
+  {
+    "name": "Akbolto Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAkbolto/PrimeAkBoltoWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkboltoPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 2,
+        "wfm_item_url": "akbolto_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkbolto/PrimeAkBoltoWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AkboltoPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "akbolto_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkbolto/PrimeAkBoltoWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkboltoPrimeLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "akbolto_prime_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkbolto/PrimeAkBoltoWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkboltoPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 2,
+        "wfm_item_url": "akbolto_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkbolto/PrimeAkBoltoWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "akbolto_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Akbolto_Prime",
+    "trading_tax": 12000,
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akbolto"
+  },
+  {
+    "name": "Akbronco",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboShotGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/DualBroncosBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboShotGun"
+      },
+      {
+        "name": "Bronco",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/HandShotGun",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboShotGun"
+      },
+      {
+        "name": "Bronco",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/HandShotGun",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboShotGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Akbronco",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akbronco"
+  },
+  {
+    "name": "Akbronco Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/PrimeAkimboShotGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AkbroncoPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "akbronco_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/PrimeAkimboShotGun"
+      },
+      {
+        "name": "Bronco Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/BroncoPrime",
+        "itemCount": 1,
+        "wfm_item_url": "bronco_prime_set",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/PrimeAkimboShotGun"
+      },
+      {
+        "name": "Bronco Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/BroncoPrime",
+        "itemCount": 1,
+        "wfm_item_url": "bronco_prime_set",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/PrimeAkimboShotGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkbroncoPrimeLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "akbronco_prime_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/PrimeAkimboShotGun"
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wfm_item_url": "akbronco_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Akbronco_Prime",
+    "trading_tax": 8000,
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akbronco"
+  },
+  {
+    "name": "Akjagara",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TigrisRedeemerSetPistol/TnoBladedPistols",
+    "components": [
+      {
+        "name": "Akbolto",
+        "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboBolto",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TigrisRedeemerSetPistol/TnoBladedPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TnoBladedPistolsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TigrisRedeemerSetPistol/TnoBladedPistols"
+      },
+      {
+        "name": "Dual Skana",
+        "uniqueName": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualShortSword",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TigrisRedeemerSetPistol/TnoBladedPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 2
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Akjagara",
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akjagara"
+  },
+  {
+    "name": "Akjagara Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkjagaraPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 2,
+        "wfm_item_url": "akjagara_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AkjagaraPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "akjagara_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkjagaraPrimeLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "akjagara_prime_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkjagaraPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 2,
+        "wfm_item_url": "akjagara_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "akjagara_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Akjagara_Prime",
+    "trading_tax": 12000,
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akjagara"
+  },
+  {
+    "name": "Aklato",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboPistol",
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Aklato",
+    "disposition_rank": 5,
+    "disposition": 1.52,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "aklato"
+  },
+  {
+    "name": "Aklex",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkLexPistols",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AklexBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkLexPistols"
+      },
+      {
+        "name": "Lex",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/HeavyPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkLexPistols"
+      },
+      {
+        "name": "Lex",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/HeavyPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkLexPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Aklex",
+    "disposition_rank": 3,
+    "disposition": 1.05,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "aklex"
+  },
+  {
+    "name": "Aklex Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AklexPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "aklex_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols"
+      },
+      {
+        "name": "Lex Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex",
+        "itemCount": 1,
+        "wfm_item_url": "lex_prime_set",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols"
+      },
+      {
+        "name": "Lex Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex",
+        "itemCount": 1,
+        "wfm_item_url": "lex_prime_set",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AklexPrimeLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "aklex_prime_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols"
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wfm_item_url": "aklex_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Aklex_Prime",
+    "trading_tax": 8000,
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "aklex"
+  },
+  {
+    "name": "Akmagnus",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/DualMagnus",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/DualMagnusBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/DualMagnus"
+      },
+      {
+        "name": "Magnus",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/Magnum/Magnum",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/DualMagnus"
+      },
+      {
+        "name": "Magnus",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/Magnum/Magnum",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/DualMagnus"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 2
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Akmagnus",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akmagnus"
+  },
+  {
+    "name": "Akmagnus Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/DualMagnusPrime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AkmagnusPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "akmagnus_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/DualMagnusPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkmagnusPrimeLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "akmagnus_prime_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/DualMagnusPrime"
+      },
+      {
+        "name": "Magnus Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeMagnus/PrimeMagnusWeapon",
+        "itemCount": 1,
+        "wfm_item_url": "magnus_prime_set",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/DualMagnusPrime"
+      },
+      {
+        "name": "Magnus Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeMagnus/PrimeMagnusWeapon",
+        "itemCount": 1,
+        "wfm_item_url": "magnus_prime_set",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/DualMagnusPrime"
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wfm_item_url": "akmagnus_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Akmagnus_Prime",
+    "trading_tax": 8000,
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akmagnus"
+  },
+  {
+    "name": "Aksomati",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SomaSidearm/AkimboSomaPistols",
+    "components": [
+      {
+        "name": "Akstiletto",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TennoUzi/TennoUzi",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/SomaSidearm/AkimboSomaPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AksomatiBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/SomaSidearm/AkimboSomaPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Aksomati",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "aksomati"
+  },
+  {
+    "name": "Aksomati Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAksomati/PrimeAksomati",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AksomatiPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 2,
+        "wfm_item_url": "aksomati_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAksomati/PrimeAksomati"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AksomatiPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "aksomati_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAksomati/PrimeAksomati"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AksomatiPrimeLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "aksomati_prime_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAksomati/PrimeAksomati"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AksomatiPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 2,
+        "wfm_item_url": "aksomati_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAksomati/PrimeAksomati"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "aksomati_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Aksomati_Prime",
+    "trading_tax": 12000,
+    "disposition_rank": 3,
+    "disposition": 1.05,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "aksomati"
+  },
+  {
+    "name": "Akstiletto",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TennoUzi/TennoUzi",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TennoUziBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TennoUzi/TennoUzi"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TennoUzi/TennoUzi"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 800
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Akstiletto",
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akstiletto"
+  },
+  {
+    "name": "Akstiletto Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeAkstiletto/PrimeAkstiletto",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkstilettoPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 2,
+        "wfm_item_url": "akstiletto_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkstiletto/PrimeAkstiletto"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AkstilettoPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "akstiletto_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkstiletto/PrimeAkstiletto"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkstilettoPrimeLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "akstiletto_prime_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkstiletto/PrimeAkstiletto"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkstilettoPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 2,
+        "wfm_item_url": "akstiletto_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeAkstiletto/PrimeAkstiletto"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "akstiletto_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Akstiletto_Prime",
+    "trading_tax": 12000,
+    "disposition_rank": 2,
+    "disposition": 0.85000002,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akstiletto"
+  },
+  {
+    "name": "Akvasto",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/DualVastos",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/DualVastosBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/DualVastos"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 2
+      },
+      {
+        "name": "Vasto",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/RevolverPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/DualVastos"
+      },
+      {
+        "name": "Vasto",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/RevolverPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/DualVastos"
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Akvasto",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akvasto"
+  },
+  {
+    "name": "Akvasto Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/AkPrimeVasto/AkPrimeVastoPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AkvastoPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "akvasto_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/AkPrimeVasto/AkPrimeVastoPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AkvastoPrimeLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "akvasto_prime_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/AkPrimeVasto/AkPrimeVastoPistol"
+      },
+      {
+        "name": "Vasto Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/PrimeVastoPistol",
+        "itemCount": 1,
+        "wfm_item_url": "vasto_prime_set",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/AkPrimeVasto/AkPrimeVastoPistol"
+      },
+      {
+        "name": "Vasto Prime",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/PrimeVastoPistol",
+        "itemCount": 1,
+        "wfm_item_url": "vasto_prime_set",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/AkPrimeVasto/AkPrimeVastoPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "akvasto_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Akvasto_Prime",
+    "trading_tax": 8000,
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akvasto"
+  },
+  {
+    "name": "Akzani",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/HarlequinGun/HarlequinPistols",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/HarlequinPistolsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/HarlequinGun/HarlequinPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 1500
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Akzani",
+    "disposition_rank": 5,
+    "disposition": 1.52,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akzani"
+  },
+  {
+    "name": "Angstrum",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/CorpusHandRocketLauncher",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/CorpusHandRocketLauncherBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/CorpusHandRocketLauncher"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 400
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 900
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Angstrum",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "angstrum"
+  },
+  {
+    "name": "Arca Scisco",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/SniperPistol/CrpScopeGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/CrpScopeGunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/SniperPistol/CrpScopeGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
+        "name": "Fieldron",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/SniperPistol/CrpScopeGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/SniperPistol/CrpScopeGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+        "name": "Oxium",
+        "itemCount": 250
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 12500
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Arca_Scisco",
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "arca_scisco"
+  },
+  {
+    "name": "Athodai",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnJetTurbine/TnJetTurbinePistolWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AthodaiPistolBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "athodai_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnJetTurbine/TnJetTurbinePistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AthodaiPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "athodai_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnJetTurbine/TnJetTurbinePistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/AthodaiPistolReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "athodai_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnJetTurbine/TnJetTurbinePistolWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "athodai_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Athodai",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 1.05,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "athodai"
+  },
+  {
+    "name": "Atomos",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/HeatGun/GrnHeatGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GrnHeatGunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/HeatGun/GrnHeatGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1300
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 800
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 1500
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Atomos",
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "atomos"
+  },
+  {
+    "name": "Azima",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SundialGun/SundialPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SundialPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/SundialGun/SundialPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 450
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 4
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2750
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Azima",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "azima"
+  },
+  {
+    "name": "Ballistica",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/AutomaticHandCrossbow/AutoCrossBow",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/AutoCrossBowBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/AutomaticHandCrossbow/AutoCrossBow"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 4
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 3000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/AutomaticHandCrossbow/AutoCrossBow"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 1200
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Ballistica",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "ballistica"
+  },
+  {
+    "name": "Ballistica Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeBallisticaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "ballistica_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaLowerLimb",
+        "name": "Lower Limb",
+        "itemCount": 1,
+        "wfm_item_url": "ballistica_prime_lower_limb",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "ballistica_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaString",
+        "name": "String",
+        "itemCount": 1,
+        "wfm_item_url": "ballistica_prime_string",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeBallisticaUpperLimb",
+        "name": "Upper Limb",
+        "itemCount": 1,
+        "wfm_item_url": "ballistica_prime_upper_limb",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "ballistica_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Ballistica_Prime",
+    "trading_tax": 10000,
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "ballistica"
+  },
+  {
+    "name": "Bolto",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistol/CrossBow",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/BoltoBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/CrossBow"
+      },
+      {
+        "name": "Lato",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/Pistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/CrossBow"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/CrossBow"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 800
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Bolto",
+    "disposition_rank": 5,
+    "disposition": 1.51,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "bolto"
+  },
+  {
+    "name": "Brakk",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BrakkBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/BrakkBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BrakkReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Brakk",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "brakk"
+  },
+  {
+    "name": "Bronco",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistol/HandShotGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 1200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/BroncoBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/HandShotGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 700,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/HandShotGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/HandShotGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 800
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Bronco",
+    "disposition_rank": 5,
+    "disposition": 1.45,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "bronco"
+  },
+  {
+    "name": "Bronco Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistol/BroncoPrime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "bronco_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/BroncoPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/BroncoPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "bronco_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/BroncoPrime"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/BroncoPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "bronco_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/BroncoPrime"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "bronco_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Bronco_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 5,
+    "disposition": 1.4,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "bronco"
+  },
+  {
+    "name": "Cantare",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/TnChoirframeKunai/TnChoirframeKunai",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 4
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TnChoirKunaiBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/TnChoirframeKunai/TnChoirframeKunai"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 1400
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 1600,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/TnChoirframeKunai/TnChoirframeKunai"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 600
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Cantare",
+    "disposition_rank": 3,
+    "disposition": 1.05,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "cantare"
+  },
+  {
+    "name": "Castanas",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TaserStarBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 800
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Castanas",
+    "disposition_rank": 5,
+    "disposition": 1.4,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "castanas"
+  },
+  {
+    "name": "Catabolyst",
+    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfBeamPistol/InfBeamPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/InfBeamPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfBeamPistol/InfBeamPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/BioComponent",
+        "name": "Mutagen Mass",
+        "itemCount": 7,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfBeamPistol/InfBeamPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishFPartItem",
+        "name": "Ocular Stem-Root",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfBeamPistol/InfBeamPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/EntratiWispItem",
+        "name": "Scintillant",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfBeamPistol/InfBeamPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareGemACutItem",
+        "name": "Stellated Necrathene",
+        "itemCount": 10,
+        "wfm_item_url": "stellated_necrathene",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfBeamPistol/InfBeamPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Catabolyst",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "catabolyst"
+  },
+  {
+    "name": "Cestra",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/CorpusMinigunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 4
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 3000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 1200
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Cestra",
+    "disposition_rank": 5,
+    "disposition": 1.52,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "cestra"
+  },
+  {
+    "name": "Coda Catabolyst",
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Pistols/CodaCatabolyst",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Coda_Catabolyst",
+    "disposition_rank": 1,
+    "disposition": 0.64999998,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "catabolyst"
+  },
+  {
+    "name": "Coda Pox",
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Pistols/CodaPox",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Coda_Pox",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "pox"
+  },
+  {
+    "name": "Coda Tysis",
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Pistols/CodaTysis",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Coda_Tysis",
+    "disposition_rank": 3,
+    "disposition": 0.89999998,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "tysis"
+  },
+  {
+    "name": "Cyanex",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpSentAmalgPistol/CrpSentAmalgPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/CrpSentAmalgPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpSentAmalgPistol/CrpSentAmalgPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
+        "name": "Fieldron",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpSentAmalgPistol/CrpSentAmalgPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpSentAmalgPistol/CrpSentAmalgPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ConcentratedGas",
+        "name": "Hexenon",
+        "itemCount": 250
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 8750
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Cyanex",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "cyanex"
+  },
+  {
+    "name": "Cycron",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpChargeGun/CrpChargeGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/CrpChargeGunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpChargeGun/CrpChargeGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 1500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 9000,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpChargeGun/CrpChargeGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
+        "name": "Fieldron",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpChargeGun/CrpChargeGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpChargeGun/CrpChargeGun"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Cycron",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "cycron"
+  },
+  {
+    "name": "Despair",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/StalkerKunai",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 800
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/StalkerKunaiBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/StalkerKunai"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 5000,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/StalkerKunai"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 4500
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Despair",
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "despair"
+  },
+  {
+    "name": "Detron",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DetronBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/DetronBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/DetronReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Detron",
+    "disposition_rank": 4,
+    "disposition": 1.15,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "detron"
+  },
+  {
+    "name": "Dex Furis",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/DexFuris/DexFuris",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Dex_Furis",
+    "disposition_rank": 5,
+    "disposition": 1.39,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "afuris"
+  },
+  {
+    "name": "Dual Cestra",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/DualCorpusMinigun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/DualCorpusMinigunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/DualCorpusMinigun"
+      },
+      {
+        "name": "Cestra",
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/DualCorpusMinigun"
+      },
+      {
+        "name": "Cestra",
+        "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/DualCorpusMinigun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
+        "name": "Fieldron",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/DualCorpusMinigun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/DualCorpusMinigun"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Dual_Cestra",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "dual_cestra"
+  },
+  {
+    "name": "Dual Coda Torxica",
+    "uniqueName": "/Lotus/Weapons/Infested/InfestedLich/Pistols/1999InfSporePistol/1999InfSporePistolWeapon",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Dual_Coda_Torxica",
+    "disposition_rank": 1,
+    "disposition": 0.55000001,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "dual_coda_torxica"
+  },
+  {
+    "name": "Dual Toxocyst",
+    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfVomitGun/InfVomitGunWep",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Bio/InfVomitPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfVomitGun/InfVomitGunWep"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfVomitGun/InfVomitGunWep"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/BioComponent",
+        "name": "Mutagen Mass",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfVomitGun/InfVomitGunWep"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 6500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 1100
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Dual_Toxocyst",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "dual_toxocyst"
+  },
+  {
+    "name": "Efv-8 Mars",
+    "uniqueName": "/Lotus/Weapons/Lasria/LasGooPistol/LasGooPistolPlayerWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LasGooPistolPlayerWeaponBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Lasria/LasGooPistol/LasGooPistolPlayerWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasGooPistolPlayerWeaponBarrel",
+        "name": "EFV-8 Mars Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "efv_8_mars_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Lasria/LasGooPistol/LasGooPistolPlayerWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasGooPistolPlayerWeaponReceiver",
+        "name": "EFV-8 Mars Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "efv_8_mars_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Lasria/LasGooPistol/LasGooPistolPlayerWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasGooPistolPlayerWeaponStock",
+        "name": "EFV-8 Mars Stock",
+        "itemCount": 1,
+        "wfm_item_url": "efv_8_mars_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Lasria/LasGooPistol/LasGooPistolPlayerWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "efv_8_mars_set",
+    "tradable": true,
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 1.05,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "efv_8_mars"
+  },
+  {
+    "name": "Embolist",
+    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfestedPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Bio/InfestedPistolBioWeaponBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfestedPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 1200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfestedPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/BioComponent",
+        "name": "Mutagen Mass",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfestedPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 15000
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Embolist",
+    "disposition_rank": 5,
+    "disposition": 1.4,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "embolist"
+  },
+  {
+    "name": "Epitaph",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnWraitheSidearm/TnWraitheSidearmWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/WraithSidearmBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "epitaph_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnWraitheSidearm/TnWraitheSidearmWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WraithSidearmBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "epitaph_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnWraitheSidearm/TnWraitheSidearmWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 7
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/WraithSidearmReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "epitaph_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnWraitheSidearm/TnWraitheSidearmWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "epitaph_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Epitaph",
+    "trading_tax": 6000,
+    "disposition_rank": 1,
+    "disposition": 0.60000002,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "epitaph"
+  },
+  {
+    "name": "Epitaph Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "epitaph_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/EpitaphPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "epitaph_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/EpitaphPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "epitaph_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeEpitaph/PrimeEpitaphSidearmWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "epitaph_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Epitaph_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 1,
+    "disposition": 0.55000001,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "epitaph"
+  },
+  {
+    "name": "Euphona Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/AllNew1hSG/AllNew1hSG",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/Prime1HShotgunBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "euphona_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/AllNew1hSG/AllNew1hSG"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/Prime1HShotgunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "euphona_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/AllNew1hSG/AllNew1hSG"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/Prime1HShotgunReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "euphona_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/AllNew1hSG/AllNew1hSG"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "euphona_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Euphona_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "euphona_prime"
+  },
+  {
+    "name": "Furis",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistol/AutoPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 300
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/FurisBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/AutoPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 750,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/AutoPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/AutoPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 400
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Furis",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "furis"
+  },
+  {
+    "name": "Fusilai",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/GlassKunai/GlassKunaiWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GlassKunaiBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/GlassKunai/GlassKunaiWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/GlassKunai/GlassKunaiWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1350
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 2950
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 10000
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Fusilai",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "fusilai"
+  },
+  {
+    "name": "Gammacor",
+    "uniqueName": "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSDroidArray",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ReconnasorBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSDroidArray"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 400
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 650
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Gammacor",
+    "disposition_rank": 4,
+    "disposition": 1.15,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "gammacor"
+  },
+  {
+    "name": "Grimoire",
+    "uniqueName": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GrimoireBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
+        "name": "Echo Voca",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
+        "name": "Entrati Lanthorn",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemA",
+        "name": "Entrati Obols",
+        "itemCount": 2000,
+        "part_of_set": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB",
+        "name": "Necracoil",
+        "itemCount": 50,
+        "part_of_set": "/Lotus/Weapons/Tenno/Grimoire/TnGrimoire"
+      }
+    ],
+    "type": "Tome",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Grimoire",
+    "disposition_rank": 1,
+    "disposition": 0.60000002,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "grimoire"
+  },
+  {
+    "name": "Hikou",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/TennoStars",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TennoStarsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/TennoStars"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 4000
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Hikou",
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "hikou"
+  },
+  {
+    "name": "Hikou Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeHikouBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "hikou_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 8
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHikouHolster",
+        "name": "Pouch",
+        "itemCount": 2,
+        "wfm_item_url": "hikou_prime_pouch",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeHikouStars",
+        "name": "Stars",
+        "itemCount": 2,
+        "wfm_item_url": "hikou_prime_stars",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou"
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wfm_item_url": "hikou_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Hikou_Prime",
+    "trading_tax": 10000,
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "hikou"
+  },
+  {
+    "name": "Hystrix",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/QuillDartgun/QuillDartGunWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/QuillDartgunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/QuillDartgun/QuillDartGunWeapon"
+      },
+      {
+        "name": "Bolto",
+        "uniqueName": "/Lotus/Weapons/Tenno/Pistol/CrossBow",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/QuillDartgun/QuillDartGunWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 15
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 9750,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/QuillDartgun/QuillDartGunWeapon"
+      },
+      {
+        "name": "Viper",
+        "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerLightPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/QuillDartgun/QuillDartGunWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Hystrix",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "hystrix"
+  },
+  {
+    "name": "Hystrix Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeHystrix/PrimeHystrixWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/HystrixPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "hystrix_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeHystrix/PrimeHystrixWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/HystrixPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "hystrix_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeHystrix/PrimeHystrixWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/HystrixPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "hystrix_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeHystrix/PrimeHystrixWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "hystrix_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Hystrix_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "hystrix"
+  },
+  {
+    "name": "Knell",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnPriestPistolScope/TnPriestPistolWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TnPriestPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnPriestPistolScope/TnPriestPistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 3800
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 5200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 20000
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Knell",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "knell"
+  },
+  {
+    "name": "Knell Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeKnell/PrimeKnellWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/KnellPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "knell_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeKnell/PrimeKnellWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/KnellPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "knell_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeKnell/PrimeKnellWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/KnellPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "knell_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeKnell/PrimeKnellWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "knell_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Knell_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 2,
+    "disposition": 0.85000002,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "knell"
+  },
+  {
+    "name": "Kohmak",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/GrnKohmPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
+        "name": "Detonite Injector",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 5000,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 5000
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kohmak",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "kohmak"
+  },
+  {
+    "name": "Kompressa",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnYareliPistol/TnYareliPistolWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnYareliPistolBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnYareliPistol/TnYareliPistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TnYareliPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnYareliPistol/TnYareliPistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnYareliPistolReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnYareliPistol/TnYareliPistolWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kompressa",
+    "disposition_rank": 4,
+    "disposition": 1.15,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "kompressa"
+  },
+  {
+    "name": "Kompressa Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeKompressa/PrimeKompressa",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/KompressaPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "kompressa_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeKompressa/PrimeKompressa"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/KompressaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "kompressa_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeKompressa/PrimeKompressa"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/KompressaPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "kompressa_prime_reciever",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeKompressa/PrimeKompressa"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "kompressa_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Kompressa_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 1,
+    "disposition": 0.60000002,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "kompressa"
+  },
+  {
+    "name": "Kraken",
+    "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrnHeavyPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GrnHeavyPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/GrineerPistol/GrnHeavyPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Grineer/GrineerPistol/GrnHeavyPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 120
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 750
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kraken",
+    "disposition_rank": 5,
+    "disposition": 1.53,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "kraken"
+  },
+  {
+    "name": "Kulstar",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnTorpedoPistol/GrnTorpedoPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GrnTorpedoPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnTorpedoPistol/GrnTorpedoPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 4800
+      },
+      {
+        "name": "Kraken",
+        "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrnHeavyPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnTorpedoPistol/GrnTorpedoPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 3600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
+        "name": "Tellurium",
+        "itemCount": 2
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kulstar",
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "kulstar"
+  },
+  {
+    "name": "Kunai",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/Kunai",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/KunaiBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/Kunai"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 3000,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/Kunai"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 4000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 4000
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kunai",
+    "disposition_rank": 5,
+    "disposition": 1.51,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "kunai"
+  },
+  {
+    "name": "Kuva Brakk",
+    "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Brakk/KuvaBrakk",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/KuvaWeapons/KuvaBrakkBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Brakk/KuvaBrakk"
+      }
+    ],
+    "type": "Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kuva_Brakk",
+    "disposition_rank": 3,
+    "disposition": 0.89999998,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "brakk"
+  },
+  {
+    "name": "Kuva Kraken",
+    "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Kraken/KuvaKraken",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/KuvaWeapons/KuvaKrakenBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Kraken/KuvaKraken"
+      }
+    ],
+    "type": "Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kuva_Kraken",
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "kraken"
+  },
+  {
+    "name": "Kuva Nukor",
+    "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Nukor/KuvaNukor",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/KuvaWeapons/KuvaNukorBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Nukor/KuvaNukor"
+      }
+    ],
+    "type": "Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kuva_Nukor",
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "nukor"
+  },
+  {
+    "name": "Kuva Seer",
+    "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Seer/KuvaSeer",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/KuvaWeapons/KuvaSeerBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Seer/KuvaSeer"
+      }
+    ],
+    "type": "Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kuva_Seer",
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "seer"
+  },
+  {
+    "name": "Kuva Twin Stubbas",
+    "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Stubba/KuvaStubba",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/KuvaWeapons/KuvaStubbaBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/KuvaLich/Secondaries/Stubba/KuvaStubba"
+      }
+    ],
+    "type": "Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kuva_Twin_Stubbas",
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "kuva_twin_stubbas"
+  },
+  {
+    "name": "Laetum",
+    "uniqueName": "/Lotus/Weapons/Tenno/Zariman/Pistols/HeavyPistol/ZarimanHeavyPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/Evolving/ZarimanHeavyPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "laetum_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Zariman/Pistols/HeavyPistol/ZarimanHeavyPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 4000,
+        "part_of_set": "/Lotus/Weapons/Tenno/Zariman/Pistols/HeavyPistol/ZarimanHeavyPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemA",
+        "name": "Voidgel Orb",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Weapons/Tenno/Zariman/Pistols/HeavyPistol/ZarimanHeavyPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/VoidAngelItem",
+        "name": "Voidplume Pinion",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Zariman/Pistols/HeavyPistol/ZarimanHeavyPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanDogTagBounty",
+        "name": "Voidplume Quill",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/Tenno/Zariman/Pistols/HeavyPistol/ZarimanHeavyPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Laetum",
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "laetum"
+  },
+  {
+    "name": "Lato",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistol/Pistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LatoBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/Pistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Lato",
+    "disposition_rank": 5,
+    "disposition": 1.4,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "lato"
+  },
+  {
+    "name": "Lato Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistol/LatoPrime",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Lato_Prime",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "lato"
+  },
+  {
+    "name": "Lato Vandal",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistol/LatoVandal",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatoVandalBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "lato_vandal_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/LatoVandal"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LatoVandalBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "lato_vandal_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/LatoVandal"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LatoVandalReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "lato_vandal_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/LatoVandal"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "lato_vandal_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Lato_Vandal",
+    "trading_tax": 6000,
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "lato"
+  },
+  {
+    "name": "Lex",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistol/HeavyPistol",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Lex",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "lex"
+  },
+  {
+    "name": "Lex Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LexPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "lex_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LexPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "lex_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LexPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "lex_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "lex_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Lex_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "lex"
+  },
+  {
+    "name": "Magnus",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/Magnum/Magnum",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 400
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/MagnumBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/Magnum/Magnum"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 100,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/Magnum/Magnum"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 900
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Magnus",
+    "disposition_rank": 5,
+    "disposition": 1.53,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "magnus"
+  },
+  {
+    "name": "Magnus Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeMagnus/PrimeMagnusWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/MagnusPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "magnus_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeMagnus/PrimeMagnusWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/MagnusPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "magnus_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeMagnus/PrimeMagnusWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/MagnusPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "magnus_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeMagnus/PrimeMagnusWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "magnus_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Magnus_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "magnus"
+  },
+  {
+    "name": "Mara Detron",
+    "uniqueName": "/Lotus/Weapons/VoidTrader/VTDetron",
+    "type": "Pistols",
+    "category": "Secondary",
+    "wfm_item_url": "mara_detron",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Mara_Detron",
+    "trading_tax": 2000,
+    "disposition_rank": 4,
+    "disposition": 1.15,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "detron"
+  },
+  {
+    "name": "Marelok",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/GLAPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
+        "name": "Detonite Injector",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 5000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 5000
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Marelok",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "marelok"
+  },
+  {
+    "name": "MK1-Furis",
+    "uniqueName": "/Lotus/Weapons/MK1Series/MK1Furis",
+    "type": "Pistols",
+    "category": "Secondary",
+    "disposition_rank": 5,
+    "disposition": 1.4,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare"
+  },
+  {
+    "name": "MK1-Kunai",
+    "uniqueName": "/Lotus/Weapons/MK1Series/MK1Kunai",
+    "type": "Pistols",
+    "category": "Secondary",
+    "disposition_rank": 5,
+    "disposition": 1.51,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare"
+  },
+  {
+    "name": "Nukor",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerMicrowavegun/GrnMicrowavePistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/GrnMicrowavePistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerMicrowavegun/GrnMicrowavePistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/ChemComponent",
+        "name": "Detonite Injector",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerMicrowavegun/GrnMicrowavePistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerMicrowavegun/GrnMicrowavePistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 5500
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Nukor",
+    "disposition_rank": 5,
+    "disposition": 1.45,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "nukor"
+  },
+  {
+    "name": "Ocucor",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/CrpSentExperimentPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishSaganModuleItem",
+        "name": "Charamote Sagan Module",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
+        "name": "Fieldron",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
+        "name": "Thermal Sludge",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "itemCount": 55,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Ocucor",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "ocucor"
+  },
+  {
+    "name": "Onos",
+    "uniqueName": "/Lotus/Weapons/Thanotech/EntratiWristGun/EntratiWristGunWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/EntratiWristGunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Thanotech/EntratiWristGun/EntratiWristGunWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Zariman/Resources/ZarimanMiscItemB",
+        "name": "Entrati Lanthorn",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Weapons/Thanotech/EntratiWristGun/EntratiWristGunWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabMiscItemB",
+        "name": "Necracoil",
+        "itemCount": 400,
+        "part_of_set": "/Lotus/Weapons/Thanotech/EntratiWristGun/EntratiWristGunWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 3000
+      }
+    ],
+    "type": "Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Onos",
+    "disposition_rank": 2,
+    "disposition": 0.80000001,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "onos"
+  },
+  {
+    "name": "Pandero",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnBardPistol/TnBardPistolGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TnBardPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnBardPistol/TnBardPistolGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 4500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 5500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 25000
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Pandero",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "pandero"
+  },
+  {
+    "name": "Pandero Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimePandero/PanderoPrimeWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PanderoPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "pandero_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimePandero/PanderoPrimeWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/PanderoPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "pandero_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimePandero/PanderoPrimeWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PanderoPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "pandero_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimePandero/PanderoPrimeWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "pandero_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Pandero_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "pandero"
+  },
+  {
+    "name": "Plinx",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpSonificBlastor/CrpBlastorWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 4375
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/CrpBlastorWeaponBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpSonificBlastor/CrpBlastorWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 575
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CorpusWidgetAItem",
+        "name": "Gyromag Systems",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpSonificBlastor/CrpBlastorWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Plinx",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "plinx"
+  },
+  {
+    "name": "Pox",
+    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfProximityStars/InfProximityStars",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Bio/InfProximityStarsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfProximityStars/InfProximityStars"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/BioComponent",
+        "name": "Mutagen Mass",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfProximityStars/InfProximityStars"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 6500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfProximityStars/InfProximityStars"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 1200
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Pox",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "pox"
+  },
+  {
+    "name": "Prisma Angstrum",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/PrismaAngstrum",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "prisma_angstrum",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Prisma_Angstrum",
+    "trading_tax": 2000,
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "angstrum"
+  },
+  {
+    "name": "Prisma Twin Gremlins",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerBulbousSMG/Prisma/PrismaTwinGremlinsWeapon",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "prisma_twin_gremlins",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Prisma_Twin_Gremlins",
+    "trading_tax": 2000,
+    "disposition_rank": 4,
+    "disposition": 1.15,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "twin_gremlins"
+  },
+  {
+    "name": "Pyrana",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TennoHandShotgunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 800
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Pyrana",
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "pyrana"
+  },
+  {
+    "name": "Pyrana Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimePyrana/PrimePyranaPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PyranaPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "pyrana_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimePyrana/PrimePyranaPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/PyranaPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "pyrana_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimePyrana/PrimePyranaPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PyranaPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "pyrana_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimePyrana/PrimePyranaPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "pyrana_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Pyrana_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 1,
+    "disposition": 0.64999998,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "pyrana"
+  },
+  {
+    "name": "Quatz",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnAmphisPistol/GrnAmphisPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GrnAmphisPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnAmphisPistol/GrnAmphisPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnAmphisPistol/GrnAmphisPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 4200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 12750
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Quatz",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "quatz"
+  },
+  {
+    "name": "Rakta Ballistica",
+    "uniqueName": "/Lotus/Weapons/Syndicates/RedVeil/Pistols/RVBallistica",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "rakta_ballistica",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Rakta_Ballistica",
+    "trading_tax": 2000,
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "ballistica"
+  },
+  {
+    "name": "Riot-848",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/1999EntHybridPistolWeapon/1999EntHybridPistolWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/1999EntHybridPistolBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "riot_848_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/1999EntHybridPistolWeapon/1999EntHybridPistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/1999EntHybridPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/1999EntHybridPistolWeapon/1999EntHybridPistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/1999EntHybridPistolReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "riot_848_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/1999EntHybridPistolWeapon/1999EntHybridPistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/1999EntHybridPistolStock",
+        "name": "Stock",
+        "itemCount": 1,
+        "wfm_item_url": "riot_848_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/1999EntHybridPistolWeapon/1999EntHybridPistolWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "riot_848_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Riot-848",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "riot_848"
+  },
+  {
+    "name": "Sagek Prime",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnOrokinPistol/GrnOrokinPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SagekPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnOrokinPistol/GrnOrokinPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SagekPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnOrokinPistol/GrnOrokinPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SagekPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnOrokinPistol/GrnOrokinPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sagek_Prime",
+    "disposition_rank": 1,
+    "disposition": 0.64999998,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "sagek_prime"
+  },
+  {
+    "name": "Sancti Castanas",
+    "uniqueName": "/Lotus/Weapons/Syndicates/NewLoka/Pistols/NLCastanas",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "sancti_castanas",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Sancti_Castanas",
+    "trading_tax": 2000,
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "castanas"
+  },
+  {
+    "name": "Scyotid",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/TnOraxiaFlechette/TnOraxiaFlechette",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidBarrel",
+        "name": "Barrel",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/TnOraxiaFlechette/TnOraxiaFlechette"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ScyotidBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/TnOraxiaFlechette/TnOraxiaFlechette"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ScyotidGauntlet",
+        "name": "Gauntlet",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/TnOraxiaFlechette/TnOraxiaFlechette"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Scyotid",
+    "disposition_rank": 1,
+    "disposition": 0.60000002,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "scyotid"
+  },
+  {
+    "name": "Secura Dual Cestra",
+    "uniqueName": "/Lotus/Weapons/Syndicates/PerrinSequence/Pistols/PSDualCestra",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "secura_dual_cestra",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Secura_Dual_Cestra",
+    "trading_tax": 2000,
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "dual_cestra"
+  },
+  {
+    "name": "Seer",
+    "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrnScopedPistolPlayer",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VorsPistolBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/GrineerPistol/GrnScopedPistolPlayer"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/VorsPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/GrineerPistol/GrnScopedPistolPlayer"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VorsPistolReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/GrineerPistol/GrnScopedPistolPlayer"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Seer",
+    "disposition_rank": 5,
+    "disposition": 1.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "seer"
+  },
+  {
+    "name": "Sepulcrum",
+    "uniqueName": "/Lotus/Weapons/Thanotech/ThanoPistol/ThanotechPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechPistolBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Thanotech/ThanoPistol/ThanotechPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ThanotechPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Thanotech/ThanoPistol/ThanotechPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ThanotechPistolReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Thanotech/ThanoPistol/ThanotechPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Deimos/SeriglassShard",
+        "name": "Seriglass Shard",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Thanotech/ThanoPistol/ThanotechPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sepulcrum",
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "sepulcrum"
+  },
+  {
+    "name": "Sicarus",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistol/BurstPistol",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sicarus",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "sicarus"
+  },
+  {
+    "name": "Sicarus Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SicarusPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "sicarus_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SicarusPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "sicarus_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SicarusPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "sicarus_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "sicarus_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Sicarus_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 4,
+    "disposition": 1.15,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "sicarus"
+  },
+  {
+    "name": "Sonicor",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpAirPistol/CrpAirPistolArray",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 6500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/CrpAirPistolArrayBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpAirPistol/CrpAirPistolArray"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+        "name": "Oxium",
+        "itemCount": 600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 2600
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sonicor",
+    "disposition_rank": 4,
+    "disposition": 1.15,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "sonicor"
+  },
+  {
+    "name": "Spectra",
+    "uniqueName": "/Lotus/Weapons/ClanTech/Energy/CrpLaserPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/LaserPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/ClanTech/Energy/CrpLaserPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 700
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 5000,
+        "part_of_set": "/Lotus/Weapons/ClanTech/Energy/CrpLaserPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
+        "name": "Fieldron",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Weapons/ClanTech/Energy/CrpLaserPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/ClanTech/Energy/CrpLaserPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Spectra",
+    "disposition_rank": 5,
+    "disposition": 1.49,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "spectra"
+  },
+  {
+    "name": "Spectra Vandal",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CorpusModularPistol/Vandal/CrpLaserPistolVandal",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpectraVandalBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "spectra_vandal_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusModularPistol/Vandal/CrpLaserPistolVandal"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SpectraVandalBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "spectra_vandal_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusModularPistol/Vandal/CrpLaserPistolVandal"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpectraVandalChassis",
+        "name": "Chassis",
+        "itemCount": 1,
+        "wfm_item_url": "spectra_vandal_chassis",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusModularPistol/Vandal/CrpLaserPistolVandal"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/SpectraVandalHandle",
+        "name": "Handle",
+        "itemCount": 1,
+        "wfm_item_url": "spectra_vandal_handle",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CorpusModularPistol/Vandal/CrpLaserPistolVandal"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "spectra_vandal_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Spectra_Vandal",
+    "trading_tax": 8000,
+    "disposition_rank": 5,
+    "disposition": 1.45,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "spectra"
+  },
+  {
+    "name": "Spira",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/LiDagger/LiDagger",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LiDaggerBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/LiDagger/LiDagger"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/LiDagger/LiDagger"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 800
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 4000
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Spira",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "spira"
+  },
+  {
+    "name": "Spira Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeLiDagger/PrimeLiDagger",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLiDaggerBlade",
+        "name": "Blade",
+        "itemCount": 2,
+        "wfm_item_url": "spira_prime_blade",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeLiDagger/PrimeLiDagger"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/PrimeLiDaggerBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "spira_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeLiDagger/PrimeLiDagger"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 8
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PrimeLiDaggerHolster",
+        "name": "Pouch",
+        "itemCount": 2,
+        "wfm_item_url": "spira_prime_pouch",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeLiDagger/PrimeLiDagger"
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wfm_item_url": "spira_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Spira_Prime",
+    "trading_tax": 10000,
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "spira"
+  },
+  {
+    "name": "Staticor",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpElectroMag/CrpElectroMag",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 6000
+      },
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/CrpElectroMagBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpElectroMag/CrpElectroMag"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 9000,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpElectroMag/CrpElectroMag"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
+        "name": "Fieldron",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpElectroMag/CrpElectroMag"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpElectroMag/CrpElectroMag"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Staticor",
+    "disposition_rank": 3,
+    "disposition": 0.89999998,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "staticor"
+  },
+  {
+    "name": "Stubba",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnUzi/GrnUziWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/GrnUziBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnUzi/GrnUziWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBAlloyBItem",
+        "name": "Coprite Alloy",
+        "itemCount": 25,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnUzi/GrnUziWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 4485,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnUzi/GrnUziWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
+        "name": "Grokdrul",
+        "itemCount": 45,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnUzi/GrnUziWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnUzi/GrnUziWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Stubba",
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "stubba"
+  },
+  {
+    "name": "Stug",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 1200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GrineerGooGunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 4
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 3000
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Stug",
+    "disposition_rank": 5,
+    "disposition": 1.48,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "stug"
+  },
+  {
+    "name": "Synoid Gammacor",
+    "uniqueName": "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSSynoidGammacor",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "synoid_gammacor",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Synoid_Gammacor",
+    "trading_tax": 2000,
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "gammacor"
+  },
+  {
+    "name": "Talons",
+    "uniqueName": "/Lotus/Weapons/Tenno/ThrowingWeapons/U18ThrowingKnives/U18throwingknives",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/U18ThrowingKnivesBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/U18ThrowingKnives/U18throwingknives"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 1500,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/U18ThrowingKnives/U18throwingknives"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/ThrowingWeapons/U18ThrowingKnives/U18throwingknives"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+        "name": "Oxium",
+        "itemCount": 1200
+      }
+    ],
+    "type": "Throwing",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Talons",
+    "disposition_rank": 5,
+    "disposition": 1.4400001,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "talons"
+  },
+  {
+    "name": "Telos Akbolto",
+    "uniqueName": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Pistols/AHAkbolto",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "telos_akbolto",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Telos_Akbolto",
+    "trading_tax": 2000,
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "akbolto"
+  },
+  {
+    "name": "Tenet Cycron",
+    "uniqueName": "/Lotus/Weapons/Corpus/BoardExec/Secondary/CrpBECycron/CrpBECycron",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LawyerWeapons/CrpBECycronBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/BoardExec/Secondary/CrpBECycron/CrpBECycron"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Tenet_Cycron",
+    "disposition_rank": 1,
+    "disposition": 0.69999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "cycron"
+  },
+  {
+    "name": "Tenet Detron",
+    "uniqueName": "/Lotus/Weapons/Corpus/BoardExec/Secondary/CrpBEDetron/CrpBEDetron",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LawyerWeapons/CrpBEDetronBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/BoardExec/Secondary/CrpBEDetron/CrpBEDetron"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Tenet_Detron",
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "detron"
+  },
+  {
+    "name": "Tenet Diplos",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpBriefcaseAkimbo/CrpBriefcaseAkimboPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LawyerWeapons/CrpBriefcaseAkimboPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpBriefcaseAkimbo/CrpBriefcaseAkimboPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Tenet_Diplos",
+    "disposition_rank": 2,
+    "disposition": 0.80000001,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "tenet_diplos"
+  },
+  {
+    "name": "Tenet Plinx",
+    "uniqueName": "/Lotus/Weapons/Corpus/BoardExec/Secondary/CrpBEPlinx/CrpBEPlinxWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LawyerWeapons/CrpBEPlinxBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/BoardExec/Secondary/CrpBEPlinx/CrpBEPlinxWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Tenet_Plinx",
+    "disposition_rank": 1,
+    "disposition": 0.75,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "plinx"
+  },
+  {
+    "name": "Tenet Spirex",
+    "uniqueName": "/Lotus/Weapons/Corpus/Pistols/CrpIgniterPistol/CrpIgniterPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LawyerWeapons/CrpIgniterPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Corpus/Pistols/CrpIgniterPistol/CrpIgniterPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Tenet_Spirex",
+    "disposition_rank": 3,
+    "disposition": 1.05,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "tenet_spirex"
+  },
+  {
+    "name": "Twin Grakatas",
+    "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/TwinGrakatas",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TwinGrakatasBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/TwinGrakatas"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/TwinGrakatas"
+      },
+      {
+        "name": "Grakata",
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/GrnAssaultRifle",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/TwinGrakatas"
+      },
+      {
+        "name": "Grakata",
+        "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/GrnAssaultRifle",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/TwinGrakatas"
+      }
+    ],
+    "type": "Rifle",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Twin_Grakatas",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "twin_grakatas"
+  },
+  {
+    "name": "Twin Gremlins",
+    "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerAkimboPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GremlinBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerAkimboPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 900
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerAkimboPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
+        "name": "Rubedo",
+        "itemCount": 1200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 1500
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Twin_Gremlins",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "twin_gremlins"
+  },
+  {
+    "name": "Twin Kohmak",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinKohmaks",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TwinKohmakBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinKohmaks"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinKohmaks"
+      },
+      {
+        "name": "Kohmak",
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinKohmaks"
+      },
+      {
+        "name": "Kohmak",
+        "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinKohmaks"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Twin_Kohmak",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "twin_kohmak"
+  },
+  {
+    "name": "Twin Rogga",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrnQueenGuardDualPistol/GrnQueenGuardDualPistols",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 2600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GrnQueenGuardDualPistolsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnQueenGuardDualPistol/GrnQueenGuardDualPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 15000,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/GrnQueenGuardDualPistol/GrnQueenGuardDualPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Kuva",
+        "name": "Kuva",
+        "itemCount": 1600
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Twin_Rogga",
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "twin_rogga"
+  },
+  {
+    "name": "Twin Vipers",
+    "uniqueName": "/Lotus/Weapons/Tenno/Akimbo/AkimboViperPistols",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TwinViperBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboViperPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "name": "Viper",
+        "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerLightPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboViperPistols"
+      },
+      {
+        "name": "Viper",
+        "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerLightPistol",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Akimbo/AkimboViperPistols"
+      }
+    ],
+    "type": "Dual Pistols",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Twin_Vipers",
+    "disposition_rank": 5,
+    "disposition": 1.45,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "twin_vipers"
+  },
+  {
+    "name": "Twin Vipers Wraith",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TwinVipersWraithBarrel",
+        "name": "Barrels",
+        "itemCount": 1,
+        "wfm_item_url": "twin_vipers_wraith_barrels",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TwinVipersWraithBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "twin_vipers_wraith_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TwinVipersWraithLink",
+        "name": "Link",
+        "itemCount": 1,
+        "wfm_item_url": "twin_vipers_wraith_link",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TwinVipersWraithReceiver",
+        "name": "Receivers",
+        "itemCount": 1,
+        "wfm_item_url": "twin_vipers_wraith_receivers",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "twin_vipers_wraith_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Twin_Vipers_Wraith",
+    "trading_tax": 8000,
+    "disposition_rank": 5,
+    "disposition": 1.41,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "twin_vipers"
+  },
+  {
+    "name": "Tysis",
+    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/InfestedDartPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 900
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 400
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 100
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Tysis",
+    "disposition_rank": 5,
+    "disposition": 1.45,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "tysis"
+  },
+  {
+    "name": "Vasto",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistol/RevolverPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 1200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/RevolverPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/RevolverPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 700,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/RevolverPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistol/RevolverPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1000
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Vasto",
+    "disposition_rank": 5,
+    "disposition": 1.4,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "vasto"
+  },
+  {
+    "name": "Vasto Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/PrimeVastoPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VastoPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "vasto_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/PrimeVastoPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/VastoPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "vasto_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/PrimeVastoPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VastoPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "vasto_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/PrimeVastoPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "vasto_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Vasto_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 5,
+    "disposition": 1.35,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "vasto"
+  },
+  {
+    "name": "Vaykor Marelok",
+    "uniqueName": "/Lotus/Weapons/Syndicates/SteelMeridian/Pistols/SMMarelok",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "vaykor_marelok",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Vaykor_Marelok",
+    "trading_tax": 2000,
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "marelok"
+  },
+  {
+    "name": "Velox",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnOdaliskSmg/TnOdaliskSmgPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ProteaSMGBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "velox_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnOdaliskSmg/TnOdaliskSmgPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ProteaSMGWeaponBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnOdaliskSmg/TnOdaliskSmgPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ProteaSMGReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "velox_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnOdaliskSmg/TnOdaliskSmgPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "velox_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Velox",
+    "trading_tax": 4000,
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "velox"
+  },
+  {
+    "name": "Velox Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeVelox/PrimeVeloxPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VeloxPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "velox_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeVelox/PrimeVeloxPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/VeloxPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "velox_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeVelox/PrimeVeloxPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/VeloxPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "velox_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeVelox/PrimeVeloxPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "velox_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Velox_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 2,
+    "disposition": 0.85000002,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "velox"
+  },
+  {
+    "name": "Vesper 77",
+    "uniqueName": "/Lotus/Weapons/Lasria/LasSilencedPistol/LasSilencedPistolWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "vesper_77_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Lasria/LasSilencedPistol/LasSilencedPistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LasSilencedPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Lasria/LasSilencedPistol/LasSilencedPistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolStock",
+        "name": "Handle",
+        "itemCount": 1,
+        "wfm_item_url": "vesper_77_handle",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Lasria/LasSilencedPistol/LasSilencedPistolWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LasSilencedPistolReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "vesper_77_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Lasria/LasSilencedPistol/LasSilencedPistolWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "vesper_77_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Vesper_77",
+    "trading_tax": 6000,
+    "disposition_rank": 2,
+    "disposition": 0.80000001,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "vesper_77"
+  },
+  {
+    "name": "Viper",
+    "uniqueName": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerLightPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GrineerLightPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerLightPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 600,
+        "part_of_set": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerLightPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 900
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 300
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Viper",
+    "disposition_rank": 5,
+    "disposition": 1.45,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "viper"
+  },
+  {
+    "name": "Viper Wraith",
+    "uniqueName": "/Lotus/Weapons/Grineer/Pistols/WraithSingleViper/WraithSingleViper",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "viper_wraith",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Viper_Wraith",
+    "trading_tax": 2000,
+    "disposition_rank": 5,
+    "disposition": 1.4,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "viper"
+  },
+  {
+    "name": "Zakti",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/TnGuandoPistol/TnGuandoPistolGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 6500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TnGuandaoPistolBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/TnGuandoPistol/TnGuandoPistolGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 8
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 5000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 350
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Zakti",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "zakti"
+  },
+  {
+    "name": "Zakti Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZaktiPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "zakti_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ZaktiPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "zakti_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZaktiPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "zakti_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeZakti/PrimeZaktiPistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "zakti_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Zakti_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "zakti"
+  },
+  {
+    "name": "Zylok",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/ConclaveLeverPistol/ConclaveLeverPistol",
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "zylok",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Zylok",
+    "trading_tax": 2000,
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "zylok"
+  },
+  {
+    "name": "Zylok Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Pistols/PrimeZylok/ZylokPrimePistol",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZylokPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "zylok_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeZylok/ZylokPrimePistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ZylokPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "zylok_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeZylok/ZylokPrimePistol"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ZylokPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "zylok_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Pistols/PrimeZylok/ZylokPrimePistol"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wfm_item_url": "zylok_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Zylok_Prime",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 0.89999998,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "zylok"
+  },
+  {
+    "name": "Zymos",
+    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfUzi/InfUziWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfUziWeaponBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfUzi/InfUziWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/InfUziBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfUzi/InfUziWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/InfUziWeaponReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Infested/Pistols/InfUzi/InfUziWeapon"
+      }
+    ],
+    "type": "Pistol",
+    "category": "Secondary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Zymos",
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
+    "wfm_riven_url": "zymos"
+  }
+]

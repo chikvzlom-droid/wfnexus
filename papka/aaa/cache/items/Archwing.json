@@ -1,0 +1,226 @@
+[
+  {
+    "uniqueName": "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack",
+    "name": "Amesha",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/SupportArchwing/SupportArchwingBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/SupportArchwing/SupportArchwingChassisComponent",
+        "name": "Harness",
+        "itemCount": 1,
+        "wfm_item_url": "amesha_harness_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/SupportArchwing/SupportArchwingSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "amesha_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/SupportArchwing/SupportArchwingWingsComponent",
+        "name": "Wings",
+        "itemCount": 1,
+        "wfm_item_url": "amesha_wings_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack"
+      }
+    ],
+    "type": "Archwing",
+    "category": "Archwing",
+    "wfm_item_url": "amesha_set",
+    "tradable": true,
+    "trading_tax": 6000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack",
+    "name": "Elytron",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 5
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingChassisComponent",
+        "name": "Harness",
+        "itemCount": 1,
+        "wfm_item_url": "elytron_harness_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "elytron_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/DemolitionArchwing/DemolitionArchwingWingsComponent",
+        "name": "Wings",
+        "itemCount": 1,
+        "wfm_item_url": "elytron_wings_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack"
+      }
+    ],
+    "type": "Archwing",
+    "category": "Archwing",
+    "wfm_item_url": "elytron_set",
+    "tradable": true,
+    "trading_tax": 6000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack",
+    "name": "Itzal",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingChassisComponent",
+        "name": "Harness",
+        "itemCount": 1,
+        "wfm_item_url": "itzal_harness_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "itzal_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StealthArchwing/StealthArchwingWingsComponent",
+        "name": "Wings",
+        "itemCount": 1,
+        "wfm_item_url": "itzal_wings_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack"
+      }
+    ],
+    "type": "Archwing",
+    "category": "Archwing",
+    "wfm_item_url": "itzal_set",
+    "tradable": true,
+    "trading_tax": 6000
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Archwing/StandardJetPack/StandardJetPack",
+    "name": "Odonata",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Archwing/StandardJetPack/StandardJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 300
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingChassisComponent",
+        "name": "Harness",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Archwing/StandardJetPack/StandardJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Archwing/StandardJetPack/StandardJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/StandardArchwing/StandardArchwingWingsComponent",
+        "name": "Wings",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Powersuits/Archwing/StandardJetPack/StandardJetPack"
+      }
+    ],
+    "type": "Archwing",
+    "category": "Archwing"
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack",
+    "name": "Odonata Prime",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "odonata_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingChassisComponent",
+        "name": "Harness",
+        "itemCount": 1,
+        "wfm_item_url": "odonata_prime_harness_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingSystemsComponent",
+        "name": "Systems",
+        "itemCount": 1,
+        "wfm_item_url": "odonata_prime_systems_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/ArchwingRecipes/PrimeArchwing/PrimeArchwingWingsComponent",
+        "name": "Wings",
+        "itemCount": 1,
+        "wfm_item_url": "odonata_prime_wings_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack"
+      }
+    ],
+    "type": "Archwing",
+    "category": "Archwing",
+    "wfm_item_url": "odonata_prime_set",
+    "tradable": true,
+    "trading_tax": 8000
+  }
+]

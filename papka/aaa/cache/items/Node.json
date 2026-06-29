@@ -1,0 +1,1616 @@
+[
+  {
+    "uniqueName": "SolNode203",
+    "name": "Abaddon",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode4",
+    "name": "Acheron",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode181",
+    "name": "Adaro",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode88",
+    "name": "Adrastea",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode18",
+    "name": "Akkad",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode106",
+    "name": "Alator",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode97",
+    "name": "Amalthea",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode14",
+    "name": "Amarna",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode73",
+    "name": "Ananke",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode405",
+    "name": "Ani",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode31",
+    "name": "Anthe",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode2",
+    "name": "Aphrodite",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode308",
+    "name": "Apollo",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode94",
+    "name": "Apollodorus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode45",
+    "name": "Ara",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode113",
+    "name": "Ares",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode33",
+    "name": "Ariel",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode204",
+    "name": "Armaros",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode721",
+    "name": "Armatus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode41",
+    "name": "Arval",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode856",
+    "name": "Assassinate: H-09 Tank",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode17",
+    "name": "Assur",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode410",
+    "name": "Aten",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode16",
+    "name": "Augustus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode205",
+    "name": "Baal",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode408",
+    "name": "Belenus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode185",
+    "name": "Berehynia",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode132",
+    "name": "Bode",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode223",
+    "name": "Boethius",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode153",
+    "name": "Brugia",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode907",
+    "name": "Caelus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode60",
+    "name": "Caliban",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode25",
+    "name": "Callisto",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode119",
+    "name": "Caloris",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode82",
+    "name": "Calypso",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode229",
+    "name": "Cambion Drift",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode718",
+    "name": "Cambire",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode79",
+    "name": "Cambria",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode5",
+    "name": "Cameria",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode12",
+    "name": "Caracol",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode74",
+    "name": "Carme",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode121",
+    "name": "Carpo",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode70",
+    "name": "Cassini",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode149",
+    "name": "Casta",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode43",
+    "name": "Cerberus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode75",
+    "name": "Cervantes",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode196",
+    "name": "Charybdis",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode7",
+    "name": "Cholistan",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode147",
+    "name": "Cinxia",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode310",
+    "name": "Circulus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode2",
+    "name": "Coba",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode304",
+    "name": "Copernicus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode83",
+    "name": "Cressida",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode56",
+    "name": "Cypress",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode23",
+    "name": "Cytherean",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode746",
+    "name": "Dakata",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode253",
+    "name": "Descend",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode255",
+    "name": "Descend From Lyon's Sanctuary",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode254",
+    "name": "Descend From Marie's Sanctuary",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode98",
+    "name": "Desdemona",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode6",
+    "name": "Despina",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode67",
+    "name": "Dione",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode709",
+    "name": "Dirus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode146",
+    "name": "Draco",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode128",
+    "name": "E Gate",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode27",
+    "name": "E Prime",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode715",
+    "name": "Effervo",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode100",
+    "name": "Elara",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode12",
+    "name": "Elion",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode19",
+    "name": "Enceladus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode903",
+    "name": "Erpo",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode59",
+    "name": "Eurasia",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode39",
+    "name": "Everest",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode230",
+    "name": "Everview Arc",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode713",
+    "name": "Exequias",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode144",
+    "name": "Exta",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode853",
+    "name": "Exterminate: Scaldra",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode854",
+    "name": "Exterminate: Techrot",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode857",
+    "name": "Faceoff: Single Squad",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode855",
+    "name": "Faceoff: Squad Vs Squad",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode710",
+    "name": "Formido",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode104",
+    "name": "Fossa",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode23",
+    "name": "Gabii",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode85",
+    "name": "Gaia",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode1",
+    "name": "Galatea",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode905",
+    "name": "Galilea",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode87",
+    "name": "Ganymede",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode748",
+    "name": "Garus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode65",
+    "name": "Gradivus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode301",
+    "name": "Grimaldi",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SettlementNode11",
+    "name": "Gulliver",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode51",
+    "name": "Hades",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode231",
+    "name": "Halako Perimeter",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode42",
+    "name": "Helene",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode851",
+    "name": "Hell-Scrub: Scaldra",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode852",
+    "name": "Hell-Scrub: Techrot",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode58",
+    "name": "Hellas",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode401",
+    "name": "Hepit",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode25",
+    "name": "Hieracon",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode706",
+    "name": "Horend",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode76",
+    "name": "Hydra",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode195",
+    "name": "Hydron",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode707",
+    "name": "Hyf",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SettlementNode20",
+    "name": "Iliad",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode125",
+    "name": "Io",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode61",
+    "name": "Ishtar",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode162",
+    "name": "Isos",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode8",
+    "name": "Kadesh",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode164",
+    "name": "Kala-Azar",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode177",
+    "name": "Kappa",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode93",
+    "name": "Keeler",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode21",
+    "name": "Kelashin",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode188",
+    "name": "Kelpie",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SettlementNode10",
+    "name": "Kepler",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode141",
+    "name": "Ker",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode101",
+    "name": "Kiliken",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode140",
+    "name": "Kiste",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode220",
+    "name": "Kokabiel",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode741",
+    "name": "Koro",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode118",
+    "name": "Laomedeia",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode130",
+    "name": "Lares",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode49",
+    "name": "Larissa",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode6",
+    "name": "Larzac",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode850",
+    "name": "Legacyte Harvest",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode139",
+    "name": "Lex",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode109",
+    "name": "Linea",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode26",
+    "name": "Lith",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode138",
+    "name": "Ludi",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode103",
+    "name": "M Prime",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode712",
+    "name": "Magnacidium",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode1",
+    "name": "Malva",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode63",
+    "name": "Mantle",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode411",
+    "name": "Marduk",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode89",
+    "name": "Mariana",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode191",
+    "name": "Marid",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode36",
+    "name": "Martialis",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode10",
+    "name": "Memphis",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode193",
+    "name": "Merrow",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode126",
+    "name": "Metis",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode38",
+    "name": "Minthe",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode412",
+    "name": "Mithra",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SettlementNode12",
+    "name": "Monolith",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode902",
+    "name": "Montes",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode209",
+    "name": "Morax",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode409",
+    "name": "Mot",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode719",
+    "name": "Munio",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode210",
+    "name": "Naamah",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode742",
+    "name": "Nabuk",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode175",
+    "name": "Naeglar",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode189",
+    "name": "Naga",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode190",
+    "name": "Nakki",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode21",
+    "name": "Narcissus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode84",
+    "name": "Nereid",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode62",
+    "name": "Neso",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode716",
+    "name": "Nex",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode166",
+    "name": "Nimus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode50",
+    "name": "Numa",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode137",
+    "name": "Nuovo",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode102",
+    "name": "Oceanum",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode224",
+    "name": "Odin",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode167",
+    "name": "Oestrus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode30",
+    "name": "Olympus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode69",
+    "name": "Ophelia",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode129",
+    "name": "Orb Vallis",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode217",
+    "name": "Orias",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode24",
+    "name": "Oro",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode233",
+    "name": "Oro Works",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode211",
+    "name": "Ose",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode72",
+    "name": "Outer Terminus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode407",
+    "name": "Oxomoco",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode15",
+    "name": "Pacific",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode747",
+    "name": "Pago",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode212",
+    "name": "Paimon",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode131",
+    "name": "Pallas",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode81",
+    "name": "Palus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode906",
+    "name": "Pandora",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode226",
+    "name": "Pantheon",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode306",
+    "name": "Pavlov",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode717",
+    "name": "Persto",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode708",
+    "name": "Phlegyas",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode13",
+    "name": "Piscinas",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode228",
+    "name": "Plains Of Eidolon",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode300",
+    "name": "Plato",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode17",
+    "name": "Proteus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode127",
+    "name": "Psamathe",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode114",
+    "name": "Puck",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode251",
+    "name": "Recall: Dactolyst",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode250",
+    "name": "Recall: Hunhullus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode252",
+    "name": "Recall: Vanguard",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode48",
+    "name": "Regna",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode18",
+    "name": "Rhea",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode256",
+    "name": "Roathe's Oblivion",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SettlementNode1",
+    "name": "Roche",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode0",
+    "name": "Romula",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode9",
+    "name": "Rosalind",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode743",
+    "name": "Rotuma",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode184",
+    "name": "Rusalka",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode908",
+    "name": "Salacia",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode15",
+    "name": "Sangeru",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode57",
+    "name": "Sao",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode171",
+    "name": "Saxis",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode451",
+    "name": "Saya's Visions",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode24",
+    "name": "Sechura",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode22",
+    "name": "Seimeni",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode187",
+    "name": "Selkie",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SettlementNode15",
+    "name": "Sharpless",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SettlementNode14",
+    "name": "Shklovsky",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode4",
+    "name": "Sinai",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SettlementNode2",
+    "name": "Skyresh",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode173",
+    "name": "Solium",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode858",
+    "name": "Solstice Square",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode214",
+    "name": "Sorath",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode46",
+    "name": "Spear",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode122",
+    "name": "Stephano",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SettlementNode3",
+    "name": "Stickney",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode305",
+    "name": "StöFler",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode404",
+    "name": "Stribog",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode225",
+    "name": "Suisei",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode34",
+    "name": "Sycorax",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode904",
+    "name": "Syrtis",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode745",
+    "name": "Tamu",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode402",
+    "name": "Taranis",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode744",
+    "name": "Taveuni",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode20",
+    "name": "Telesto",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode28",
+    "name": "Terminus",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode711",
+    "name": "Terrorem",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode400",
+    "name": "Teshub",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode22",
+    "name": "Tessera",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode32",
+    "name": "Tethys",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode11",
+    "name": "Tharsis",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode238",
+    "name": "The Circuit",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode236",
+    "name": "The Duviri Experience",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode235",
+    "name": "The Greenway",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode257",
+    "name": "The Guilty",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode237",
+    "name": "The Lone Story",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode740",
+    "name": "The Ropalolyst",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode10",
+    "name": "Thebe",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode53",
+    "name": "Themisto",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode135",
+    "name": "Thon",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode3",
+    "name": "Tikal",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode96",
+    "name": "Titan",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode105",
+    "name": "Titania",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode403",
+    "name": "Tiwaz",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode108",
+    "name": "Tolstoj",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode78",
+    "name": "Triton",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode232",
+    "name": "Tuvul Commons",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode450",
+    "name": "Tyana Pass",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode302",
+    "name": "Tycho",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode406",
+    "name": "Ukko",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode14",
+    "name": "Ultor",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode64",
+    "name": "Umbriel",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode66",
+    "name": "Unda",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode16",
+    "name": "Ur",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode123",
+    "name": "V Prime",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode215",
+    "name": "Valac",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode216",
+    "name": "Valefor",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode68",
+    "name": "Vallis",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode107",
+    "name": "Venera",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode239",
+    "name": "Vesper Relay",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode183",
+    "name": "Vodyanoi",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode9",
+    "name": "Wahiba",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode99",
+    "name": "War",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode172",
+    "name": "Xini",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode199",
+    "name": "Yam",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode20",
+    "name": "Yursa",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode309",
+    "name": "Yuvarium",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode19",
+    "name": "Zabala",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "SolNode307",
+    "name": "Zeipel",
+    "type": "Node",
+    "category": "Node"
+  },
+  {
+    "uniqueName": "ClanNode11",
+    "name": "Zeugma",
+    "type": "Node",
+    "category": "Node"
+  }
+]

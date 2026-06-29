@@ -1,0 +1,2960 @@
+[
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/BaseSpearFishingSpear",
+    "name": "A Fishing Spear",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/SpeedBuffArmorDebuff",
+    "name": "Adrenal Stim",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/NpcBuffs/SpeedBuffArmorDebuffBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/SpeedBuffArmorDebuff"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Eventium",
+        "name": "Synthula",
+        "itemCount": 2
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserC",
+    "name": "Advanced Nosam Cutter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/MiningLaserCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
+        "name": "Fersteel Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
+        "name": "Marquise Veridos",
+        "itemCount": 2,
+        "wfm_item_url": "marquise_veridos",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserC"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetAirSupport",
+    "name": "Air Support Charges",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/LisetAirSupportBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/LisetAirSupport"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 1200,
+        "part_of_set": "/Lotus/Types/Restoratives/LisetAirSupport"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 700
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2000
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/AlphaCorruptor",
+    "name": "Alpha Corruptor",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/NightCommonAntitoxin",
+    "name": "Amethyst Antitoxin",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/Toxins/NightCommonAntitoxinBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/NightCommonAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
+        "name": "Moonlight Threshcone",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/NightCommonAntitoxin"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear",
+    "wfm_item_url": "amethyst_antitoxin",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall",
+    "name": "Ancient Protector Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/AncientHealerBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/AncientHealerBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedSyringe",
+    "name": "Antiserum Injector",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/SyringeComponent",
+        "name": "Antiserum Injector Fragment",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/InfestedSyringeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/InfestedSyringe"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/EnergyComponent",
+        "name": "Fieldron",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/InfestedSyringe"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 6000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
+        "name": "Tellurium",
+        "itemCount": 2
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/HeavyWeaponSummon",
+    "name": "Archgun Deployer",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/OpenArchwingSummon",
+    "name": "Archwing Launcher",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/MotorcycleSummon",
+    "name": "Atomicycle Summon",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMergooLureGearItem",
+    "name": "Avichaea Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMergooRarityBoost",
+    "name": "Avichaea Pheromone Gland",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Eidolon/LandscapeTrapLightGear",
+    "name": "Beckonsnare",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/DayCommonAntitoxin",
+    "name": "Beryl Antitoxin",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/Toxins/DayCommonAntitoxinBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/DayCommonAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
+        "name": "Sunlight Threshcone",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/DayCommonAntitoxin"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear",
+    "wfm_item_url": "beryl_antitoxin",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/BetaCorruptor",
+    "name": "Beta Corruptor",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Upgraded/HealthDebuffKey",
+    "name": "Bleeding Dragon Key",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/HealthDebuffKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Upgraded/HealthDebuffKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 250,
+        "part_of_set": "/Lotus/Types/Restoratives/Upgraded/HealthDebuffKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/VoidTearDrop",
+        "name": "Void Traces",
+        "itemCount": 10
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowArmadilloLureGearItem",
+    "name": "Bolarola Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowArmadilloRarityBoost",
+    "name": "Bolarola Pheromone Synthesizer",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Venus/GenericContaminant",
+    "name": "Broad-Spectrum Bait",
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/ArmorBuffSpeedDebuff",
+    "name": "Calcifin Stim",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 1500
+      },
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/NpcBuffs/ArmorBuffSpeedDebuffBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/ArmorBuffSpeedDebuff"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Eventium",
+        "name": "Synthula",
+        "itemCount": 2
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetBarrage",
+    "name": "Carpet Bomb",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Venus/CaveContaminantTierB",
+    "name": "Charamote Bait",
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/ChargerBall",
+    "name": "Charger Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/ChargerBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/ChargerBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/ChargerBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Cipher",
+    "name": "Cipher",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/CipherBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Cipher"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 400,
+        "part_of_set": "/Lotus/Types/Restoratives/Cipher"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 400
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/DayUnCommonAntitoxin",
+    "name": "Citrine Antitoxin",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/Toxins/DayUnCommonAntitoxinBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/DayUnCommonAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
+        "name": "Sunlight Dragonlily",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/DayUnCommonAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
+        "name": "Sunlight Threshcone",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/DayUnCommonAntitoxin"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear",
+    "wfm_item_url": "citrine_antitoxin",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/ClemBall",
+    "name": "Clem Clone",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/ClemBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/ClemBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/ClemBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/ReviveBuff",
+    "name": "Clotra Stim",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/NpcBuffs/ReviveBuffBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/ReviveBuff"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 1500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Eventium",
+        "name": "Synthula",
+        "itemCount": 2
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Scanner",
+    "name": "Codex Scanner",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/BirdOfPreyLureGearItem",
+    "name": "Condroc Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/CondrocRarityBoost",
+    "name": "Condroc Pheromone Oota",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/CorruptedBombardBall",
+    "name": "Corrupted Bombard Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/CorruptedBombardBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/CorruptedBombardBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/CorruptedBombardBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/CorruptedHeavyGunnerBall",
+    "name": "Corrupted Heavy Gunner Specter",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/CorruptedLancerBall",
+    "name": "Corrupted Lancer Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/CorruptedLancerBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/CorruptedLancerBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/CorruptedLancerBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/PlatinumSpectre",
+    "name": "Cosmic Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/PlatinumSpectreBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/PlatinumSpectre"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 5000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 1000
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/SpectreArmies/PlatinumSpectreArmy",
+    "name": "Cosmic Specter Regiment",
+    "type": "Specter",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMaggotLureGearItem",
+    "name": "Cryptilex Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedMaggotRarityBoost",
+    "name": "Cryptilex Pheromone Gland",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/NightRareFishBaitBItem",
+    "name": "Cuthol Bait",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightRareFishBaitBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightRareFishBaitBItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightRareFishBaitBItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
+        "name": "Goopolla Spleen",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightRareFishBaitBItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightRareFishBaitBItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothRareFishAPartItem",
+        "name": "Murkray Liver",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightRareFishBaitBItem"
+      }
+    ],
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Upgraded/ShieldDebuffKey",
+    "name": "Decaying Dragon Key",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/ShieldDebuffKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Upgraded/ShieldDebuffKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 250,
+        "part_of_set": "/Lotus/Types/Restoratives/Upgraded/ShieldDebuffKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/VoidTearDrop",
+        "name": "Void Traces",
+        "itemCount": 10
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/SkateBall",
+    "name": "Desert Skate Specter",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetStun",
+    "name": "Dreamers",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedFishingSpearB",
+    "name": "Ebisu Spear",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/UpgradedAnimalLureGearItem",
+    "name": "Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/ValentinesArrowBundle",
+    "name": "Eros Arrow Skin",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Upgraded/DamageDebuffKey",
+    "name": "Extinguished Dragon Key",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/DamageDebuffKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Upgraded/DamageDebuffKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 250,
+        "part_of_set": "/Lotus/Types/Restoratives/Upgraded/DamageDebuffKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/VoidTearDrop",
+        "name": "Void Traces",
+        "itemCount": 10
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/CreditChipMedium",
+    "name": "Faithful Void Offering",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/CreditChipMediumBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/CreditChipMedium"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 5
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+    "name": "Fass Residue",
+    "type": "Fish Bait",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserB",
+    "name": "Focused Nosam Cutter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/MiningLaserBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem",
+        "name": "Esher Devar",
+        "itemCount": 1,
+        "wfm_item_url": "esher_devar",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
+        "name": "Pyrotic Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemACutAItem",
+        "name": "Tear Azurite",
+        "itemCount": 1,
+        "wfm_item_url": "tear_azurite",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserB"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/FomorianNegator",
+    "name": "Fomorian Disruptor",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/FomorianNegatorBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/FomorianNegator"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 300
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 3500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OmegaIsotope",
+        "name": "Omega Isotope",
+        "itemCount": 4
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/GoldSpectre",
+    "name": "Force Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/GoldSpectreBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/GoldSpectre"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1000
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/SpectreArmies/GoldSpectreArmy",
+    "name": "Force Specter Regiment",
+    "type": "Specter",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareBlue",
+    "name": "Fosfor Blau",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/SynthicatorRecipes/FlareBlueBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareBlue"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
+        "name": "Goopolla Spleen",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareBlue"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
+        "name": "Grokdrul",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareBlue"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
+        "name": "Karkina Antenna",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareBlue"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareBlue"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareDemo",
+    "name": "Fosfor Rahd",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareRed",
+    "name": "Fosfor Rahd",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/SynthicatorRecipes/FlareRedBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareRed"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishAPartItem",
+        "name": "Charc Electroplax",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareRed"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
+        "name": "Iradite",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareRed"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareRed"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
+        "name": "Sharrac Teeth",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Synthetics/FlareRed"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/NightLegendaryFishBaitItem",
+    "name": "Glappid Bait",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightLegendaryFishBaitBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightLegendaryFishBaitItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem",
+        "name": "Cuthol Tendrils",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightLegendaryFishBaitItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightLegendaryFishBaitItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightLegendaryFishBaitItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem",
+        "name": "Norg Brain",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightLegendaryFishBaitItem"
+      }
+    ],
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/GlyphConsumable",
+    "name": "Glyph Prism",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/GlyphConsumableNoCharges",
+    "name": "Glyph Prism",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/FireWorksCrate",
+    "name": "Grand Finale",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/AssassinBaitC",
+    "name": "Grustrag Three Beacon",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SelfHealLarge",
+    "name": "Health Restore (Large)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/SelfHealBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/SelfHealLarge"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
+        "name": "Moonlight Jadeleaf",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/SelfHealLarge"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
+        "name": "Moonlight Threshcone",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Restoratives/SelfHealLarge"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
+        "name": "Sunlight Jadeleaf",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/SelfHealLarge"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
+        "name": "Sunlight Threshcone",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Restoratives/SelfHealLarge"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SelfHealSmall",
+    "name": "Health Restore (Small)",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Upgraded/SpeedDebuffKey",
+    "name": "Hobbled Dragon Key",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/SpeedDebuffKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Upgraded/SpeedDebuffKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 250,
+        "part_of_set": "/Lotus/Types/Restoratives/Upgraded/SpeedDebuffKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/VoidTearDrop",
+        "name": "Void Traces",
+        "itemCount": 10
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowPredatorLureGearItem",
+    "name": "Horrasque Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowPredatorRarityBoost",
+    "name": "Horrasque Pheromone Synthesizer",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/CreditChipSmall",
+    "name": "Humble Void Offering",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/CreditChipSmallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/CreditChipSmall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 5
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/HoverboardSummon",
+    "name": "K-Drive Launcher",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetKahl",
+    "name": "Kahl Beacon",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/ErsatzSummon",
+    "name": "Kaithe Summon",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/BaroFireWorksCrate",
+    "name": "Ki'Teer Fireworks",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/HunterTool",
+    "name": "Kinetic Siphon Trap",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Venus/LakeContaminantTierA",
+    "name": "Kriller Bait",
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/ForestRodentLureGearItem",
+    "name": "Kuaka Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/KuakaRarityBoost",
+    "name": "Kuaka Pheromone Oota",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/LegendaryKubrowLureGearItem",
+    "name": "Kubrodon Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/LegendaryKubrowRarityBoost",
+    "name": "Kubrodon Pheromone Synthesizer",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpear",
+    "name": "Lanzo Fishing Spear",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpear"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 1200,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpear"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
+        "name": "Grokdrul",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpear"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+        "name": "Nistlepod",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpear"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/RareAntitoxin",
+    "name": "Lapis Antitoxin",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/Toxins/RareAntitoxinBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/RareAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
+        "name": "Moonlight Dragonlily",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/RareAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
+        "name": "Moonlight Jadeleaf",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/RareAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
+        "name": "Sunlight Dragonlily",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/RareAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
+        "name": "Sunlight Jadeleaf",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/RareAntitoxin"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear",
+    "wfm_item_url": "lapis_antitoxin",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/MapMarker",
+    "name": "Loc-Pin",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/MapMarkerBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MapMarker"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 100
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 150
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Venus/LakeContaminantTierB",
+    "name": "Longwinder Bait",
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/AnglerVision",
+    "name": "Luminous Dye",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/Boosters/AnglerVisionBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/AnglerVision"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/AnglerVision"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
+        "name": "Iradite",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/AnglerVision"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetMedStation",
+    "name": "Med-Tower",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/OstronSeaBirdLureGearItem",
+    "name": "Mergoo Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/MergooRarityBoost",
+    "name": "Mergoo Pheromone Oota",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Venus/CaveContaminantTierA",
+    "name": "Mirewinder Bait",
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetLaserTurret",
+    "name": "Missile Battery",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/MoaBall",
+    "name": "Moa Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/MoaBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MoaBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MoaBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/BothRareFishBaitAItem",
+    "name": "Murkray Bait",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/BothRareFishBaitABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Game/FishBait/BothRareFishBaitAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Game/FishBait/BothRareFishBaitAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem",
+        "name": "Goopolla Spleen",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Game/FishBait/BothRareFishBaitAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishBPartItem",
+        "name": "Mortus Horn",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/BothRareFishBaitAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/DayUncommonFishAPartItem",
+        "name": "Tralok Eyes",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/BothRareFishBaitAItem"
+      }
+    ],
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Venus/PondContaminantTierA",
+    "name": "Narrow-Spectrum Bait",
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LoadoutTechSummon",
+    "name": "Necramech Summon",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedNexiferaLureGearItem",
+    "name": "Nexifera Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedNexiferaRarityBoost",
+    "name": "Nexifera Pheromone Gland",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonKnaveLoki",
+    "name": "Nightfall Apothic",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/TitaniaQuest/SpecterSummonKnaveLokiBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonKnaveLoki"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenCobraLotusPlantItem",
+        "name": "Dusklight Sarracenia",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonKnaveLoki"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
+        "name": "Moonlight Dragonlily",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonKnaveLoki"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonDayPlantItem",
+        "name": "Sunlight Threshcone",
+        "itemCount": 12,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonKnaveLoki"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/NightRareFishBaitAItem",
+    "name": "Norg Bait",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/NightRareFishBaitABlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightRareFishBaitAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightRareFishBaitAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
+        "name": "Karkina Antenna",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightRareFishBaitAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightRareFishBaitAItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishAPartItem",
+        "name": "Sharrac Teeth",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/NightRareFishBaitAItem"
+      }
+    ],
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaser",
+    "name": "Nosam Cutter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/EidolonRecipes/Prospecting/MiningLaserBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaser"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2000,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaser"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/RepairTool",
+    "name": "Omni",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SelfOmniAmmo",
+    "name": "Omni Ammo Box",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/CrewmateBall",
+    "name": "On Call Crew",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/ScenarioBeacon",
+    "name": "Oplink",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetGoldenInstinct",
+    "name": "Orokin Eye",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetAutoHack",
+    "name": "Override",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/CreditChipLarge",
+    "name": "Passionate Void Offering",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/CreditChipLargeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/CreditChipLarge"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 5
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/GenericFishBait",
+    "name": "Peppered Bait",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/GenericFishBaitBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Game/FishBait/GenericFishBait"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Game/FishBait/GenericFishBait"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+        "name": "Nistlepod",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Game/FishBait/GenericFishBait"
+      }
+    ],
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearC",
+    "name": "Peram Fishing Spear",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBAlloyBItem",
+        "name": "Coprite Alloy",
+        "itemCount": 100,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
+        "name": "Fersteel Alloy",
+        "itemCount": 80,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
+        "name": "Grokdrul",
+        "itemCount": 55,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+        "name": "Nistlepod",
+        "itemCount": 70,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearC"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/SoftTouch",
+    "name": "Pharoma",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/Boosters/SoftTouchBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/SoftTouch"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
+        "name": "Iradite",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/FishingBoosts/SoftTouch"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/SilverSpectre",
+    "name": "Phase Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/SilverSpectreBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SilverSpectre"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 5000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 750
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 5000
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/SpectreArmies/SilverSpectreArmy",
+    "name": "Phase Specter Regiment",
+    "type": "Specter",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall",
+    "name": "Pherliac Pods",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/InfestedBaitBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/JuggernautPartC",
+        "name": "Chitinous Husk",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/JuggernautPartB",
+        "name": "Infected Palpators",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/JuggernautPartA",
+        "name": "Pulsating Tubercles",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/JuggernautPartD",
+        "name": "Severed Bile Sac",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SelfPistolAmmo",
+    "name": "Pistol Ammo Box",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowRodentLureGearItem",
+    "name": "Pobbers Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowRodentRarityBoost",
+    "name": "Pobbers Pheromone Synthesizer",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedIrradiatedBaitBall",
+    "name": "Potent Pherliac Pods",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/InfestedIrradiatedBaitBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/InfestedIrradiatedBaitBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedBaitBall",
+        "name": "Pherliac Pods",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/InfestedIrradiatedBaitBall"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedPredatorLureGearItem",
+    "name": "Predasite Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedPredatorRarityBoost",
+    "name": "Predasite Pheromone Gland",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitB",
+    "name": "Processed Fass Residue",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitA",
+        "name": "Fass Residue",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/Infested/InfestedFishBaitB"
+      }
+    ],
+    "type": "Fish Bait",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitB",
+    "name": "Processed Vome Residue",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+        "name": "Vome Residue",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitB"
+      }
+    ],
+    "type": "Fish Bait",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/RecallToRailjack",
+    "name": "Railjack Recall",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/RazorbackCipher",
+    "name": "Razorback Cipher",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/RazorbackCipherBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RazorbackCipher"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/RazorbackCipherPart",
+        "name": "Cryptographic Alu",
+        "itemCount": 4
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Gallium",
+        "name": "Gallium",
+        "itemCount": 3
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/CloakingBuff",
+    "name": "Refract Stim",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/NpcBuffs/CloakingBuffBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/NpcBuffs/CloakingBuff"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Cryotic",
+        "name": "Cryotic",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 1500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Eventium",
+        "name": "Synthula",
+        "itemCount": 2
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/CameraConsumable",
+    "name": "Remote Observer",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/NemesisBait",
+    "name": "Requiem Ultimatum",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SelfRifleAmmo",
+    "name": "Rifle Ammo Box",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/RollerBall",
+    "name": "Roller Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/RollerBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RollerBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RollerBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/MummyQuest/MummyArtifact01GearItem",
+    "name": "Sacred Vessel",
+    "type": "Key",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowBirdLureGearItem",
+    "name": "Sawgaw Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowBirdRarityBoost",
+    "name": "Sawgaw Pheromone Synthesizer",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/MacheteWomanBall",
+    "name": "Scorpion Specter",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetTurret",
+    "name": "Sentry Gun",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/ShieldDroneBall",
+    "name": "Shield Osprey Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/ShieldDroneBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/ShieldDroneBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/ShieldDroneBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SelfShieldHeal",
+    "name": "Shield Restore (Small)",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/RobofishSpearB",
+    "name": "Shockprod Fishing Spear",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/RobofishSpearBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RobofishSpearB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 1000,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RobofishSpearB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
+        "name": "Grokdrul",
+        "itemCount": 35,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RobofishSpearB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+        "name": "Nistlepod",
+        "itemCount": 55,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RobofishSpearB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
+        "name": "Pyrotic Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RobofishSpearB"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SelfShotgunAmmo",
+    "name": "Shotgun Ammo Box",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SelfSniperAmmo",
+    "name": "Sniper Ammo Box",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetShield",
+    "name": "Snow Globe",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/InfestedFishingSpearA",
+    "name": "Spari Spear",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamAmmoTotem",
+    "name": "Squad Ammo Restore (Large)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/SyndicateTeamAmmoTenPackBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/SyndicateTeamAmmoTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 300
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/ClanTeamAmmoTotem",
+    "name": "Squad Ammo Restore (Medium)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/ClanTeamAmmoBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/ClanTeamAmmoTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 600,
+        "part_of_set": "/Lotus/Types/Restoratives/ClanTeamAmmoTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 600
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetAmmoDrop",
+    "name": "Squad Ammo Restore (Medium)",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/TeamAmmoTotem",
+    "name": "Squad Ammo Restore (Small)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/HundredTeamAmmoTotemBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/TeamAmmoTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 7200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 900
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamEnergyTotem",
+    "name": "Squad Energy Restore (Large)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/SyndicateTeamEnergyTenPackBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/SyndicateTeamEnergyTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 3000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/ClanTeamEnergyTotem",
+    "name": "Squad Energy Restore (Medium)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 150
+      },
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/ClanTeamEnergyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/ClanTeamEnergyTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 600,
+        "part_of_set": "/Lotus/Types/Restoratives/ClanTeamEnergyTotem"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/TeamEnergyTotem",
+    "name": "Squad Energy Restore (Small)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/HundredTeamEnergyTotemBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/TeamEnergyTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 9000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 900
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamHealTotem",
+    "name": "Squad Health Restore (Large)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/SyndicateTeamHealTenPackBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/SyndicateTeamHealTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 600
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 4000
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/ClanTeamHealTotem",
+    "name": "Squad Health Restore (Medium)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Bio/ClanTeamHealBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/ClanTeamHealTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 500,
+        "part_of_set": "/Lotus/Types/Restoratives/ClanTeamHealTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 600
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/TeamHeal",
+    "name": "Squad Health Restore (Small)",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/TeamHealTotem",
+    "name": "Squad Health Restore (Small)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/HundredTeamHealTotemBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/TeamHealTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 108000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 1800
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/SyndicateTeamShieldTotem",
+    "name": "Squad Shield Restore (Large)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/SyndicateTeamShieldTenPackBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/SyndicateTeamShieldTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Restoratives/SyndicateTeamShieldTotem"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/ClanTeamShieldTotem",
+    "name": "Squad Shield Restore (Medium)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "itemCount": 150
+      },
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Energy/ClanTeamShieldBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/ClanTeamShieldTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 600,
+        "part_of_set": "/Lotus/Types/Restoratives/ClanTeamShieldTotem"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/TeamShieldTotem",
+    "name": "Squad Shield Restore (Small)",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/HundredTeamShieldTotemBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/TeamShieldTotem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 14400
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/StableCorruptor",
+    "name": "Stable Corruptor",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/AssassinBait",
+    "name": "Stalker Beacon",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/StalkerBall",
+    "name": "Stalker Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/StalkerBallBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/StalkerBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 2500,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/StalkerBall"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 2500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/FireWorksSingle",
+    "name": "Starburst",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/OrokinKubrowLureGearItem",
+    "name": "Stover Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/OrokinKubrowRarityBoost",
+    "name": "Stover Pheromone Synthesizer",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/RobofishSpearC",
+    "name": "Stunna Fishing Spear",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/RobofishSpearCBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RobofishSpearC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 1000,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RobofishSpearC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
+        "name": "Grokdrul",
+        "itemCount": 35,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RobofishSpearC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+        "name": "Nistlepod",
+        "itemCount": 55,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RobofishSpearC"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
+        "name": "Pyrotic Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/RobofishSpearC"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserSolaris",
+    "name": "Sunpoint Plasma Drill",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/MiningLaserC",
+        "name": "Advanced Nosam Cutter",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserSolaris"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/SolarisRecipes/Prospecting/MiningLaserSolarisBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserSolaris"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 1000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
+        "name": "Marquise Veridos",
+        "itemCount": 2,
+        "wfm_item_url": "marquise_veridos",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserSolaris"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
+        "name": "Travocyte Alloy",
+        "itemCount": 30,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/MiningLaserSolaris"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonFeyarchOberon",
+    "name": "Sunrise Apothic",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/TitaniaQuest/SpecterSummonFeyarchOberonBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonFeyarchOberon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/WildGingerBPlantItem",
+        "name": "Frostleaf",
+        "itemCount": 8,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonFeyarchOberon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
+        "name": "Sunlight Jadeleaf",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonFeyarchOberon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/MossGroundCoverAPlantItem",
+        "name": "Vestan Moss",
+        "itemCount": 12,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonFeyarchOberon"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Venus/CaveContaminantTierC",
+    "name": "Synathid Bait",
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/LibraryScanner",
+    "name": "Synthesis Scanner",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/ThermianRPGSummon",
+    "name": "Thermian Rpg",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/NightUnCommonAntitoxin",
+    "name": "Topaz Antitoxin",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/Toxins/NightUnCommonAntitoxinBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/NightUnCommonAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
+        "name": "Moonlight Dragonlily",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/NightUnCommonAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/CommonNightPlantItem",
+        "name": "Moonlight Threshcone",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/NightUnCommonAntitoxin"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear",
+    "wfm_item_url": "topaz_antitoxin",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/TranqRifleGearItem",
+    "name": "Tranq Rifle",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Venus/PondContaminantTierB",
+    "name": "Tromyzon Bait",
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearB",
+    "name": "Tulok Fishing Spear",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearBBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 1000,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/GrokdrulItem",
+        "name": "Grokdrul",
+        "itemCount": 35,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+        "name": "Nistlepod",
+        "itemCount": 55,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearB"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
+        "name": "Pyrotic Alloy",
+        "itemCount": 40,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/SpearFishingSpearB"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonOrphidSaryn",
+    "name": "Twilight Apothic",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/TitaniaQuest/SpecterSummonOrphidSarynBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonOrphidSaryn"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
+        "name": "Lunar Pitcher",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonOrphidSaryn"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
+        "name": "Moonlight Jadeleaf",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonOrphidSaryn"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/GftPlantRuksClawMaturePlantItem",
+        "name": "Ruk's Claw",
+        "itemCount": 6,
+        "part_of_set": "/Lotus/Types/Restoratives/TitaniaQuest/SpecterSummonOrphidSaryn"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/BothUncommonFishBaitItem",
+    "name": "Twilight Bait",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Fishing/FishBaits/BothUncommonFishBaitBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Game/FishBait/BothUncommonFishBaitItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishMeatItem",
+        "name": "Fish Meat",
+        "itemCount": 20,
+        "part_of_set": "/Lotus/Types/Game/FishBait/BothUncommonFishBaitItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/EidolonFishOilItem",
+        "name": "Fish Oil",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Game/FishBait/BothUncommonFishBaitItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Game/FishBait/BothUncommonFishBaitItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+        "name": "Nistlepod",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Game/FishBait/BothUncommonFishBaitItem"
+      }
+    ],
+    "type": "Fish",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedZongroLureGearItem",
+    "name": "Undazoa Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedZongroRarityBoost",
+    "name": "Undazoa Pheromone Gland",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/BronzeSpectre",
+    "name": "Vapor Specter",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Components/BronzeSpectreBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/BronzeSpectre"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 5000,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/BronzeSpectre"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 7500
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/SpectreArmies/BronzeSpectreArmy",
+    "name": "Vapor Specter Regiment",
+    "type": "Specter",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/CatbrowVampireDisinfect",
+    "name": "Vasca Curative",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Restoratives/Consumable/CatbrowVampireDisinfectBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/CatbrowVampireDisinfect"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothUncommonFishBPartItem",
+        "name": "Karkina Antenna",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Types/Restoratives/CatbrowVampireDisinfect"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/EidolonFruitItem",
+        "name": "Maprico",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Restoratives/CatbrowVampireDisinfect"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/NistlebrushItem",
+        "name": "Nistlepod",
+        "itemCount": 15,
+        "part_of_set": "/Lotus/Types/Restoratives/CatbrowVampireDisinfect"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem",
+        "name": "Norg Brain",
+        "itemCount": 3,
+        "part_of_set": "/Lotus/Types/Restoratives/CatbrowVampireDisinfect"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/VampireKavatLureGearItem",
+    "name": "Vasca Kavat Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/VampireKavatRarityBoost",
+    "name": "Vasca Kavat Pheromone Oota",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/Toxins/SoloRareAntitoxin",
+    "name": "Vermillion Antitoxin",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/StoreItems/Consumables/Restoratives/Toxins/SoloRareAntitoxinBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/SoloRareAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
+        "name": "Moonlight Dragonlily",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/SoloRareAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareNightPlantItem",
+        "name": "Moonlight Jadeleaf",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/SoloRareAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
+        "name": "Sunlight Dragonlily",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/SoloRareAntitoxin"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/RareDayPlantItem",
+        "name": "Sunlight Jadeleaf",
+        "itemCount": 4,
+        "part_of_set": "/Lotus/Types/Restoratives/Consumable/Toxins/SoloRareAntitoxin"
+      }
+    ],
+    "type": "Gear",
+    "category": "Gear",
+    "wfm_item_url": "vermillion_antitoxin",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/SnowCritterLureGearItem",
+    "name": "Virmink Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/RarityBoosts/SnowCritterRarityBoost",
+    "name": "Virmink Pheromone Synthesizer",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/FishBait/Infested/OrokinFishBaitA",
+    "name": "Vome Residue",
+    "type": "Fish Bait",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/LisetBlackHole",
+    "name": "Vortex",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedCritterLureGearItem",
+    "name": "Vulpaphyla Echo-Lure",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Conservation/Deimos/InfestedCritterRarityBoost",
+    "name": "Vulpaphyla Pheromone Gland",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/AssassinBaitD",
+    "name": "Wolf Beacon",
+    "type": "Gear",
+    "category": "Gear"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/AssassinBaitB",
+    "name": "Zanuka Hunter Beacon",
+    "type": "Gear",
+    "category": "Gear"
+  }
+]

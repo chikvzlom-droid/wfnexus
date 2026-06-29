@@ -1,0 +1,30 @@
+{
+  "credits": 0,
+  "logs": [
+    "2349.934 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:",
+    "\rHarrow Prime Systems Blueprint\r",
+    "\r",
+    "and will receive from younkioure the following:",
+    "\rPlatinum x 29, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)"
+  ],
+  "offeredItems": [
+    {
+      "item_type": "Component",
+      "quantity": 1,
+      "raw": "Harrow Prime Systems Blueprint",
+      "unique_name": "/Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeSystemsComponent"
+    }
+  ],
+  "platinum": 29,
+  "playerName": "younkioure",
+  "receivedItems": [
+    {
+      "item_type": "Platinum",
+      "quantity": 29,
+      "raw": "Platinum",
+      "unique_name": ""
+    }
+  ],
+  "tradeTime": "2026-06-27T10:23:35.328539400Z",
+  "type": "sale"
+}

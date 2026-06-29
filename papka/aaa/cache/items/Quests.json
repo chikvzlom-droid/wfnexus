@@ -1,0 +1,563 @@
+[
+  {
+    "uniqueName": "/Lotus/Types/Keys/GetClemQuest/GetClemQuestKeyChain",
+    "name": "A Man Of Few Words",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "name": "Abyssal Beacon",
+    "uniqueName": "/Lotus/Types/Keys/SyndicateCacheHuntBaseKeyItem",
+    "type": "Key",
+    "category": "Quests",
+    "wfm_item_url": "abyssal_beacon",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ZarimanQuest/ZarimanQuestKeyChain",
+    "name": "Angels Of The Zariman",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
+    "name": "Apostasy Prologue",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/NewPlayerQuest/NewPlayerQuestKeyChain",
+    "name": "Awakening",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "name": "Baro Void-Signal (Key)",
+    "uniqueName": "/Lotus/Types/Keys/WeeklyMissions/BaroWeeklyMission",
+    "type": "Key",
+    "category": "Quests",
+    "wfm_item_url": "baro_void_signal_(key)",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/WraithQuest/WraithQuestKeyChain",
+    "name": "Call Of The Tempestarii",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/PriestFrameQuest/PriestQuestKeyChain",
+    "name": "Chains Of Harrow",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ChimeraQuest/ChimeraKeyChain",
+    "name": "Chimera Prologue",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DojoKey",
+    "name": "Clan Key",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Keys/DojoKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/DojoKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 500,
+        "part_of_set": "/Lotus/Types/Keys/DojoKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 500
+      }
+    ],
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "name": "Corpus Void Key",
+    "uniqueName": "/Lotus/Types/Keys/CorpusCaptureKey",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/CaptureKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/CorpusCaptureKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/CipherPlus",
+        "name": "Corpus Cipher",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/CorpusCaptureKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Research/DataMassPlus",
+        "name": "Corpus Datamass",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/CorpusCaptureKey"
+      }
+    ],
+    "type": "Key",
+    "category": "Quests",
+    "wfm_item_url": "corpus_void_key",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/NewWarIntroQuest/NewWarIntroKeyChain",
+    "name": "Erra",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/GrendelKeyA",
+    "name": "Grendel Chassis Locator",
+    "type": "Key",
+    "category": "Quests",
+    "wfm_item_url": "grendel_chassis_locator",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/GrendelKeyB",
+    "name": "Grendel Neuroptics Locator",
+    "type": "Key",
+    "category": "Quests",
+    "wfm_item_url": "grendel_neuroptics_locator",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/GrendelKeyC",
+    "name": "Grendel Systems Locator",
+    "type": "Key",
+    "category": "Quests",
+    "wfm_item_url": "grendel_systems_locator",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedMicroplanetQuest/InfestedMicroplanetQuestKeyChain",
+    "name": "Heart Of Deimos",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain",
+    "name": "Hidden Messages",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Keys/MirageQuestKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/MirageCode",
+        "name": "Orokin Cipher",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+        "name": "Oxium",
+        "itemCount": 4
+      }
+    ],
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/KubrowQuest/KubrowQuestKeyChain",
+    "name": "Howl Of The Kubrow",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/JadeShadows/JadeShadowQuestKeyChain",
+    "name": "Jade Shadows",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/RevenantQuest/RevenantQuestKeyChain",
+    "name": "Mask Of The Revenant",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
+    "name": "Mutalist Alad V Assassinate",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 750,
+        "part_of_set": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/InfestedAladCoordinate",
+        "name": "Mutalist Alad V Nav Coordinate",
+        "itemCount": 1
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 2500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/NavCode",
+        "name": "Nav Coordinate",
+        "itemCount": 6
+      }
+    ],
+    "type": "Key",
+    "category": "Quests",
+    "wfm_item_url": "mutalist_alad_v_assassinate_key",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SentientQuest/SentientQuestKeyChain",
+    "name": "Natah",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestKeyChain",
+    "name": "Octavia's Anthem",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedIntroQuest/InfestedIntroQuestKeyChain",
+    "name": "Once Awake",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladVQuestKeyChain",
+    "name": "Patient Zero",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Keys/PatientZeroKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladVQuestKeyChain"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 1200
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladVQuestKeyChain"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 200
+      }
+    ],
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/RailJackBuildQuest/RailjackBuildQuestKeyChain",
+    "name": "Rising Tide",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain",
+    "name": "Sands Of Inaros",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Keys/MummyQuestKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Nanospores",
+        "name": "Nano Spores",
+        "itemCount": 5000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+        "name": "Oxium",
+        "itemCount": 400
+      }
+    ],
+    "type": "Key",
+    "category": "Quests",
+    "wfm_item_url": "sands_of_inaros",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/GlassQuest/GlassQuestKeyChain",
+    "name": "Saya's Vigil",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SpyQuestKeyChain/SpyQuestKeyChain",
+    "name": "Stolen Dreams",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ArchwingQuest/ArchwingQuestKeyChain",
+    "name": "The Archwing",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ProteaQuest/ProteaQuestKeyChain",
+    "name": "The Deadlock Protocol",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DuviriQuest/DuviriQuestKeyChain",
+    "name": "The Duviri Paradox",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/IndexQuest/IndexQuestKeyChain",
+    "name": "The Glast Gambit",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestKeyChain",
+    "name": "The Hex",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/1999Quest/1999QuestGoodEndKeyChain",
+    "name": "The Hex Finale",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/GolemQuest/GolemQuestKeyChainItem",
+    "name": "The Jordas Precept",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Keys/GolemQuestKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/GolemQuest/GolemQuestKeyChainItem"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+        "name": "Neural Sensors",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      }
+    ],
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/LimboQuest/LimboQuestKeyChain",
+    "name": "The Limbo Theorem",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Keys/LimboQuestKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/LimboQuest/LimboQuestKeyChain"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+        "name": "Neural Sensors",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 1
+      }
+    ],
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/1999PrologueQuest/1999PrologueQuestKeyChain",
+    "name": "The Lotus Eaters",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DragonQuest/DragonQuestKeyChain",
+    "name": "The New Strange",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/NewWarQuest/NewWarQuestKeyChain",
+    "name": "The New War",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/TauPrequel/TauPrequelQuestKeyChain",
+    "name": "The Old Peace",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyChain",
+    "name": "The Sacrifice",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyChain",
+    "name": "The Second Dream",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/FairyQuest/FairyQuestKeyChain",
+    "name": "The Silver Grove",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Keys/FairyQuestKeyBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Keys/FairyQuest/FairyQuestKeyChain"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonNightPlantItem",
+        "name": "Moonlight Dragonlily",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Keys/FairyQuest/FairyQuestKeyChain"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Keys/FairyQuest/FairyQuestKeyChain"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Plastids",
+        "name": "Plastids",
+        "itemCount": 1300
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/UnCommonDayPlantItem",
+        "name": "Sunlight Dragonlily",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Keys/FairyQuest/FairyQuestKeyChain"
+      }
+    ],
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ModQuest/ModQuestKeyChain",
+    "name": "The Teacher",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyChain",
+    "name": "The War Within",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/YareliQuest/YareliQuestKeyChain",
+    "name": "The Waverider",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "name": "Vay Hek Frequency Triangulator",
+    "uniqueName": "/Lotus/Types/Keys/VeyHekKey",
+    "type": "Key",
+    "category": "Quests",
+    "wfm_item_url": "vay_hek_frequency_triangulator",
+    "tradable": true,
+    "trading_tax": 2000
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/KahlQuest/KahlQuestKeyChain",
+    "name": "Veilbreaker",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/VorsPrize/VorsPrizeQuestKeyChain",
+    "name": "Vor's Prize",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SolarisQuest/SolarisQuestKeyChain",
+    "name": "Vox Solaris",
+    "type": "Key",
+    "category": "Quests"
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/EntratiLab/EntratiQuestKeyChain",
+    "name": "Whispers In The Walls",
+    "type": "Key",
+    "category": "Quests"
+  }
+]

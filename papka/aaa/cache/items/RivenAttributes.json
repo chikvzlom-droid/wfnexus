@@ -1,0 +1,162 @@
+[
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponMeleeComboBonusOnHitMod",
+    "name": "Additional Combo Count Chance",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponAmmoMaxMod",
+    "name": "Ammo Maximum",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponMeleeComboPointsOnHitMod",
+    "name": "Chance to Gain Combo Count",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponFreezeDamageMod",
+    "name": "Cold",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/ComboDurationMod",
+    "name": "Combo Duration",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponCritChanceMod",
+    "name": "Critical Chance",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/SlideAttackCritChanceMod",
+    "name": "Critical Chance for Slide Attack",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponCritDamageMod",
+    "name": "Critical Damage",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponDamageAmountMod",
+    "name": "Damage",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponFactionDamageCorpus",
+    "name": "Damage to Corpus",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponFactionDamageGrineer",
+    "name": "Damage to Grineer",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponFactionDamageInfested",
+    "name": "Damage to Infested",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponElectricityDamageMod",
+    "name": "Electricity",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponMeleeFinisherDamageMod",
+    "name": "Finisher Damage",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponFireRateMod",
+    "name": "Fire Rate / Attack Speed",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponFireDamageMod",
+    "name": "Heat",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponMeleeComboEfficiencyMod",
+    "name": "Heavy Attack Efficiency",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponImpactDamageMod",
+    "name": "Impact",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponMeleeComboInitialBonusMod",
+    "name": "Initial combo",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponClipMaxMod",
+    "name": "Magazine Capacity",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponFireIterationsMod",
+    "name": "Multishot",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponProjectileSpeedMod",
+    "name": "Projectile speed",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponPunctureDepthMod",
+    "name": "Punch Through",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponArmorPiercingDamageMod",
+    "name": "Puncture",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponMeleeRangeIncMod",
+    "name": "Range",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponReloadSpeedMod",
+    "name": "Reload Speed",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponSlashDamageMod",
+    "name": "Slash",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponStunChanceMod",
+    "name": "Status Chance",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponProcTimeMod",
+    "name": "Status Duration",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponToxinDamageMod",
+    "name": "Toxin",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponRecoilReductionMod",
+    "name": "Weapon Recoil",
+    "category": "RivenAttributes"
+  },
+  {
+    "uniqueName": "WF_Special/RivenAttributes/WeaponZoomFovMod",
+    "name": "Zoom",
+    "category": "RivenAttributes"
+  }
+]

@@ -1,0 +1,2 @@
+[2026-06-28 20:10:23] [43605.4627] [ERROR] [LiveScraper:Item:Delete] Failed to delete order with ID 6a40e54d2202c9dc0ace3cc6: Not found: DELETE https://api.warframe.market/v2/order/6a40e54d2202c9dc0ace3cc6, returned status 404, error: API v0.25.0 (request: ["app.order.notFound"]), content: {"apiVersion":"0.25.0","data":null,"error":{"request":["app.order.notFound"]}}
+

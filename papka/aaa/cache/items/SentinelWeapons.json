@@ -1,0 +1,413 @@
+[
+  {
+    "name": "Akaten",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetMeleeWeaponPS",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Akaten",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "akaten"
+  },
+  {
+    "name": "Artax",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/Gremlin",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Artax",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "artax"
+  },
+  {
+    "name": "Batoten",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetMeleeWeaponIP",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Batoten",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "batoten"
+  },
+  {
+    "name": "Burst Laser",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Burst_Laser",
+    "disposition_rank": 5,
+    "disposition": 1.45,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "burst_laser"
+  },
+  {
+    "name": "Burst Laser Prime",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeBurstLaserPistol",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Burst_Laser_Prime",
+    "disposition_rank": 5,
+    "disposition": 1.45,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "burst_laser"
+  },
+  {
+    "name": "Cryotra",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SentinelCryoxionWeaponBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishSaganModuleItem",
+        "name": "Charamote Sagan Module",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem",
+        "name": "Esher Devar",
+        "itemCount": 10,
+        "wfm_item_url": "esher_devar",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishRotobladeItem",
+        "name": "Eye-Eye Rotoblade",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemBCutItem",
+        "name": "Heart Noctrul",
+        "itemCount": 10,
+        "wfm_item_url": "heart_noctrul",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon"
+      }
+    ],
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Cryotra",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "cryotra"
+  },
+  {
+    "name": "Deconstructor",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Deconstructor",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "deconstructor"
+  },
+  {
+    "name": "Deconstructor Prime",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Deconstructor_Prime",
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "deconstructor"
+  },
+  {
+    "name": "Deth Machine Rifle",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/DethMachineRifle",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Deth_Machine_Rifle",
+    "disposition_rank": 5,
+    "disposition": 1.455,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "deth_machine_rifle"
+  },
+  {
+    "name": "Deth Machine Rifle Prime",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeDethMachineRifle",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Deth_Machine_Rifle_Prime",
+    "disposition_rank": 5,
+    "disposition": 1.455,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "deth_machine_rifle"
+  },
+  {
+    "name": "Helstrum",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SwarmerWeaponBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishNeuralRelayItem",
+        "name": "Recaster Neural Relay",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareGemACutItem",
+        "name": "Star Amarast",
+        "itemCount": 10,
+        "wfm_item_url": "star_amarast",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareGemACutAItem",
+        "name": "Star Crimzian",
+        "itemCount": 10,
+        "wfm_item_url": "star_crimzian",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
+        "name": "Synathid Ecosynth Analyzer",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/SwarmerWeapon"
+      }
+    ],
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Helstrum",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "helstrum"
+  },
+  {
+    "name": "Lacerten",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetMeleeWeaponIS",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Lacerten",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "lacerten"
+  },
+  {
+    "name": "Laser Rifle",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/LaserRifle",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Laser_Rifle",
+    "disposition_rank": 4,
+    "disposition": 1.21,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "laser_rifle"
+  },
+  {
+    "name": "Multron",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/HextraWeapon",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Multron",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "multron"
+  },
+  {
+    "name": "Prime Laser Rifle",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeLaserRifle",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Prime_Laser_Rifle",
+    "disposition_rank": 4,
+    "disposition": 1.21,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "laser_rifle"
+  },
+  {
+    "name": "Prisma Burst Laser",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrismaBurstLaserPistol",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wfm_item_url": "prisma_burst_laser",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Prisma_Burst_Laser",
+    "trading_tax": 2000,
+    "disposition_rank": 5,
+    "disposition": 1.45,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "burst_laser"
+  },
+  {
+    "name": "Stinger",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentBioWeapon",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Stinger",
+    "disposition_rank": 5,
+    "disposition": 1.3150001,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "stinger"
+  },
+  {
+    "name": "Sweeper",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentShotgun",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sweeper",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "sweeper"
+  },
+  {
+    "name": "Sweeper Prime",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeSentShotgun",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Sweeper_Prime",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "sweeper"
+  },
+  {
+    "name": "Tazicor",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SentinelTazronWeaponBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonGemBCutAItem",
+        "name": "Esher Devar",
+        "itemCount": 10,
+        "wfm_item_url": "esher_devar",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishLatheCoogulantItem",
+        "name": "Longwinder Lathe Coagulant",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/SolarisFishNeuralRelayItem",
+        "name": "Recaster Neural Relay",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonGemACutItem",
+        "name": "Smooth Phasmin",
+        "itemCount": 10,
+        "wfm_item_url": "smooth_phasmin",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon"
+      }
+    ],
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Tazicor",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "tazicor"
+  },
+  {
+    "name": "Verglas",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentinelFreezeRayRifle",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Verglas",
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "verglas"
+  },
+  {
+    "name": "Verglas Prime",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentinelFreezeRayPrimeRifle",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Verglas_Prime",
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "verglas"
+  },
+  {
+    "name": "Vulcax",
+    "uniqueName": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/SentinelThermocorWeaponBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonGemACutItem",
+        "name": "Goblite Tears",
+        "itemCount": 10,
+        "wfm_item_url": "goblite_tears",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishThermalLaserItem",
+        "name": "Kriller Thermal Laser",
+        "itemCount": 10,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonGemACutAItem",
+        "name": "Marquise Veridos",
+        "itemCount": 10,
+        "wfm_item_url": "marquise_veridos",
+        "tradable": true,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEntroplasmaItem",
+        "name": "Tromyzon Entroplasma",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon"
+      }
+    ],
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Vulcax",
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "vulcax"
+  },
+  {
+    "name": "Vulklok",
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelWeapons/SentElecRailgun",
+    "type": "Companion Weapon",
+    "category": "Primary",
+    "wikiaUrl": "https://wiki.warframe.com/w/Vulklok",
+    "disposition_rank": 4,
+    "disposition": 1.245,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
+    "wfm_riven_url": "vulklok"
+  }
+]

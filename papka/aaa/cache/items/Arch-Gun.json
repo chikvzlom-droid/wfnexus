@@ -1,0 +1,850 @@
+[
+  {
+    "name": "Arbucep",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/NokkoArchGun/NokkoArchGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunBarrelItem",
+        "name": "Barrel",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/NokkoArchGun/NokkoArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/NokkoArchGunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/NokkoArchGun/NokkoArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MushroomJournal/PlainMushroomJournalItem",
+        "name": "Dull Button",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/NokkoArchGun/NokkoArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunReceiverItem",
+        "name": "Receiver",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/NokkoArchGun/NokkoArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/NokkoArchGunStockItem",
+        "name": "Stock",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/NokkoArchGun/NokkoArchGun"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wikiaUrl": "https://wiki.warframe.com/w/Arbucep",
+    "disposition_rank": 1,
+    "disposition": 0.69999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "arbucep"
+  },
+  {
+    "name": "Cortege",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ThanotechArchGunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunBarrelItem",
+        "name": "Cortege Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "cortege_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunReceiverItem",
+        "name": "Cortege Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "cortege_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechArchGunStockItem",
+        "name": "Cortege Stock",
+        "itemCount": 1,
+        "wfm_item_url": "cortege_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchGun/ThanoTechArchGun"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "cortege_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Cortege",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "cortege"
+  },
+  {
+    "name": "Corvas",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchCannonBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "corvas_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchCannonBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchCannonReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "corvas_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchCannonStock",
+        "name": "Stock",
+        "itemCount": 1,
+        "wfm_item_url": "corvas_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "corvas_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Corvas",
+    "trading_tax": 6000,
+    "disposition_rank": 4,
+    "disposition": 1.2,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "corvas"
+  },
+  {
+    "name": "Corvas Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeCorvas/PrimeCorvasWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "corvas_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeCorvas/PrimeCorvasWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/CorvasPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "corvas_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeCorvas/PrimeCorvasWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "corvas_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeCorvas/PrimeCorvasWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/CorvasPrimeStock",
+        "name": "Stock",
+        "itemCount": 1,
+        "wfm_item_url": "corvas_prime_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeCorvas/PrimeCorvasWeapon"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "corvas_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Corvas_Prime",
+    "trading_tax": 8000,
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "corvas"
+  },
+  {
+    "name": "Cyngas",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchBurstGunBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "cyngas_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchBurstGunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchBurstGunReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "cyngas_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchBurstGunStock",
+        "name": "Stock",
+        "itemCount": 1,
+        "wfm_item_url": "cyngas_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
+        "name": "Tellurium",
+        "itemCount": 2
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "cyngas_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Cyngas",
+    "trading_tax": 6000,
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "cyngas"
+  },
+  {
+    "name": "Dual Decurion",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchHeavyPistolsBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHeavyPistolsBarrel",
+        "name": "Decurion Barrel",
+        "itemCount": 2,
+        "wfm_item_url": "decurion_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchHeavyPistolsReceiver",
+        "name": "Decurion Receiver",
+        "itemCount": 2,
+        "wfm_item_url": "decurion_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "dual_decurion_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Dual_Decurion",
+    "trading_tax": 8000,
+    "disposition_rank": 4,
+    "disposition": 1.3,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "dual_decurion"
+  },
+  {
+    "name": "Fluctus",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ArgonCrystal",
+        "name": "Argon Crystal",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRocketCrossbowBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "fluctus_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchRocketCrossbowBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRocketCrossbowStock",
+        "name": "Limbs",
+        "itemCount": 1,
+        "wfm_item_url": "fluctus_limbs",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRocketCrossbowReceiver",
+        "name": "Stock",
+        "itemCount": 1,
+        "wfm_item_url": "fluctus_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "fluctus_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Fluctus",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "fluctus"
+  },
+  {
+    "name": "Grattler",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Weapons/ClanTech/Chemical/ArchGrnAAGunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Forma",
+        "name": "Forma",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OxiumAlloy",
+        "name": "Oxium",
+        "itemCount": 3500
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "itemCount": 6000
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
+        "name": "Tellurium",
+        "itemCount": 5
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wikiaUrl": "https://wiki.warframe.com/w/Grattler",
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "grattler"
+  },
+  {
+    "name": "Imperator",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ImperatorBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
+        "name": "Circuits",
+        "itemCount": 300
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
+        "name": "Ferrite",
+        "itemCount": 1500,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Morphic",
+        "name": "Morphics",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/PolymerBundle",
+        "name": "Polymer Bundle",
+        "itemCount": 150
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wikiaUrl": "https://wiki.warframe.com/w/Imperator",
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "imperator"
+  },
+  {
+    "name": "Imperator Vandal",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ImperatorVandalBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "imperator_vandal_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ImperatorVandalBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "imperator_vandal_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ImperatorVandalReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "imperator_vandal_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
+        "name": "Tellurium",
+        "itemCount": 10
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "imperator_vandal_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Imperator_Vandal",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "imperator"
+  },
+  {
+    "name": "Kuva Ayanga",
+    "uniqueName": "/Lotus/Weapons/Grineer/HeavyWeapons/GrnHeavyGrenadeLauncher",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/KuvaWeapons/GrnHeavyGrenadeLauncherBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/HeavyWeapons/GrnHeavyGrenadeLauncher"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kuva_Ayanga",
+    "disposition_rank": 3,
+    "disposition": 0.94999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "kuva_ayanga"
+  },
+  {
+    "name": "Kuva Grattler",
+    "uniqueName": "/Lotus/Weapons/Grineer/KuvaLich/HeavyWeapons/Grattler/KuvaGrattler",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/KuvaWeapons/KuvaGrattlerBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Grineer/KuvaLich/HeavyWeapons/Grattler/KuvaGrattler"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wikiaUrl": "https://wiki.warframe.com/w/Kuva_Grattler",
+    "disposition_rank": 1,
+    "disposition": 0.69999999,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "grattler"
+  },
+  {
+    "name": "Larkspur",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TnShieldFrameArchGunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidCamperItem",
+        "name": "Crisma Toroid",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisEidolonGemACutItem",
+        "name": "Radiant Zodian",
+        "itemCount": 5,
+        "wfm_item_url": "radiant_zodian",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/OrokinFishEcosynthAnalyzerItem",
+        "name": "Synathid Ecosynth Analyzer",
+        "itemCount": 5,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
+        "name": "Venerdo Alloy",
+        "itemCount": 80,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wikiaUrl": "https://wiki.warframe.com/w/Larkspur",
+    "disposition_rank": 3,
+    "disposition": 1.05,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "larkspur"
+  },
+  {
+    "name": "Larkspur Prime",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeLarkspur/PrimeLarkspurWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LarkspurPrimeBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "larkspur_prime_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeLarkspur/PrimeLarkspurWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/LarkspurPrimeBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "larkspur_prime_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeLarkspur/PrimeLarkspurWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "itemCount": 10
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LarkspurPrimeReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "larkspur_prime_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeLarkspur/PrimeLarkspurWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/LarkspurPrimeStock",
+        "name": "Stock",
+        "itemCount": 1,
+        "wfm_item_url": "larkspur_prime_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/PrimeLarkspur/PrimeLarkspurWeapon"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "larkspur_prime_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Larkspur_Prime",
+    "trading_tax": 8000,
+    "disposition_rank": 2,
+    "disposition": 0.80000001,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "larkspur"
+  },
+  {
+    "name": "Mandonel",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/TnConcreteArchgun/TnConcreteArchgunWeapon",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnConcreteArchgunBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "mandonel_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/TnConcreteArchgun/TnConcreteArchgunWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/TnConcreteArchgunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "wfm_item_url": "mandonel_blueprint",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/TnConcreteArchgun/TnConcreteArchgunWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/EntratiLab/Resources/EntratiLabDogTagRare",
+        "name": "Echo Voca",
+        "itemCount": 2,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/TnConcreteArchgun/TnConcreteArchgunWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnConcreteArchgunReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "mandonel_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/TnConcreteArchgun/TnConcreteArchgunWeapon"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/TnConcreteArchgunStock",
+        "name": "Stock",
+        "itemCount": 1,
+        "wfm_item_url": "mandonel_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/TnConcreteArchgun/TnConcreteArchgunWeapon"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "mandonel_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Mandonel",
+    "trading_tax": 8000,
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "mandonel"
+  },
+  {
+    "name": "Mausolon",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchLongGun/ThanoTechLongGun",
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wikiaUrl": "https://wiki.warframe.com/w/Mausolon",
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "mausolon"
+  },
+  {
+    "name": "Mausolon",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchLongGun/ThanoTechLongGun",
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wikiaUrl": "https://wiki.warframe.com/w/Mausolon",
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "mausolon"
+  },
+  {
+    "name": "Mausolon",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechArchLongGun/ThanoTechLongGun",
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wikiaUrl": "https://wiki.warframe.com/w/Mausolon",
+    "disposition_rank": 1,
+    "disposition": 0.5,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "mausolon"
+  },
+  {
+    "name": "Morgha",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ThanotechGrenadeLauncherBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherBarrelItem",
+        "name": "Morgha Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "morgha_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherReceiverItem",
+        "name": "Morgha Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "morgha_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Gameplay/InfestedMicroplanet/Resources/Mechs/ThanotechGrenadeLauncherStockItem",
+        "name": "Morgha Stock",
+        "itemCount": 1,
+        "wfm_item_url": "morgha_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ThanoTechGrenadeLaunch/ThanoTechGrenadeLauncher"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "morgha_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Morgha",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "morgha"
+  },
+  {
+    "name": "Phaedra",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchLongRifleBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "phaedra_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchLongRifleBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchLongRifleReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "phaedra_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchLongRifleStock",
+        "name": "Stock",
+        "itemCount": 1,
+        "wfm_item_url": "phaedra_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Tellurium",
+        "name": "Tellurium",
+        "itemCount": 2
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "phaedra_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Phaedra",
+    "trading_tax": 6000,
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "phaedra"
+  },
+  {
+    "name": "Prisma Dual Decurions",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/Prisma/PrismaArchHeavyPistols",
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "prisma_dual_decurions",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Prisma_Dual_Decurions",
+    "trading_tax": 2000,
+    "disposition_rank": 4,
+    "disposition": 1.25,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "dual_decurion"
+  },
+  {
+    "name": "Velocitus",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRailgunBarrel",
+        "name": "Barrel",
+        "itemCount": 1,
+        "wfm_item_url": "velocitus_barrel",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/ArchRailgunBlueprint",
+        "name": "Blueprint",
+        "itemCount": 1,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/ControlModule",
+        "name": "Control Module",
+        "itemCount": 2
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRailgunReceiver",
+        "name": "Receiver",
+        "itemCount": 1,
+        "wfm_item_url": "velocitus_receiver",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun"
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/ArchRailgunStock",
+        "name": "Stock",
+        "itemCount": 1,
+        "wfm_item_url": "velocitus_stock",
+        "tradable": true,
+        "part_of_set": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun"
+      }
+    ],
+    "type": "Arch-Gun",
+    "category": "Arch-Gun",
+    "wfm_item_url": "velocitus_set",
+    "tradable": true,
+    "wikiaUrl": "https://wiki.warframe.com/w/Velocitus",
+    "trading_tax": 6000,
+    "disposition_rank": 3,
+    "disposition": 1.1,
+    "upgrade_type": "/Lotus/Upgrades/Mods/Randomized/LotusArchgunRandomModRare",
+    "wfm_riven_url": "velocitus"
+  }
+]

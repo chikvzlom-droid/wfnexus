@@ -1,0 +1,66 @@
+[2026-06-28 11:42:28] ------------------------------------Started-------------------------------------
+[2026-06-28 11:42:28] Processing 2 Lines
+[2026-06-28 11:42:28] Analyzing Line: '14247.119 Sys [Info]: Created /Lotus/Interface/Dialog.swf' | Next: '14247.119 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Status: Combined | Is Irrelevant: true
+[2026-06-28 11:42:28] Trade Time Set: 2026-06-28 11:42:28.909959400 UTC
+[2026-06-28 11:42:28] Calculating Trade | Offered Plat: 0 | Received Plat: 0
+[2026-06-28 11:42:28] Filtered Items | Offered: 0 | Received: 0
+[2026-06-28 11:42:28] Classified Trade as Regular Item-for-Item Trade
+[2026-06-28 11:42:28] Trade Calculation Complete
+[2026-06-28 11:42:28] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-28 11:42:28] ------------------------------------Started-------------------------------------
+[2026-06-28 11:42:28] Processing 5 Lines
+[2026-06-28 11:42:28] Analyzing Line: '14247.119 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Next: 'Primed Reach (LEGENDARY RANK 10)' | Status: Line | Is Irrelevant: true
+[2026-06-28 11:42:28] Analyzing Line: 'Primed Reach (LEGENDARY RANK 10)' | Next: '' | Status: None | Is Irrelevant: false
+[2026-06-28 11:42:28] Valid Item Parsed: TradeItem Raw: Primed Reach (LEGENDARY RANK 10) | Quantity: 1 | Unique Name: /Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeRangeIncModExpert | Sub Type: Rank: 10  | Error: None | Status: Line | Offering? true
+[2026-06-28 11:42:28] Adding New Offered Item: TradeItem Raw: Primed Reach (LEGENDARY RANK 10) | Quantity: 1 | Unique Name: /Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeRangeIncModExpert | Sub Type: Rank: 10  | Error: None
+[2026-06-28 11:42:28] Analyzing Line: '' | Next: 'and will receive from iloveursushi the following:' | Status: None | Is Irrelevant: true
+[2026-06-28 11:42:28] Analyzing Line: 'and will receive from iloveursushi the following:' | Next: 'Platinum x 99, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Status: None | Is Irrelevant: false
+[2026-06-28 11:42:28] Offer Line Detected: 'and will receive from iloveursushi the following:' | Advancing Index
+[2026-06-28 11:42:28] Player Identified: 'iloveursushi', Switching to Receiving Items
+[2026-06-28 11:42:28] Analyzing Line: 'Platinum x 99, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Next: 'N/A' | Status: None | Is Irrelevant: false
+[2026-06-28 11:42:28] Valid Item Parsed: TradeItem Raw: Platinum | Quantity: 99 | Unique Name: Not provided | Sub Type: Not provided | Error: None | Status: Line | Offering? false
+[2026-06-28 11:42:28] Adding New Received Item: TradeItem Raw: Platinum | Quantity: 99 | Unique Name: Not provided | Sub Type: Not provided | Error: None
+[2026-06-28 11:42:28] Trade Time Set: 2026-06-28 11:42:28.932355600 UTC
+[2026-06-28 11:42:28] Calculating Trade | Offered Plat: 0 | Received Plat: 99
+[2026-06-28 11:42:28] Platinum set from Receive: 99
+[2026-06-28 11:42:28] Filtered Items | Offered: 1 | Received: 1
+[2026-06-28 11:42:28] Classified Trade as Sale | Item: Some(TradeItem { raw: "Platinum", quantity: 99, unique_name: "", sub_type: None, item_type: Platinum, error: None, properties: Properties { properties: None } })
+[2026-06-28 11:42:28] Trade Calculation Complete
+[2026-06-28 11:42:28] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-28 11:42:28] Trade Was Successful
+[2026-06-28 11:42:28] Found 1 valid items
+[2026-06-28 11:42:29] WFMClient:HandleWFMItem:Close: Failed to close WFM order | Cause: Not found: POST https://api.warframe.market/v2/order/6a40e54d2202c9dc0ace3cc6/close, returned status 404, Payload: {"quantity":1}, error: API v0.25.0 (request: ["app.order.notFound"]), content: {"apiVersion":"0.25.0","data":null,"error":{"request":["app.order.notFound"]}}
+ | Location: src\handlers\base.rs:63:76 -> src\handlers\stock_item.rs:184:38 -> src\handlers\stock_item.rs:236:34 -> src\log_parser\events\on_trading.rs:666:34 -> src\log_parser\events\on_trading.rs:318:49
+[2026-06-28 11:42:47] ------------------------------------Started-------------------------------------
+[2026-06-28 11:42:47] Processing 2 Lines
+[2026-06-28 11:42:47] Analyzing Line: '14266.067 Sys [Info]: Created /Lotus/Interface/Dialog.swf' | Next: '14266.067 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Status: Combined | Is Irrelevant: true
+[2026-06-28 11:42:47] Trade Time Set: 2026-06-28 11:42:47.597274700 UTC
+[2026-06-28 11:42:47] Calculating Trade | Offered Plat: 0 | Received Plat: 0
+[2026-06-28 11:42:47] Filtered Items | Offered: 0 | Received: 0
+[2026-06-28 11:42:47] Classified Trade as Regular Item-for-Item Trade
+[2026-06-28 11:42:47] Trade Calculation Complete
+[2026-06-28 11:42:47] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-28 11:42:47] ------------------------------------Started-------------------------------------
+[2026-06-28 11:42:47] Processing 5 Lines
+[2026-06-28 11:42:47] Analyzing Line: '14266.067 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Next: 'Primed Reach (LEGENDARY RANK 10)' | Status: Line | Is Irrelevant: true
+[2026-06-28 11:42:47] Analyzing Line: 'Primed Reach (LEGENDARY RANK 10)' | Next: '' | Status: None | Is Irrelevant: false
+[2026-06-28 11:42:47] Valid Item Parsed: TradeItem Raw: Primed Reach (LEGENDARY RANK 10) | Quantity: 1 | Unique Name: /Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeRangeIncModExpert | Sub Type: Rank: 10  | Error: None | Status: Line | Offering? true
+[2026-06-28 11:42:47] Adding New Offered Item: TradeItem Raw: Primed Reach (LEGENDARY RANK 10) | Quantity: 1 | Unique Name: /Lotus/Upgrades/Mods/Melee/Expert/WeaponMeleeRangeIncModExpert | Sub Type: Rank: 10  | Error: None
+[2026-06-28 11:42:47] Analyzing Line: '' | Next: 'and will receive from EverythingPrime the following:' | Status: None | Is Irrelevant: true
+[2026-06-28 11:42:47] Analyzing Line: 'and will receive from EverythingPrime the following:' | Next: 'Platinum x 99, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Status: None | Is Irrelevant: false
+[2026-06-28 11:42:47] Offer Line Detected: 'and will receive from EverythingPrime the following:' | Advancing Index
+[2026-06-28 11:42:47] Player Identified: 'EverythingPrime', Switching to Receiving Items
+[2026-06-28 11:42:47] Analyzing Line: 'Platinum x 99, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Next: 'N/A' | Status: None | Is Irrelevant: false
+[2026-06-28 11:42:47] Valid Item Parsed: TradeItem Raw: Platinum | Quantity: 99 | Unique Name: Not provided | Sub Type: Not provided | Error: None | Status: Line | Offering? false
+[2026-06-28 11:42:47] Adding New Received Item: TradeItem Raw: Platinum | Quantity: 99 | Unique Name: Not provided | Sub Type: Not provided | Error: None
+[2026-06-28 11:42:47] Trade Time Set: 2026-06-28 11:42:47.606904200 UTC
+[2026-06-28 11:42:47] Calculating Trade | Offered Plat: 0 | Received Plat: 99
+[2026-06-28 11:42:47] Platinum set from Receive: 99
+[2026-06-28 11:42:47] Filtered Items | Offered: 1 | Received: 1
+[2026-06-28 11:42:47] Classified Trade as Sale | Item: Some(TradeItem { raw: "Platinum", quantity: 99, unique_name: "", sub_type: None, item_type: Platinum, error: None, properties: Properties { properties: None } })
+[2026-06-28 11:42:47] Trade Calculation Complete
+[2026-06-28 11:42:47] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-28 11:42:47] Trade Was Successful
+[2026-06-28 11:42:47] Found 1 valid items
+[2026-06-28 11:42:47] WFMClient:HandleWFMItem:Close: Failed to close WFM order | Cause: Not found: POST https://api.warframe.market/v2/order/6a40e54d2202c9dc0ace3cc6/close, returned status 404, Payload: {"quantity":1}, error: API v0.25.0 (request: ["app.order.notFound"]), content: {"apiVersion":"0.25.0","data":null,"error":{"request":["app.order.notFound"]}}
+ | Location: src\handlers\base.rs:63:76 -> src\handlers\stock_item.rs:184:38 -> src\handlers\stock_item.rs:236:34 -> src\log_parser\events\on_trading.rs:666:34 -> src\log_parser\events\on_trading.rs:318:49

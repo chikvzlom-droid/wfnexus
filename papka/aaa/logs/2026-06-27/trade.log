@@ -1,0 +1,192 @@
+[2026-06-27 07:22:25] ------------------------------------Started-------------------------------------
+[2026-06-27 07:22:25] Processing 2 Lines
+[2026-06-27 07:22:25] Analyzing Line: '261.579 Sys [Info]: Created /Lotus/Interface/Dialog.swf' | Next: '261.580 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Status: Combined | Is Irrelevant: true
+[2026-06-27 07:22:25] Trade Time Set: 2026-06-27 07:22:25.701457800 UTC
+[2026-06-27 07:22:25] Calculating Trade | Offered Plat: 0 | Received Plat: 0
+[2026-06-27 07:22:25] Filtered Items | Offered: 0 | Received: 0
+[2026-06-27 07:22:25] Classified Trade as Regular Item-for-Item Trade
+[2026-06-27 07:22:25] Trade Calculation Complete
+[2026-06-27 07:22:25] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 07:22:25] ------------------------------------Started-------------------------------------
+[2026-06-27 07:22:25] Processing 5 Lines
+[2026-06-27 07:22:25] Analyzing Line: '261.580 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Next: 'Voruna Prime Systems Blueprint' | Status: Line | Is Irrelevant: true
+[2026-06-27 07:22:25] Analyzing Line: 'Voruna Prime Systems Blueprint' | Next: '' | Status: None | Is Irrelevant: false
+[2026-06-27 07:22:25] Valid Item Parsed: TradeItem Raw: Voruna Prime Systems Blueprint | Quantity: 1 | Unique Name: /Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeSystemsComponent | Sub Type: Not provided | Error: None | Status: Line | Offering? true
+[2026-06-27 07:22:25] Adding New Offered Item: TradeItem Raw: Voruna Prime Systems Blueprint | Quantity: 1 | Unique Name: /Lotus/Types/Recipes/WarframeRecipes/VorunaPrimeSystemsComponent | Sub Type: Not provided | Error: None
+[2026-06-27 07:22:25] Analyzing Line: '' | Next: 'and will receive from Miluxp the following:' | Status: None | Is Irrelevant: true
+[2026-06-27 07:22:25] Analyzing Line: 'and will receive from Miluxp the following:' | Next: 'Platinum x 10, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Status: None | Is Irrelevant: false
+[2026-06-27 07:22:25] Offer Line Detected: 'and will receive from Miluxp the following:' | Advancing Index
+[2026-06-27 07:22:25] Player Identified: 'Miluxp', Switching to Receiving Items
+[2026-06-27 07:22:25] Analyzing Line: 'Platinum x 10, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Next: 'N/A' | Status: None | Is Irrelevant: false
+[2026-06-27 07:22:25] Valid Item Parsed: TradeItem Raw: Platinum | Quantity: 10 | Unique Name: Not provided | Sub Type: Not provided | Error: None | Status: Line | Offering? false
+[2026-06-27 07:22:25] Adding New Received Item: TradeItem Raw: Platinum | Quantity: 10 | Unique Name: Not provided | Sub Type: Not provided | Error: None
+[2026-06-27 07:22:25] Trade Time Set: 2026-06-27 07:22:25.722400500 UTC
+[2026-06-27 07:22:25] Calculating Trade | Offered Plat: 0 | Received Plat: 10
+[2026-06-27 07:22:25] Platinum set from Receive: 10
+[2026-06-27 07:22:25] Filtered Items | Offered: 1 | Received: 1
+[2026-06-27 07:22:25] Classified Trade as Sale | Item: Some(TradeItem { raw: "Platinum", quantity: 10, unique_name: "", sub_type: None, item_type: Platinum, error: None, properties: Properties { properties: None } })
+[2026-06-27 07:22:25] Trade Calculation Complete
+[2026-06-27 07:22:25] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 07:22:25] Trade Was Successful
+[2026-06-27 07:22:25] Found 1 valid items
+[2026-06-27 07:22:25] Trade Processed: AutoTrade, Found, Quantity: 1, WishListItemBought_NotFound, EarlyReturnFlagTriggered, ItemSell_NotFound, SkippedWFMCheck
+[2026-06-27 07:31:20] ------------------------------------Started-------------------------------------
+[2026-06-27 07:31:20] Processing 2 Lines
+[2026-06-27 07:31:20] Analyzing Line: '795.729 Sys [Info]: Created /Lotus/Interface/Dialog.swf' | Next: '795.730 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Status: Combined | Is Irrelevant: true
+[2026-06-27 07:31:20] Trade Time Set: 2026-06-27 07:31:20.518632700 UTC
+[2026-06-27 07:31:20] Calculating Trade | Offered Plat: 0 | Received Plat: 0
+[2026-06-27 07:31:20] Filtered Items | Offered: 0 | Received: 0
+[2026-06-27 07:31:20] Classified Trade as Regular Item-for-Item Trade
+[2026-06-27 07:31:20] Trade Calculation Complete
+[2026-06-27 07:31:20] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 07:31:20] ------------------------------------Started-------------------------------------
+[2026-06-27 07:31:20] Processing 5 Lines
+[2026-06-27 07:31:20] Analyzing Line: '795.730 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Next: 'Ninkondi Prime Handle' | Status: Line | Is Irrelevant: true
+[2026-06-27 07:31:20] Analyzing Line: 'Ninkondi Prime Handle' | Next: '' | Status: None | Is Irrelevant: false
+[2026-06-27 07:31:20] Valid Item Parsed: TradeItem Raw: Ninkondi Prime Handle | Quantity: 1 | Unique Name: /Lotus/Types/Recipes/Weapons/WeaponParts/NinkondiPrimeHandle | Sub Type: Not provided | Error: None | Status: Line | Offering? true
+[2026-06-27 07:31:20] Adding New Offered Item: TradeItem Raw: Ninkondi Prime Handle | Quantity: 1 | Unique Name: /Lotus/Types/Recipes/Weapons/WeaponParts/NinkondiPrimeHandle | Sub Type: Not provided | Error: None
+[2026-06-27 07:31:20] Analyzing Line: '' | Next: 'and will receive from ling.yun.jie the following:' | Status: None | Is Irrelevant: true
+[2026-06-27 07:31:20] Analyzing Line: 'and will receive from ling.yun.jie the following:' | Next: 'Platinum x 17, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Status: None | Is Irrelevant: false
+[2026-06-27 07:31:20] Offer Line Detected: 'and will receive from ling.yun.jie the following:' | Advancing Index
+[2026-06-27 07:31:20] Player Identified: 'lingyunjie', Switching to Receiving Items
+[2026-06-27 07:31:20] Analyzing Line: 'Platinum x 17, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Next: 'N/A' | Status: None | Is Irrelevant: false
+[2026-06-27 07:31:20] Valid Item Parsed: TradeItem Raw: Platinum | Quantity: 17 | Unique Name: Not provided | Sub Type: Not provided | Error: None | Status: Line | Offering? false
+[2026-06-27 07:31:20] Adding New Received Item: TradeItem Raw: Platinum | Quantity: 17 | Unique Name: Not provided | Sub Type: Not provided | Error: None
+[2026-06-27 07:31:20] Trade Time Set: 2026-06-27 07:31:20.527591400 UTC
+[2026-06-27 07:31:20] Calculating Trade | Offered Plat: 0 | Received Plat: 17
+[2026-06-27 07:31:20] Platinum set from Receive: 17
+[2026-06-27 07:31:20] Filtered Items | Offered: 1 | Received: 1
+[2026-06-27 07:31:20] Classified Trade as Sale | Item: Some(TradeItem { raw: "Platinum", quantity: 17, unique_name: "", sub_type: None, item_type: Platinum, error: None, properties: Properties { properties: None } })
+[2026-06-27 07:31:20] Trade Calculation Complete
+[2026-06-27 07:31:20] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 07:31:20] Trade Was Successful
+[2026-06-27 07:31:20] Found 1 valid items
+[2026-06-27 07:31:21] Trade Processed: AutoTrade, Found, Quantity: 1, WishListItemBought_NotFound, EarlyReturnFlagTriggered, ItemSell_Deleted, WFMItem_Closed, Name: Ninkondi Prime Handle
+[2026-06-27 08:22:30] ------------------------------------Started-------------------------------------
+[2026-06-27 08:22:30] Processing 2 Lines
+[2026-06-27 08:22:30] Analyzing Line: '3864.305 Sys [Info]: Created /Lotus/Interface/Dialog.swf' | Next: '3864.305 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Status: Combined | Is Irrelevant: true
+[2026-06-27 08:22:30] Trade Time Set: 2026-06-27 08:22:30.422564500 UTC
+[2026-06-27 08:22:30] Calculating Trade | Offered Plat: 0 | Received Plat: 0
+[2026-06-27 08:22:30] Filtered Items | Offered: 0 | Received: 0
+[2026-06-27 08:22:30] Classified Trade as Regular Item-for-Item Trade
+[2026-06-27 08:22:30] Trade Calculation Complete
+[2026-06-27 08:22:30] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 08:22:30] ------------------------------------Started-------------------------------------
+[2026-06-27 08:22:30] Processing 5 Lines
+[2026-06-27 08:22:30] Analyzing Line: '3864.305 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Next: 'Arcane Sculptor ' | Status: Line | Is Irrelevant: true
+[2026-06-27 08:22:30] Analyzing Line: 'Arcane Sculptor ' | Next: '' | Status: None | Is Irrelevant: false
+[2026-06-27 08:22:30] Valid Item Parsed: TradeItem Raw: Arcane Sculptor  | Quantity: 1 | Unique Name: /WF_Special/Other/Arcane Sculptor | Sub Type: Rank: 5  | Error: None | Status: Line | Offering? true
+[2026-06-27 08:22:30] Adding New Offered Item: TradeItem Raw: Arcane Sculptor  | Quantity: 1 | Unique Name: /WF_Special/Other/Arcane Sculptor | Sub Type: Rank: 5  | Error: None
+[2026-06-27 08:22:30] Analyzing Line: '' | Next: 'and will receive from qsgrtxvf the following:' | Status: None | Is Irrelevant: true
+[2026-06-27 08:22:30] Analyzing Line: 'and will receive from qsgrtxvf the following:' | Next: 'Platinum x 141, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Status: None | Is Irrelevant: false
+[2026-06-27 08:22:30] Offer Line Detected: 'and will receive from qsgrtxvf the following:' | Advancing Index
+[2026-06-27 08:22:30] Player Identified: 'qsgrtxvf', Switching to Receiving Items
+[2026-06-27 08:22:30] Analyzing Line: 'Platinum x 141, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Next: 'N/A' | Status: None | Is Irrelevant: false
+[2026-06-27 08:22:30] Valid Item Parsed: TradeItem Raw: Platinum | Quantity: 141 | Unique Name: Not provided | Sub Type: Not provided | Error: None | Status: Line | Offering? false
+[2026-06-27 08:22:30] Adding New Received Item: TradeItem Raw: Platinum | Quantity: 141 | Unique Name: Not provided | Sub Type: Not provided | Error: None
+[2026-06-27 08:22:30] Trade Time Set: 2026-06-27 08:22:30.434034 UTC
+[2026-06-27 08:22:30] Calculating Trade | Offered Plat: 0 | Received Plat: 141
+[2026-06-27 08:22:30] Platinum set from Receive: 141
+[2026-06-27 08:22:30] Filtered Items | Offered: 1 | Received: 1
+[2026-06-27 08:22:30] Classified Trade as Sale | Item: Some(TradeItem { raw: "Platinum", quantity: 141, unique_name: "", sub_type: None, item_type: Platinum, error: None, properties: Properties { properties: None } })
+[2026-06-27 08:22:30] Trade Calculation Complete
+[2026-06-27 08:22:30] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 08:22:30] Trade Was Successful
+[2026-06-27 08:22:30] Found 1 valid items
+[2026-06-27 08:22:30] Trade Processed: AutoTrade, Found, Quantity: 1, WishListItemBought_NotFound, EarlyReturnFlagTriggered, ItemSell_NotFound, SkippedWFMCheck
+[2026-06-27 09:52:18] ------------------------------------Started-------------------------------------
+[2026-06-27 09:52:18] Processing 2 Lines
+[2026-06-27 09:52:18] Analyzing Line: '473.887 Sys [Info]: Created /Lotus/Interface/Dialog.swf' | Next: '473.887 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Status: Combined | Is Irrelevant: true
+[2026-06-27 09:52:18] Trade Time Set: 2026-06-27 09:52:18.976375 UTC
+[2026-06-27 09:52:18] Calculating Trade | Offered Plat: 0 | Received Plat: 0
+[2026-06-27 09:52:18] Filtered Items | Offered: 0 | Received: 0
+[2026-06-27 09:52:18] Classified Trade as Regular Item-for-Item Trade
+[2026-06-27 09:52:18] Trade Calculation Complete
+[2026-06-27 09:52:18] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 09:52:18] ------------------------------------Started-------------------------------------
+[2026-06-27 09:52:18] Processing 5 Lines
+[2026-06-27 09:52:18] Analyzing Line: '473.887 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Next: 'Garuda Prime Neuroptics Blueprint' | Status: Line | Is Irrelevant: true
+[2026-06-27 09:52:18] Analyzing Line: 'Garuda Prime Neuroptics Blueprint' | Next: '' | Status: None | Is Irrelevant: false
+[2026-06-27 09:52:18] Valid Item Parsed: TradeItem Raw: Garuda Prime Neuroptics Blueprint | Quantity: 1 | Unique Name: /Lotus/Types/Recipes/WarframeRecipes/GarudaPrimeHelmetComponent | Sub Type: Not provided | Error: None | Status: Line | Offering? true
+[2026-06-27 09:52:18] Adding New Offered Item: TradeItem Raw: Garuda Prime Neuroptics Blueprint | Quantity: 1 | Unique Name: /Lotus/Types/Recipes/WarframeRecipes/GarudaPrimeHelmetComponent | Sub Type: Not provided | Error: None
+[2026-06-27 09:52:18] Analyzing Line: '' | Next: 'and will receive from luolixing the following:' | Status: None | Is Irrelevant: true
+[2026-06-27 09:52:18] Analyzing Line: 'and will receive from luolixing the following:' | Next: 'Platinum x 33, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Status: None | Is Irrelevant: false
+[2026-06-27 09:52:18] Offer Line Detected: 'and will receive from luolixing the following:' | Advancing Index
+[2026-06-27 09:52:18] Player Identified: 'luolixing', Switching to Receiving Items
+[2026-06-27 09:52:18] Analyzing Line: 'Platinum x 33, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Next: 'N/A' | Status: None | Is Irrelevant: false
+[2026-06-27 09:52:18] Valid Item Parsed: TradeItem Raw: Platinum | Quantity: 33 | Unique Name: Not provided | Sub Type: Not provided | Error: None | Status: Line | Offering? false
+[2026-06-27 09:52:18] Adding New Received Item: TradeItem Raw: Platinum | Quantity: 33 | Unique Name: Not provided | Sub Type: Not provided | Error: None
+[2026-06-27 09:52:18] Trade Time Set: 2026-06-27 09:52:18.985471200 UTC
+[2026-06-27 09:52:18] Calculating Trade | Offered Plat: 0 | Received Plat: 33
+[2026-06-27 09:52:18] Platinum set from Receive: 33
+[2026-06-27 09:52:18] Filtered Items | Offered: 1 | Received: 1
+[2026-06-27 09:52:18] Classified Trade as Sale | Item: Some(TradeItem { raw: "Platinum", quantity: 33, unique_name: "", sub_type: None, item_type: Platinum, error: None, properties: Properties { properties: None } })
+[2026-06-27 09:52:18] Trade Calculation Complete
+[2026-06-27 09:52:18] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 09:52:18] Trade Was Successful
+[2026-06-27 09:52:18] Found 1 valid items
+[2026-06-27 09:52:19] Trade Processed: AutoTrade, Found, Quantity: 1, WishListItemBought_NotFound, EarlyReturnFlagTriggered, ItemSell_Deleted, WFMItem_Closed, Name: Garuda Prime Neuroptics Blueprint
+[2026-06-27 10:15:54] ------------------------------------Started-------------------------------------
+[2026-06-27 10:15:54] Processing 2 Lines
+[2026-06-27 10:15:54] Analyzing Line: '1888.445 Sys [Info]: Created /Lotus/Interface/Dialog.swf' | Next: '1888.446 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Status: Combined | Is Irrelevant: true
+[2026-06-27 10:15:54] Trade Time Set: 2026-06-27 10:15:54.841999100 UTC
+[2026-06-27 10:15:54] Calculating Trade | Offered Plat: 0 | Received Plat: 0
+[2026-06-27 10:15:54] Filtered Items | Offered: 0 | Received: 0
+[2026-06-27 10:15:54] Classified Trade as Regular Item-for-Item Trade
+[2026-06-27 10:15:54] Trade Calculation Complete
+[2026-06-27 10:15:54] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 10:15:54] ------------------------------------Started-------------------------------------
+[2026-06-27 10:15:54] Processing 5 Lines
+[2026-06-27 10:15:54] Analyzing Line: '1888.446 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Next: 'Caliban Prime Systems Blueprint' | Status: Line | Is Irrelevant: true
+[2026-06-27 10:15:54] Analyzing Line: 'Caliban Prime Systems Blueprint' | Next: '' | Status: None | Is Irrelevant: false
+[2026-06-27 10:15:54] Valid Item Parsed: TradeItem Raw: Caliban Prime Systems Blueprint | Quantity: 1 | Unique Name: /Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeSystemsComponent | Sub Type: Not provided | Error: None | Status: Line | Offering? true
+[2026-06-27 10:15:54] Adding New Offered Item: TradeItem Raw: Caliban Prime Systems Blueprint | Quantity: 1 | Unique Name: /Lotus/Types/Recipes/WarframeRecipes/CalibanPrimeSystemsComponent | Sub Type: Not provided | Error: None
+[2026-06-27 10:15:54] Analyzing Line: '' | Next: 'and will receive from Hippified the following:' | Status: None | Is Irrelevant: true
+[2026-06-27 10:15:54] Analyzing Line: 'and will receive from Hippified the following:' | Next: 'Platinum x 30, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Status: None | Is Irrelevant: false
+[2026-06-27 10:15:54] Offer Line Detected: 'and will receive from Hippified the following:' | Advancing Index
+[2026-06-27 10:15:54] Player Identified: 'Hippified', Switching to Receiving Items
+[2026-06-27 10:15:54] Analyzing Line: 'Platinum x 30, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Next: 'N/A' | Status: None | Is Irrelevant: false
+[2026-06-27 10:15:54] Valid Item Parsed: TradeItem Raw: Platinum | Quantity: 30 | Unique Name: Not provided | Sub Type: Not provided | Error: None | Status: Line | Offering? false
+[2026-06-27 10:15:54] Adding New Received Item: TradeItem Raw: Platinum | Quantity: 30 | Unique Name: Not provided | Sub Type: Not provided | Error: None
+[2026-06-27 10:15:54] Trade Time Set: 2026-06-27 10:15:54.852148700 UTC
+[2026-06-27 10:15:54] Calculating Trade | Offered Plat: 0 | Received Plat: 30
+[2026-06-27 10:15:54] Platinum set from Receive: 30
+[2026-06-27 10:15:54] Filtered Items | Offered: 1 | Received: 1
+[2026-06-27 10:15:54] Classified Trade as Sale | Item: Some(TradeItem { raw: "Platinum", quantity: 30, unique_name: "", sub_type: None, item_type: Platinum, error: None, properties: Properties { properties: None } })
+[2026-06-27 10:15:54] Trade Calculation Complete
+[2026-06-27 10:15:54] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 10:15:54] Trade Was Successful
+[2026-06-27 10:15:54] Found 1 valid items
+[2026-06-27 10:15:54] Trade Processed: AutoTrade, Found, Quantity: 1, WishListItemBought_NotFound, EarlyReturnFlagTriggered, ItemSell_NotFound, SkippedWFMCheck
+[2026-06-27 10:23:35] ------------------------------------Started-------------------------------------
+[2026-06-27 10:23:35] Processing 2 Lines
+[2026-06-27 10:23:35] Analyzing Line: '2349.934 Sys [Info]: Created /Lotus/Interface/Dialog.swf' | Next: '2349.934 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Status: Combined | Is Irrelevant: true
+[2026-06-27 10:23:35] Trade Time Set: 2026-06-27 10:23:35.318100400 UTC
+[2026-06-27 10:23:35] Calculating Trade | Offered Plat: 0 | Received Plat: 0
+[2026-06-27 10:23:35] Filtered Items | Offered: 0 | Received: 0
+[2026-06-27 10:23:35] Classified Trade as Regular Item-for-Item Trade
+[2026-06-27 10:23:35] Trade Calculation Complete
+[2026-06-27 10:23:35] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 10:23:35] ------------------------------------Started-------------------------------------
+[2026-06-27 10:23:35] Processing 5 Lines
+[2026-06-27 10:23:35] Analyzing Line: '2349.934 Script [Info]: Dialog.lua: Dialog::CreateOkCancel(description=Are you sure you want to accept this trade? You are offering:' | Next: 'Harrow Prime Systems Blueprint' | Status: Line | Is Irrelevant: true
+[2026-06-27 10:23:35] Analyzing Line: 'Harrow Prime Systems Blueprint' | Next: '' | Status: None | Is Irrelevant: false
+[2026-06-27 10:23:35] Valid Item Parsed: TradeItem Raw: Harrow Prime Systems Blueprint | Quantity: 1 | Unique Name: /Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeSystemsComponent | Sub Type: Not provided | Error: None | Status: Line | Offering? true
+[2026-06-27 10:23:35] Adding New Offered Item: TradeItem Raw: Harrow Prime Systems Blueprint | Quantity: 1 | Unique Name: /Lotus/Types/Recipes/WarframeRecipes/HarrowPrimeSystemsComponent | Sub Type: Not provided | Error: None
+[2026-06-27 10:23:35] Analyzing Line: '' | Next: 'and will receive from younkioure the following:' | Status: None | Is Irrelevant: true
+[2026-06-27 10:23:35] Analyzing Line: 'and will receive from younkioure the following:' | Next: 'Platinum x 29, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Status: None | Is Irrelevant: false
+[2026-06-27 10:23:35] Offer Line Detected: 'and will receive from younkioure the following:' | Advancing Index
+[2026-06-27 10:23:35] Player Identified: 'younkioure', Switching to Receiving Items
+[2026-06-27 10:23:35] Analyzing Line: 'Platinum x 29, title= leftItem=/Menu/Confirm_Item_Ok, rightItem=/Menu/Confirm_Item_Cancel)' | Next: 'N/A' | Status: None | Is Irrelevant: false
+[2026-06-27 10:23:35] Valid Item Parsed: TradeItem Raw: Platinum | Quantity: 29 | Unique Name: Not provided | Sub Type: Not provided | Error: None | Status: Line | Offering? false
+[2026-06-27 10:23:35] Adding New Received Item: TradeItem Raw: Platinum | Quantity: 29 | Unique Name: Not provided | Sub Type: Not provided | Error: None
+[2026-06-27 10:23:35] Trade Time Set: 2026-06-27 10:23:35.328539400 UTC
+[2026-06-27 10:23:35] Calculating Trade | Offered Plat: 0 | Received Plat: 29
+[2026-06-27 10:23:35] Platinum set from Receive: 29
+[2026-06-27 10:23:35] Filtered Items | Offered: 1 | Received: 1
+[2026-06-27 10:23:35] Classified Trade as Sale | Item: Some(TradeItem { raw: "Platinum", quantity: 29, unique_name: "", sub_type: None, item_type: Platinum, error: None, properties: Properties { properties: None } })
+[2026-06-27 10:23:35] Trade Calculation Complete
+[2026-06-27 10:23:35] Waiting For Confirmation/Trade Failed/Trade Cancelled
+[2026-06-27 10:23:35] Trade Was Successful
+[2026-06-27 10:23:35] Found 1 valid items
+[2026-06-27 10:23:35] Trade Processed: AutoTrade, Found, Quantity: 1, WishListItemBought_NotFound, EarlyReturnFlagTriggered, ItemSell_Deleted, WFMItem_Closed, Name: Harrow Prime Systems Blueprint
