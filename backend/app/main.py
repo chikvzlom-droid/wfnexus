@@ -29,6 +29,7 @@ DEV_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:5173",
     "tauri://localhost",
+    "https://tauri.localhost",
 ]
 
 
