@@ -39,8 +39,8 @@ export default function Layout() {
               WARFRAME <span className="text-wf-primary">NEXUS</span>
             </h1>
           </div>
-          <div className="flex items-center gap-1">
-            <nav className="flex gap-1">
+          <div className="flex items-center gap-1 overflow-hidden">
+            <nav className="flex gap-1 overflow-x-auto scrollbar-none">
               {navItems.map(({ to, icon: Icon, key }) => (
                 <NavLink
                   key={to}
